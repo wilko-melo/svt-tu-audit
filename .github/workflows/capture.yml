@@ -1,0 +1,52 @@
+name: SVT capture
+
+on:
+  schedule:
+    # every 4 hours; window/date logic lives in the script (Europe/Stockholm)
+    - cron: "5 */4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: svt-capture
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet google-api-python-client google-auth beautifulsoup4
+
+      - name: Write service-account key
+        run: printf '%s' "$GCP_SA_KEY" > /tmp/sa_key.json
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Snapshot + ingest + push to sheet
+        run: bash bin/gha_capture.sh
+        env:
+          SVT_BASE: ${{ github.workspace }}
+          SVT_SA_KEY: /tmp/sa_key.json
+
+      - name: Commit state, snapshots and page cache
+        run: |
+          git config user.name "svt-capture-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A snapshots html state.json video_cache.json
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "capture $(TZ=Europe/Stockholm date '+%Y-%m-%d %H:%M %Z')"
+            git pull --rebase origin main
+            git push origin main
+          fi

@@ -1,0 +1,10 @@
+logs/
+.last_ingest
+.sa_key.json
+probe_videopage.html
+rss_probe.xml
+changed_rows.json
+verify_args.json
+verify_sample.json
+*.xlsx
+.DS_Store
