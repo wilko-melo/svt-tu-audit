@@ -355,9 +355,27 @@ def make_row(n, rec):
 
 def push(state, dates):
     svc = sheet_service()
+    # adopt rows that already exist on the sheet (self-healing after a crashed
+    # run that wrote rows but lost its state) — keyed by column X (article URL)
+    xs = svc.spreadsheets().values().get(
+        spreadsheetId=SHEET_ID, range="Raw data!X1:X100000").execute(num_retries=5)
+    adopted = 0
+    last_used = 2
+    for i, row in enumerate(xs.get("values", [])):
+        n = i + 1
+        url = row[0] if row else ""
+        if url:
+            last_used = max(last_used, n)
+            rec = state.get(url)
+            if rec is not None and not rec.get("sheet_row"):
+                rec["sheet_row"] = n
+                rec["needs_row_update"] = True  # rewrite with our own extract
+                adopted += 1
+    if adopted:
+        print(f"push: adopted {adopted} rows already on the sheet")
     got = svc.spreadsheets().values().get(
-        spreadsheetId=SHEET_ID, range="Raw data!A:A").execute()
-    next_row = len(got.get("values", [])) + 1
+        spreadsheetId=SHEET_ID, range="Raw data!A:A").execute(num_retries=5)
+    next_row = max(len(got.get("values", [])), last_used) + 1
     todo = sorted(
         (u for u, r in state.items()
          if r.get("extract") and not r.get("sheet_row")
@@ -375,7 +393,7 @@ def push(state, dates):
         spreadsheetId=SHEET_ID,
         range=f"Raw data!A{next_row}",
         valueInputOption="USER_ENTERED",
-        body={"values": rows}).execute()
+        body={"values": rows}).execute(num_retries=5)
     for u, n in assigned:
         state[u]["sheet_row"] = n
     print(f"push: wrote {len(rows)} rows at A{next_row}")
@@ -392,7 +410,7 @@ def sync_updates(state):
              "values": [make_row(r["sheet_row"], r)]} for r in todo]
     svc.spreadsheets().values().batchUpdate(
         spreadsheetId=SHEET_ID,
-        body={"valueInputOption": "USER_ENTERED", "data": data}).execute()
+        body={"valueInputOption": "USER_ENTERED", "data": data}).execute(num_retries=5)
     for r in todo:
         r.pop("needs_row_update", None)
     print(f"push: refreshed {len(data)} updated rows")
@@ -467,7 +485,12 @@ def main():
 
     if args.push:
         push(state, set(args.dates))
-        sync_updates(state)
+        save_json(STATE_PATH, state)
+        try:
+            sync_updates(state)
+        except Exception as err:
+            print(f"sync_updates failed, rows stay flagged for next run: {err}",
+                  file=sys.stderr)
         save_json(STATE_PATH, state)
 
 

@@ -8,3 +8,5 @@ verify_args.json
 verify_sample.json
 *.xlsx
 .DS_Store
+__pycache__/
+*.pyc
