@@ -19,19 +19,19 @@
  "https://www.svt.se/kultur/gangledare-doms-for-mordet-pa-tupac": {
   "url": "https://www.svt.se/kultur/gangledare-doms-for-mordet-pa-tupac",
   "pubdate": "2026-09-01T02:23:33+02:00",
-  "lastmod": "2026-09-01T07:26:04+02:00",
+  "lastmod": "2026-09-01T23:10:12+02:00",
   "sitemap_title": "Domen: Duane ”Keffe D” beställde mordet på Tupac",
   "tab": "Kultur",
-  "fetched_at": "2026-09-01T20:23:58.051354+02:00",
-  "html_path": "/Users/wilkokramer/svt-tu-2026/html/kultur__gangledare-doms-for-mordet-pa-tupac.html",
+  "fetched_at": "2026-09-02T05:22:43.832267+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/kultur__gangledare-doms-for-mordet-pa-tupac.html",
   "sheet_row": 3,
   "extract": {
    "body": "Den tidigare gängledaren Duane ”Keffe D” Davis döms för att ha beordrat mordet på rapparen Tupac Shakur.\nTupac Shakur mördades för 30 år sedan i en drive-by-skjutning i Las Vegas. Han blev bara 25 år gammal.\nTrolig hämndaktion\nNu döms Duane ”Keffe D” Davis för att ha beställt mordet på honom. Davis riskerar livstids fängelse. Men först den 13 oktober kommer straffpåföljden tillkännages.\nÅklagaren i målet har tidigare hävdat att Shakur mördades i en gängrelaterad hämndaktion och på 90-talet var Davis gängledare.\nMotivet ska ha varit att Davis brorson blivit utsatt för en förödmjukande misshandel av ett rivaliserande gäng, vilket Tupac Shakur var en del av. Två och en halv timme senare sköts rapparen till döds.\nErkänt i självbiografi\nDavis har upprepade gånger genom åren erkänt sin del i mordet i olika intervjuer och i sin självbiografi. Men enligt hans advokater var det som skrevs uppdiktat och Davis har förnekat alla anklagelser under rättegången.",
    "videos": [
     {
-     "svtId": "KPBAvdg",
-     "duration": 100,
-     "title": "Rättegång inleds mot 60-årig man",
+     "svtId": "KDvankz",
+     "duration": 29,
+     "title": "Duane Davis döms för mordet på Tupac Shakur",
      "svtplay": true
     }
    ],
@@ -4049,10 +4049,10 @@
  "https://www.svt.se/nyheter/lokalt/helsingborg/tva-barn-till-sjukhus-fick-kontakt-med-fratande-amne": {
   "url": "https://www.svt.se/nyheter/lokalt/helsingborg/tva-barn-till-sjukhus-fick-kontakt-med-fratande-amne",
   "pubdate": "2026-09-01T20:18:05+02:00",
-  "lastmod": "2026-09-01T21:30:13+02:00",
+  "lastmod": "2026-09-01T23:13:47+02:00",
   "sitemap_title": "Två barn vårdas på sjukhus med frätskador",
   "tab": "Lokalt/Helsingborg",
-  "fetched_at": "2026-09-01T22:12:13.223981+02:00",
+  "fetched_at": "2026-09-02T05:22:50.665791+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__helsingborg__tva-barn-till-sjukhus-fick-kontakt-med-fratande-amne.html",
   "sheet_row": 166,
   "extract": {
@@ -4150,13 +4150,13 @@
  "https://www.svt.se/nyheter/lokalt/helsingborg/traktor-och-personbil-kolliderade-tva-personer-till-sjukhus": {
   "url": "https://www.svt.se/nyheter/lokalt/helsingborg/traktor-och-personbil-kolliderade-tva-personer-till-sjukhus",
   "pubdate": "2026-09-01T21:03:42+02:00",
-  "lastmod": "2026-09-01T21:37:41+02:00",
+  "lastmod": "2026-09-01T23:13:52+02:00",
   "sitemap_title": "Traktor och personbil kolliderade – två personer till sjukhus",
   "tab": "Lokalt/Helsingborg",
-  "fetched_at": "2026-09-01T22:12:11.960523+02:00",
+  "fetched_at": "2026-09-02T05:22:46.779787+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__helsingborg__traktor-och-personbil-kolliderade-tva-personer-till-sjukhus.html",
   "extract": {
-   "body": "En traktor och en personbil har krockat på riksväg 17 i höjd med Asmundtorp utanför Landskrona.\n– En traktor och en personbil har krockat och det ska ha varit en ganska så kraftig smäll. De två personerna som befann sig i bilen har skadats och är lastade i ambulans och förda till sjukhus, säger Joel Johansson, vakthavande befäl på Räddningstjänsten Syd.\nEnligt Region Skåne är en av de skadade en man i 30-årsåldern som vårdas för allvarliga skador.\nEnligt SOS Alarm ska fordonen fortfarande befinna sig på vägen som nu är avstängd.",
+   "body": "En traktor och en personbil krockade på riksväg 17 i höjd med Asmundtorp utanför Landskrona.\n– En traktor och en personbil har krockat och det ska ha varit en ganska så kraftig smäll. De två personerna som befann sig i bilen har skadats och är lastade i ambulans och förda till sjukhus, säger Joel Johansson, vakthavande befäl på Räddningstjänsten Syd.\nEnligt Region Skåne är en av de skadade en man i 30-årsåldern som vårdas för allvarliga skador. Skadeläget på den andra personen är oklart.\nVägen stängdes av efter olyckan. Enligt Trafikverket kommer vägen öppnas igen vid midnatt.",
    "videos": [],
    "players_in_dom": 0,
    "ld_pubdate": "2026-09-01T21:03:42+02:00",
@@ -4211,5 +4211,106 @@
    "notes": {}
   },
   "sheet_row": 169
+ },
+ "https://www.svt.se/nyheter/utrikes/1-september-nattens-nyheter-8qchcm": {
+  "url": "https://www.svt.se/nyheter/utrikes/1-september-nattens-nyheter-8qchcm",
+  "pubdate": "2026-09-02T05:09:07+02:00",
+  "lastmod": "2026-09-02T05:10:53+02:00",
+  "sitemap_title": "1 september: Nattens nyheter",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-02T05:22:51.834600+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__1-september-nattens-nyheter-8qchcm.html",
+  "extract": {
+   "body": "Här kramas Åkesson och Mohamsson igen\nI Aktuellt blev det en ny kram mellan L:s partiledare Simona Mohamsson och SD:s partiledare Jimmie Åkesson.\nPutin om drönarattacken: ”Planterade bevis”\nRysslands president Vladimir Putin anklagar Tyskland för att ha planterat bevis för att kunna skylla drönarattacken mot flygplatsen i Leipzig förra månaden på Ryssland.\nHugo Larsson klar för Fulham\nHugo Larsson är klar för engelska Premier league-fotbollsklubben Fulham. Han lämnar tyska Eintracht Frankfurt.",
+   "videos": [
+    {
+     "svtId": "e5dVokd",
+     "duration": 98,
+     "title": "Här kramas Åkesson (SD) och Mohamsson (L) på nytt",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-02T05:09:07+02:00",
+   "notes": {}
+  },
+  "sheet_row": 177
+ },
+ "https://www.svt.se/nyhetskoll/60-sekunder-med-magdalena-andersson-s": {
+  "url": "https://www.svt.se/nyhetskoll/60-sekunder-med-magdalena-andersson-s",
+  "pubdate": "2026-09-01T23:15:00+02:00",
+  "lastmod": "2026-09-01T23:15:00+02:00",
+  "sitemap_title": "60 sekunder med Magdalena Andersson (S)",
+  "tab": "Nyhetskoll",
+  "fetched_at": "2026-09-02T05:22:53.819332+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyhetskoll__60-sekunder-med-magdalena-andersson-s.html",
+  "extract": {
+   "body": "Ska unga slippa betala skatt? Skulle Sverige klara sig utan invandring? Och vid vilken ålder ska man få handla på Systembolaget?\nHör Socialdemokraternas partiledare Magdalena Andersson i Nyhetskolls partiledarutfrågning på 60 sekunder.\nDen 13 september är det val till kommun, region och riksdag i Sverige. Inför det träffar SVT:s ungdomsredaktion Nyhetskoll samtliga partiledare för att ta tempen på hur de ställer sig till ungas viktigaste politiska frågor.\nSe klippet: Här svarar S-ledaren Magdalena Andersson på ungas viktigaste politiska frågor.",
+   "videos": [
+    {
+     "svtId": "jmyYoMg",
+     "duration": 80,
+     "title": "60 sekunder med Magdalena Andersson (S)",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-01T23:15:00+02:00",
+   "notes": {}
+  },
+  "sheet_row": 176
+ },
+ "https://www.svt.se/sport/fotboll/nya-miljardtrenden-i-premier-league-galna-summor": {
+  "url": "https://www.svt.se/sport/fotboll/nya-miljardtrenden-i-premier-league-galna-summor",
+  "pubdate": "2026-09-01T22:12:34+02:00",
+  "lastmod": "2026-09-01T22:12:34+02:00",
+  "sitemap_title": "Nya miljardtrenden i Premier League: ”Galna summor”",
+  "tab": "Sport",
+  "fetched_at": "2026-09-02T05:22:55.997482+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__nya-miljardtrenden-i-premier-league-galna-summor.html",
+  "extract": {
+   "body": "Sex spelare har värvats för över en miljard kronor vardera till Premier League-klubbar denna sommaren.\nFlera av dem utan att ha slagit igenom på den största scenen.\n– Det är galna summor, säger Michael Owen till SVT Sport.\nFörra säsongens sattes ett nytt transferrekord i Premier League. Sommarens fönster skriver om historieböckerna på nytt.\nEtt halvdussin spelare har värvats till PL-klubbar för över en miljard kronor. Ytterligare lika många är strax under miljardstrecket. Till skillnad från tidigare år är det inte bara etablerade världsspelare som klubbarna slantar upp för.\nEtt exempel som sticker ut är Manchester Citys värvning av mittfältaren Ayyoub Boaddi. 18-åringen har endast två hela säsonger i ryggen i Ligue 1-klubben Lille utan att ha gjort ett enda mål.\n”Rätt väg att gå”\nLiverpool-ikonen, och tidigare Ballon d'Or-vinnaren, Michael Owen förstår den nya trenden.\n– Man vill inte lägga 100 miljoner (euro) på en 32-åring som spelar 1-2 säsonger. Så om man kan värva unga spelare som kan spela i tio år på toppnivå är det förstås rätt väg att gå, säger han.\nVad tycker du om transfersummorna som är i dag?\n– Normalt, på ett sätt. Livet blir mer dyrt, allting blir dyrare. Trenden kommer att fortsätta för alltid. När prispottarna är så stora som de är – miljardbelopp för Premier League och Champions League – då kommer spelarna att kosta så mycket. De blir så mycket mer värdefulla.",
+   "videos": [
+    {
+     "svtId": "85dVLg4",
+     "duration": 61,
+     "title": "Ikonen om galna summorna i Premier League",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-01T22:12:34+02:00",
+   "notes": {
+    "factbox_chars": 842,
+    "extra_video_modules": 4
+   }
+  },
+  "sheet_row": 174
+ },
+ "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham": {
+  "url": "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham",
+  "pubdate": "2026-09-01T23:06:40+02:00",
+  "lastmod": "2026-09-02T00:01:46+02:00",
+  "sitemap_title": "Officiellt: Hugo Larsson klar för Fulham",
+  "tab": "Sport",
+  "fetched_at": "2026-09-02T05:22:58.031728+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__officiellt-hugo-larsson-klar-for-fulham.html",
+  "extract": {
+   "body": "Han lämnar den tyska fotbollen för att göra entré på de brittiska öarna.\nHugo Larsson har skrivit på för Fulham.\nDen 22-årige svenske mittfältaren säger alltså adjö till Eintracht Frankfurt och har skrivit på för Premier League-klubben Fulham.\nSvensken presenterades – med en timme kvar på övergångsfönstrets sista dag.\n– Att komma hit, den äldsta klubben i London och med hela historiken, det är en enorm ära för mig, säger han i ett uttalande på klubbens hemsida .\nTransfergurun Fabrizio Romano skriver att övergångssumman landar på 25 miljoner euro, motsvarande 278 miljoner kronor.\nLarsson anslöt till Frankfurt 2023, då från Malmö FF. Det blev 119 matcher i den tyska klubben.",
+   "videos": [
+    {
+     "svtId": "jN3GG47",
+     "duration": 2432,
+     "title": "Deadline Day - fotbollens transferfönster stänger",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-01T23:06:40+02:00",
+   "notes": {
+    "extra_video_modules": 4
+   }
+  },
+  "sheet_row": 175
  }
 }
