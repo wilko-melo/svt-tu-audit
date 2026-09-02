@@ -80,6 +80,27 @@ def parse_sitemaps():
             e["lastmod"] = max(filter(None, [e["lastmod"], lastmod]))
             if ti:
                 e["title"] = htmllib.unescape(ti.group(1))
+    # RSS feeds as a second enumeration source: catches anything the sitemap
+    # hasn't listed yet (it regenerates with a small lag)
+    from email.utils import parsedate_to_datetime
+    for path in sorted(glob.glob(f"{SNAPDIR}/rss_*.xml")):
+        try:
+            xml = open(path, encoding="utf-8", errors="replace").read()
+        except OSError:
+            continue
+        for m in re.finditer(r"<item>.*?<link>(.*?)</link>.*?<pubDate>(.*?)</pubDate>.*?</item>",
+                             xml, re.S):
+            url = htmllib.unescape(m.group(1).strip())
+            if not url.startswith("https://www.svt.se/") or "/nyheter/video/" in url:
+                continue
+            try:
+                pub = parsedate_to_datetime(m.group(2).strip())
+            except (TypeError, ValueError):
+                continue
+            iso = pub.astimezone().isoformat()
+            e = reg.setdefault(url, {"pubdate": None, "title": None, "lastmod": None})
+            e["pubdate"] = min(filter(None, [e["pubdate"], iso]))
+            e["lastmod"] = max(filter(None, [e["lastmod"], iso]))
     return reg
 
 
