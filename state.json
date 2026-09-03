@@ -7715,13 +7715,13 @@
  "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn": {
   "url": "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn",
   "pubdate": "2026-09-02T21:29:26+02:00",
-  "lastmod": "2026-09-02T23:08:57+02:00",
-  "sitemap_title": "En person till sjukhus efter dykolycka i Lerkils hamn",
+  "lastmod": "2026-09-03T05:22:12+02:00",
+  "sitemap_title": "En person död efter dykolycka i Lerkils hamn",
   "tab": "Lokalt/Halland",
-  "fetched_at": "2026-09-03T00:26:20.195453+02:00",
+  "fetched_at": "2026-09-03T05:24:03.905898+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__halland__en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn.html",
   "extract": {
-   "body": "På onsdagskvällen inträffade en dykolycka vid Lerkils hamn i Kungsbacka. Två personer har räddats ur vattnet.\nEn person har förts till sjukhus, enligt Sjö- och flygräddningscentralen.\nLarmet inkom klockan 20.20. Enligt Carl-Johan Tylegård, sjöräddningsledare, har en förbipasserande larmat SOS efter att personen upptäckt två dykare i vattnet.\n– Det är en som kämpar med att försöka få upp den andra på stranden. Då larmar vi ut helikoptrar, båtar och räddningstjänst, säger Carl-Johan Tylegård.\nEn av personerna ska vara allvarligt skadad och har förts till sjukhus med ambulans.",
+   "body": "En dykolycka inträffade vid Lerkils hamn i Kungsbacka under onsdagskvällen. Två personer räddades ur vattnet. Under torsdagsmorgonen meddelade polisen att en av dem omkom.\nLarmet inkom klockan 20.20. Enligt Carl-Johan Tylegård, sjöräddningsledare, larmade en förbipasserande SOS efter att personen upptäckt två dykare i vattnet.\n– Det är en som kämpar med att försöka få upp den andra på stranden. Då larmar vi ut helikoptrar, båtar och räddningstjänst, sade Carl-Johan Tylegård, under onsdagskvällen.\nEn kvinna skadades allvarligt och fördes till sjukhus med ambulans, men hennes liv gick inte att rädda.\n– Anhöriga är underrättade, säger Otto Eriksson, vakthavande befäl vid polisen.\nDet finns i nuläget ingen misstänkt i ärendet. Men för att kunna utreda olyckan vidare polisen har polisen upprättat en anmälan om vållande till annans död.",
    "videos": [],
    "players_in_dom": 0,
    "ld_pubdate": "2026-09-02T21:29:26+02:00",
@@ -8654,5 +8654,31 @@
    }
   },
   "sheet_row": 348
+ },
+ "https://www.svt.se/nyheter/utrikes/masslingutbrottet-i-usa-mer-orolig-om-mina-barn-vaccinerades": {
+  "url": "https://www.svt.se/nyheter/utrikes/masslingutbrottet-i-usa-mer-orolig-om-mina-barn-vaccinerades",
+  "pubdate": "2026-09-03T01:38:29+02:00",
+  "lastmod": "2026-09-03T01:38:29+02:00",
+  "sitemap_title": "Mässlingutbrottet i USA: ”Mer orolig om mina barn vaccinerades”",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-03T05:24:05.126889+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__masslingutbrottet-i-usa-mer-orolig-om-mina-barn-vaccinerades.html",
+  "extract": {
+   "body": "Mässlingen sprider sig i USA – samtidigt minskar andelen amerikanska barn som vaccineras.\n– Jag skulle vara mycket mer orolig om de vaccinerades, säger tvåbarnsmamman Amy Schaffert i Virginia.\nÖver 2 500 mässlingsfall har rapporterats i USA hittills i år, den högsta nivån på 35 år.\nDe flesta som smittas i de aktuella utbrotten är ovaccinerade, enligt Susan Polan, biträdande vd vid American Public Health Association.\n– Om färre än omkring 95 procent i ett samhälle är vaccinerade ökar risken, särskilt för personer som inte kan vaccinera sig av medicinska skäl, säger hon.\nPolitisk strid om barnvaccin\nSamtidigt har andelen amerikanska förskolebarn som fått de rekommenderade vaccinen minskat flera år i rad. Antalet barn med undantag från vaccinering är nu på den högsta uppmätta nivån.\nOch mitt i utbrottet vill USA:s president Donald Trump att antalet rekommenderade barnvaccin ses över och att vaccinet mot mässling, påssjuka och röda hund, det så kallade MPR-vaccinet, ska delas upp i separata vaccin.\nTrump hänvisar bland annat till föräldrars valfrihet och uttryckt oro över antalet vaccindoser. Han har också kopplat vaccin till autism – ett påstående som saknar vetenskapligt stöd.\nFörslagen har mött kritik från flera medicinska organisationer.\n– Det här bygger inte på vetenskap. Det bygger på skepsis och politik, säger Susan Polan.\nValde bort vaccin för barnen\nAmy Schaffert är en av föräldrarna som valt bort vaccin för sina barn. Hon säger att hon litar på kroppens eget immunförsvar och är skeptisk till innehållet i vaccinen.\n– Jag tror att jag skapades perfekt och att mitt immunförsvar fungerar perfekt. Jag behöver inte lägga till något för att få det att fungera bättre, säger Amy Schaffert.",
+   "videos": [
+    {
+     "svtId": "8DvanWM",
+     "duration": 150,
+     "title": "Skulle välja mässlingen framför vaccin: \"Orolig om mina barn vaccinerades”",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T01:38:29+02:00",
+   "notes": {
+    "factbox_chars": 868
+   }
+  },
+  "sheet_row": 354
  }
 }
