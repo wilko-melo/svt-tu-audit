@@ -4595,11 +4595,11 @@
  "https://www.svt.se/nyheter/lokalt/halland/john-vranjancu-l-18-yngsta-kandidaten-i-valet-i-varberg": {
   "url": "https://www.svt.se/nyheter/lokalt/halland/john-vranjancu-l-18-yngsta-kandidaten-i-valet-i-varberg",
   "pubdate": "2026-09-02T05:30:08+02:00",
-  "lastmod": "2026-09-02T10:04:34+02:00",
+  "lastmod": "2026-09-03T09:12:28+02:00",
   "sitemap_title": "John Vranjancu (L), 18, yngsta kandidaten i valet i Varberg",
   "tab": "Lokalt/Halland",
-  "fetched_at": "2026-09-02T13:47:40.827726+02:00",
-  "html_path": "/Users/wilkokramer/svt-tu-2026/html/nyheter__lokalt__halland__john-vranjancu-l-18-yngsta-kandidaten-i-valet-i-varberg.html",
+  "fetched_at": "2026-09-03T10:39:17.552362+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__halland__john-vranjancu-l-18-yngsta-kandidaten-i-valet-i-varberg.html",
   "extract": {
    "body": "Affischer, dörrknackning och debatter. John Vranjancu, 18, kandiderar till kommunfullmäktige i Varberg, men finns även med på listan till både region och riksdag. Han är en av få unga politiker i årets val.\n– Förändra och ha en del av styret, det är verkligen det jag gillar, säger John Vranjancu.\n– Jag vet kanske bättre om skolan och miljön som är här , säger John Vranjancu som går sista året på teknikprogrammet.\nHans hjärtefråga handlar om utbyggnaden av gymnasiet Peder skrivares skola, och hans ser det som en stor fördel att han själv är elev där.\nFå under 30 ställer upp i valet\nFör att ställa upp som kandidat i valet måste du ha fyllt 18 år på valdagen. I Halland ställer sju kandidater som är 18 år (se faktarutan).\nPersoner under 30 år är underrepresenterade bland de drygt 1500 kandidaterna från Halland.\nSe hur åldersfördelningen ser ut i klippet ovan.\nFå unga vid makten\nVar fjärde svensk kommun eller region har under den nuvarande mandatperioden inga ledamöter i fullmäktige under 30 år, visar SVT:s kartläggning från 2025.\nGör SVT:s lokala valkompass för Varberg",
    "videos": [
@@ -4671,13 +4671,13 @@
  "https://www.svt.se/nyheter/lokalt/jamtland/valbussen-pa-plats-i-bergs-kommun": {
   "url": "https://www.svt.se/nyheter/lokalt/jamtland/valbussen-pa-plats-i-bergs-kommun",
   "pubdate": "2026-09-02T11:14:54+02:00",
-  "lastmod": "2026-09-02T16:58:14+02:00",
+  "lastmod": "2026-09-03T10:26:59+02:00",
   "sitemap_title": "Valbussen på plats i Bergs kommun",
   "tab": "Lokalt/Jämtland",
-  "fetched_at": "2026-09-02T18:09:01.167360+02:00",
+  "fetched_at": "2026-09-03T10:39:21.231629+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jamtland__valbussen-pa-plats-i-bergs-kommun.html",
   "extract": {
-   "body": "Vägar, gruvbrytning och bränslepriser är några av valfrågorna som är viktiga för invånarna i\nReportrarna Eva Danielsson och Björn B Schäfer åker runt i valbussen så här i valrörelsens elfte timme. De pratar med väljare och politiker och berättar om vilka frågor som är viktiga på olika orter i vårt län.\nHåll utkik efter den svarta valbussen i Bergs kommun.\nValbussen rullar genom länets kommuner\nkaram • hej\nHej Karam! Vad roligt att du följer valbussen!\nEfter att rennäringen blivit en fråga i valrörelsen tycker Evelina Solsten att det känns extra viktigt att sprida kunskap och diskutera politik i sociala medier.\nRenskötaren och influencern Evelina, 24 år, lyfter samiska frågor inför valet",
+   "body": "Vägar, gruvbrytning och bränslepriser är några av valfrågorna som är viktiga för invånarna i Bergs kommun.\nReportrarna Eva Danielsson och Björn B Schäfer åker runt i valbussen så här i valrörelsens elfte timme. De pratar med väljare och politiker och berättar om vilka frågor som är viktiga på olika orter i vårt län.\nHåll utkik efter den svarta valbussen i Bergs kommun.\nValbussen rullar genom länets kommuner\nTorsdag, men inte bara det, det är även Åredagen för valbussens del. Så håll utkik efter Eva, Björn och den svarta bussen!\nStina • Om jag visste  hur Thomas Wassberg röstade ,skulle jag göra lika som honom !\nMycket aktuell fråga med tanke på att valbussen var i Åsarna i går. Jag hoppas du finner din egen väg i årets val :D\nkaram • hej\nHej Karam! Vad roligt att du följer valbussen!\nEfter att rennäringen blivit en fråga i valrörelsen tycker Evelina Solsten att det känns extra viktigt att sprida kunskap och diskutera politik i sociala medier.\nRenskötaren och influencern Evelina, 24 år, lyfter samiska frågor inför valet",
    "videos": [
     {
      "svtId": "jz7a2Am",
@@ -4686,7 +4686,7 @@
      "svtplay": true
     }
    ],
-   "players_in_dom": 8,
+   "players_in_dom": 6,
    "ld_pubdate": "2026-09-02T11:14:54+02:00",
    "notes": {
     "extra_video_modules": 7,
@@ -5121,13 +5121,13 @@
  "https://www.svt.se/nyheter/lokalt/uppsala/sa-vill-politikerna-utveckla-landsbygden-i-tierp": {
   "url": "https://www.svt.se/nyheter/lokalt/uppsala/sa-vill-politikerna-utveckla-landsbygden-i-tierp",
   "pubdate": "2026-09-02T05:30:08+02:00",
-  "lastmod": "2026-09-02T13:17:41+02:00",
+  "lastmod": "2026-09-03T08:29:48+02:00",
   "sitemap_title": "Så vill politikerna utveckla landsbygden i Tierp",
   "tab": "Lokalt/Uppsala",
-  "fetched_at": "2026-09-02T13:48:50.626238+02:00",
-  "html_path": "/Users/wilkokramer/svt-tu-2026/html/nyheter__lokalt__uppsala__sa-vill-politikerna-utveckla-landsbygden-i-tierp.html",
+  "fetched_at": "2026-09-03T10:40:07.728926+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__uppsala__sa-vill-politikerna-utveckla-landsbygden-i-tierp.html",
   "extract": {
-   "body": "Belysning, färdtjänst och service är några av frågorna som engagerar på Tierps landsbygd. Inför valet är politikerna överens om att landsbygden är viktig – men oense om vilka satsningar som behövs.\n– Det är jätteviktigt att alla medborgare i kommunen ska trivas, säger Emma Lokander (M), gruppledare.\nEn av frågorna som diskuterats är belysningen på landsbygden. I november 2023 klubbades kommunens nya belysningsplan. Det innebar att drygt 1 000 gatlyktor skulle tas ned och i den frågan har Tierpslistan och Moderaterna olika syn.\n– Vi anser att kommunen gjort fel som monterat ned belysningen. Det är svårt att knacka dörr på landsbygden och inte hitta personer som är missnöjda, säger Mio Tastas Viktorsson, Tierpslistan.\n”Kommunen inte markägare”\nModeraterna, som ingår i det politiska styret, menar att frågan inte är så enkel.\n– Kommunen har varit tvungen att ta bort belysningen eftersom skicket på anläggningarna har varit för dåligt. Dessutom är kommunen inte markägare eller väghållare på de här platserna eller ens äger alla stolparna, vilket innebär att kommunen inte har rådighet över frågan, säger Emma Lokander (M).\nEn annan fråga som berör många på landsbygden är färdtjänst – hör vad politikerna tycker om frågan i klippet ovan.\nRÄTTELSE: I en tidigare version av faktarutan skrev vi att Centerpartiet inte återkommit med svar. Det stämmer inte. Vi har nu publicerat Centerpartiets svar nedan.",
+   "body": "Belysning, färdtjänst och service är några av frågorna som engagerar på Tierps landsbygd. Inför valet är politikerna överens om att landsbygden är viktig – men oense om vilka satsningar som behövs.\n– Det är jätteviktigt att alla medborgare i kommunen ska trivas, säger Emma Lokander (M), gruppledare.\nEn av frågorna som diskuterats är belysningen på landsbygden. I november 2023 klubbades kommunens nya belysningsplan. Det innebar att drygt 1 000 gatlyktor skulle tas ned och i den frågan har Tierpslistan och Moderaterna olika syn.\n– Vi anser att kommunen gjort fel som monterat ned belysningen. Det är svårt att knacka dörr på landsbygden och inte hitta personer som är missnöjda, säger Mlio Tastas Viktorsson, Tierpslistan.\n”Kommunen inte markägare”\nModeraterna, som ingår i det politiska styret, menar att frågan inte är så enkel.\n– Kommunen har varit tvungen att ta bort belysningen eftersom skicket på anläggningarna har varit för dåligt. Dessutom är kommunen inte markägare eller väghållare på de här platserna eller ens äger alla stolparna, vilket innebär att kommunen inte har rådighet över frågan, säger Emma Lokander (M).\nEn annan fråga som berör många på landsbygden är färdtjänst – hör vad politikerna tycker om frågan i klippet ovan.\nRÄTTELSE: I en tidigare version av faktarutan skrev vi att Centerpartiet inte återkommit med svar. Det stämmer inte. Vi har nu publicerat Centerpartiets svar nedan.",
    "videos": [
     {
      "svtId": "8qPAb5W",
@@ -6360,10 +6360,10 @@
  "https://www.svt.se/nyheter/lokalt/norrbotten/har-flyttar-de-utkopta-stugagarna-fran-sandon-i-lulea-vemodigt": {
   "url": "https://www.svt.se/nyheter/lokalt/norrbotten/har-flyttar-de-utkopta-stugagarna-fran-sandon-i-lulea-vemodigt",
   "pubdate": "2026-09-02T14:04:31+02:00",
-  "lastmod": "2026-09-02T14:04:31+02:00",
-  "sitemap_title": "Här flyttar de utköpta stugägarna från Sandön i Luleå: ”Vemodigt ”",
+  "lastmod": "2026-09-03T06:03:14+02:00",
+  "sitemap_title": "Här flyttar de utköpta stugägarna från Sandön i Luleå: ”Vemodigt”",
   "tab": "Lokalt/Norrbotten",
-  "fetched_at": "2026-09-02T18:09:12.876027+02:00",
+  "fetched_at": "2026-09-03T10:39:28.662730+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__norrbotten__har-flyttar-de-utkopta-stugagarna-fran-sandon-i-lulea-vemodigt.html",
   "extract": {
    "body": "De senaste dagarna har en pråm fraktat bohag i skytteltrafik åt utköpta stugägare på Sandön i Luleå skärgård.\nDet är Luleå hamns nya bullernivåer som gör att de fått lösa in sina stugor.\n– En del kallar det för utveckling, en del avveckling, säger Lars-Göran Nordström som tycker det är vemodigt.\n52 fastigheter på Sandön drabbas av att Luleå Hamn ska bygga ut.\nDe ligger inom det område där hamnen riskerar att inte uppfylla dagens miljövillkor. Bullret blir för högt. Därför har det varit en lång process med samråd och närmare 50 ägare som har valt att låta sig bli inlösta av Luleå hamn.\nI dagsläget är det nio stugor kvar som ska överlämnas varav åtta av dem lämnas i år.\nRivning beslutas senare\nLuleå Hamn meddelar att när alla tillträden är klara kommer de att utreda hur de ska gå vidare med rivningar.\nLars-Göran Nordström har haft stugan sedan 1963 och nu har han och dottern sålt den till Luleå Hamn. Dottern trivs dock så bra på ön att hon köpt en annan stuga som ligger bättre till.\nMen det var ett svårt beslut att sälja berättar Lars-Göran Nordström, som idag är på väg ut för tömma stugan.\nExpansion kräver nytt tillstånd\nHamnens utbyggnad och den utökade verksamheten kräver ett nytt verksamhetstillstånd. I sommar fick Luleå Hamn verksamhetstillståndet beviljat av Länsstyrelsen, men det är inte tagit i bruk än.",
@@ -6732,10 +6732,10 @@
  "https://www.svt.se/nyheter/lokalt/sormland/joakim-lundell-stammer-kvinna-i-trosa-for-grovt-fortal": {
   "url": "https://www.svt.se/nyheter/lokalt/sormland/joakim-lundell-stammer-kvinna-i-trosa-for-grovt-fortal",
   "pubdate": "2026-09-02T13:57:42+02:00",
-  "lastmod": "2026-09-02T19:46:08+02:00",
+  "lastmod": "2026-09-03T07:07:26+02:00",
   "sitemap_title": "Joakim Lundell stämmer kvinna i Trosa för förtal",
   "tab": "Lokalt/Sörmland",
-  "fetched_at": "2026-09-03T00:26:42.687505+02:00",
+  "fetched_at": "2026-09-03T10:39:53.705088+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sormland__joakim-lundell-stammer-kvinna-i-trosa-for-grovt-fortal.html",
   "extract": {
    "body": "Influencern Joakim Lundell stämmer en kvinna i Trosa kommun efter flera inlägg i sociala medier. Han kräver totalt 240 000 kronor i kränkningsersättning.\nStämningsansökan har lämnats in till Nyköpings tingsrätt och gäller sex publiceringar på Facebook, Instagram och Youtube.\nLundell menar att kvinnan har spridit osanna och kränkande uppgifter om honom, bland annat anklagelser om hot, övergrepp och dataintrång. Han anser att publiceringarna utgör grovt förtal, alternativt förtal.\nUtöver det har kvinnan bland annat skrivit på Expressens kommentarsfält på Facebook där hon anklagat Joakim Lundell för att försöka tysta kritiker genom att hota om att stämma dem i domstol.\nKvinnan: Tramsigt\nHan kräver 40 000 kronor per publicering, sammanlagt 240 000 kronor, samt ersättning för rättegångskostnader.\nTingsrätten har ännu inte prövat målet.\nKvinnan är starkt kritisk mot att Lundell valt att stämma henne.\n– Det är tramsigt. Vi har yttrandefrihet i det här landet, säger hon.\nLundells svar\nJoakim Lundell har inte velat kommentera rättsprocessen närmare, men framför via sin advokat att ”Joakim Lundell är en offentlig person innebär inte att vem som helst har rätt att i offentligheten, vid upprepade tillfällen, påstå att han gör sig skyldig till straffbara handlingar. Sådana konkreta och upprepade brottspåståenden har inget att göra med den kritik som givetvis är tillåten – och som en offentlig person alltid får tåla.”",
@@ -7024,10 +7024,10 @@
  "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-sager-angeborna-om-vanskap-mellan-konen-har-en-egen-vilja": {
   "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-sager-angeborna-om-vanskap-mellan-konen-har-en-egen-vilja",
   "pubdate": "2026-09-02T17:03:35+02:00",
-  "lastmod": "2026-09-02T18:06:10+02:00",
+  "lastmod": "2026-09-03T09:26:35+02:00",
   "sitemap_title": "Så säger Ångeborna om vänskap mellan könen: ”Har en egen vilja”",
   "tab": "Lokalt/Västernorrland",
-  "fetched_at": "2026-09-02T18:10:15.061254+02:00",
+  "fetched_at": "2026-09-03T10:40:24.167038+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vasternorrland__sa-sager-angeborna-om-vanskap-mellan-konen-har-en-egen-vilja.html",
   "extract": {
    "body": "Debatten om vänskap mellan könen har blossat upp efter uttalanden i SVT:s kärleksrealityprogram ”Gift vid första ögonkastet XL”, där främlingar gifter sig med varandra.\nKan män och kvinnor bara vara vänner, och vilka krav är okej att ställa på sin partner i en relation?\nDebatten blossade upp efter det andra avsnittet där det ett av de nygifta paren samtalar under en middag. Mannen säger till sin nyblivna fru att han inte vill att hon umgås själv med sin manliga vän, varpå hon svarar att hon kan gå med på det. I klippet hör du några Ångebor om hur de ser på vänskap mellan könen.",
@@ -7080,10 +7080,10 @@
  "https://www.svt.se/nyheter/lokalt/vastmanland/val-2026-folj-det-hetaste-fran-region-och-kommunval-i-vastmanland": {
   "url": "https://www.svt.se/nyheter/lokalt/vastmanland/val-2026-folj-det-hetaste-fran-region-och-kommunval-i-vastmanland",
   "pubdate": "2026-09-02T16:34:05+02:00",
-  "lastmod": "2026-09-02T16:34:05+02:00",
+  "lastmod": "2026-09-03T08:45:09+02:00",
   "sitemap_title": "Val 2026 – följ det hetaste från region- och kommunval i Västmanland",
   "tab": "Lokalt/Västmanland",
-  "fetched_at": "2026-09-02T18:10:20.805358+02:00",
+  "fetched_at": "2026-09-03T10:40:26.914508+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vastmanland__val-2026-folj-det-hetaste-fran-region-och-kommunval-i-vastmanland.html",
   "extract": {
    "body": "13 september är det val i Sverige. Utöver riksdagsvalet avgörs vilka partier som får styra kommuner och regioner de kommande fyra åren.\nHär kan du följa SVT:s valbevakning i Västmanland.",
@@ -7606,10 +7606,10 @@
  "https://www.svt.se/kultur/siw-malmkvist-far-cornelispriset-hade-gett-upp": {
   "url": "https://www.svt.se/kultur/siw-malmkvist-far-cornelispriset-hade-gett-upp",
   "pubdate": "2026-09-02T20:58:10+02:00",
-  "lastmod": "2026-09-02T21:06:52+02:00",
+  "lastmod": "2026-09-03T06:56:37+02:00",
   "sitemap_title": "Siw Malmkvist får Cornelispriset: ”Hade gett upp”",
   "tab": "Kultur",
-  "fetched_at": "2026-09-03T00:26:14.589542+02:00",
+  "fetched_at": "2026-09-03T10:38:59.323354+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/kultur__siw-malmkvist-far-cornelispriset-hade-gett-upp.html",
   "extract": {
    "body": "Siw Malmkvist, 89, får årets Cornelispris på en miljon kronor.\n– Precis när jag hade gett upp, utbrister hon.\nDet är som att en cirkel har slutits. De som har sett fjolårets dokumentär om Siw Malmkvist kommer säkert ihåg scenen i filmen när den folkkära artisten noggrant fyller i ansökan till Cornelispriset, kulturstipendiet som delas ut av Stiftelsen Cornelis Vreeswijks minne.\nFör femte gången och nästan lite motvilligt.\n– Jag tänkte att det här är sista gången jag gör det. ”Nu skiter jag i det.” Och så sände jag i väg det, berättar hon och skrattar.\nMen nu får Siw Malmkvist priset. Hon kunde knappt tro det när telefonsamtalet kom från juryns ordförande, advokaten Anton Strand.\n– Jag trodde först att det var något lur, men sedan kände jag igen namnet på advokaten som ringde upp och berättade det, säger Siw Malmkvist.\nTurnerade ihop\nSchlagerstjärnan Siw Malmkvist och vispoeten Cornelis Vreeswijk hade till synes vitt skilda artistkarriärer, men de kände varandra. Båda låg på skivbolaget Metronome på 1960-talet och arbetade med producenten Anders Burman.\nDe turnerade till och med ihop i folkparkerna precis i början av Cornelis karriär i mitten av 1960-talet.\n– Jag tyckte att han var ”go”. Han var gullig och rar. Men jag tyckte inte om att han drack. Det gjorde han på turnén, efter showerna, faktiskt.\nCornelis Vreeswijk avled 1987, bara 50 år gammal och i princip utblottad. Priset till hans minne har vuxit i storlek med åren i och med de stadiga royaltyintäkterna när nya generationer har upptäckt och börjat strömma den folkkäre artistens visor.\n”Sorgligt”\nNu får pristagaren hela en miljon kronor. Siw Malmkvist grunnar på vad Cornelis Vreeswijk skulle tycka om det, ifall han visste.\n– Det är sorgligt. Han var ju utfattig när han dog. Vi var på Metronome tillsammans och de såg till att portionera ut pengarna och betala skatten. För mig var det toppen. Men han blev så arg och ville ha stålarna direkt. De gjorde honom till viljes och det var inte bra.\nEfter dokumentären om Siw Malmkvist, som först blev en biosuccé förra hösten och sedan dess fått en storpublik i SVT, är artisten hetare än på länge. I fjol var hon dessutom julvärd i SVT. På nyårsafton fyller hon 90 år.\n– Jag kan inte begripa det! För inne i mig så känner jag inte igen det. Ibland när jag tänker på att jag ska bli 90 så tänker jag att det inte låter klokt, säger Siw Malmkvist och skrattar.",
@@ -7715,13 +7715,13 @@
  "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn": {
   "url": "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn",
   "pubdate": "2026-09-02T21:29:26+02:00",
-  "lastmod": "2026-09-03T05:22:12+02:00",
+  "lastmod": "2026-09-03T07:44:26+02:00",
   "sitemap_title": "En person död efter dykolycka i Lerkils hamn",
   "tab": "Lokalt/Halland",
-  "fetched_at": "2026-09-03T05:24:03.905898+02:00",
+  "fetched_at": "2026-09-03T10:39:14.373224+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__halland__en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn.html",
   "extract": {
-   "body": "En dykolycka inträffade vid Lerkils hamn i Kungsbacka under onsdagskvällen. Två personer räddades ur vattnet. Under torsdagsmorgonen meddelade polisen att en av dem omkom.\nLarmet inkom klockan 20.20. Enligt Carl-Johan Tylegård, sjöräddningsledare, larmade en förbipasserande SOS efter att personen upptäckt två dykare i vattnet.\n– Det är en som kämpar med att försöka få upp den andra på stranden. Då larmar vi ut helikoptrar, båtar och räddningstjänst, sade Carl-Johan Tylegård, under onsdagskvällen.\nEn kvinna skadades allvarligt och fördes till sjukhus med ambulans, men hennes liv gick inte att rädda.\n– Anhöriga är underrättade, säger Otto Eriksson, vakthavande befäl vid polisen.\nDet finns i nuläget ingen misstänkt i ärendet. Men för att kunna utreda olyckan vidare polisen har polisen upprättat en anmälan om vållande till annans död.",
+   "body": "En dykolycka inträffade vid Lerkils hamn i Kungsbacka under onsdagskvällen. Två personer räddades ur vattnet. Under torsdagsmorgonen meddelade polisen att en av dem omkom.\nLarmet inkom klockan 20.20. Enligt Anders Lännholm, som var biträdande räddningsledare på platsen, larmade en förbipasserande segelbåt SOS att de sett blinkande ljus i vattnet.\n– Ljusen visade sig komma från två dykare säger Anders Lännholm.\nHelikoptrar, båtar och räddningstjänst larmades till platsen.\nDe två personerna, en kvinna och en man, drogs upp på båten och fördes in till land. Kvinnan var medvetslös och hjärt- och lungräddning utfärdades på platsen innan hon fördes till Östra sjukhuset.\nKvinnan vårdades bland annat i en tryckkammare, något som används när dykare fått dykarsjukan men hennes liv gick inte att rädda.\n– Anhöriga är underrättade, säger Otto Eriksson, vakthavande befäl vid polisen.\nDet finns i nuläget ingen misstänkt i ärendet. För att kunna utreda händelsen vidare har polisen upprättat en anmälan om vållande till annans död.",
    "videos": [],
    "players_in_dom": 0,
    "ld_pubdate": "2026-09-02T21:29:26+02:00",
@@ -8070,13 +8070,13 @@
  "https://www.svt.se/nyheter/lokalt/sodertalje/villa-overtand-i-tallhojden-i-sodertalje": {
   "url": "https://www.svt.se/nyheter/lokalt/sodertalje/villa-overtand-i-tallhojden-i-sodertalje",
   "pubdate": "2026-09-02T22:00:06+02:00",
-  "lastmod": "2026-09-02T23:04:06+02:00",
+  "lastmod": "2026-09-03T08:11:02+02:00",
   "sitemap_title": "Villa övertänd i Tallhöjden i Södertälje",
   "tab": "Lokalt/Södertälje",
-  "fetched_at": "2026-09-03T00:26:40.101344+02:00",
+  "fetched_at": "2026-09-03T10:39:51.351355+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sodertalje__villa-overtand-i-tallhojden-i-sodertalje.html",
   "extract": {
-   "body": "Ett tvåplanshus i Tallhöjden i Södertälje är helt övertänt. Kraftig rök sprids över området.\nLarmet inkom strax efter klockan 21 och räddningstjänsten inledde då ett omfattande släckningsarbete.\n– Vi har påbörjat släckningen och håller på att kolla om det finns några personer i huset, sa Ante Hägglund, vakthavande befäl på Södertörns brandförsvarsförbund.\nEn man har förts till sjukhus. Han ska ha varit vaken och talbar, men i övrigt är skadeläget oklart.\nPolisen utreder mordbrand\nEnligt räddningstjänsten finns det en viss spridningsrisk till en mindre byggnad i närheten.\n– Vi räknar med att behöva vara på plats runt tre timmar.\nPolisen har spärrat av platsen och inlett en förundersökning om mordbrand. De kommer att genomföra en teknisk undersökning på brandplatsen när den svalnat.",
+   "body": "Ett tvåplanshus i Tallhöjden i Södertälje var helt övertänt under onsdagskvällen. Räddningstjänsten har varit på plats för att släcka branden och förhindra spridning.\n– Det är totalt nedbrunnet, säger vakthavande befäl på Södertörns brandförsvar Ante Hägglund.\nLarmet inkom strax efter klockan 21 och räddningstjänsten inledde då ett omfattande släckningsarbete.\n– Vi har påbörjat släckningen och håller på att kolla om det finns några personer i huset, sa Ante Hägglund, vakthavande befäl på Södertörns brandförsvarsförbund.\nEn man har förts till sjukhus. Han ska ha varit vaken och talbar. dagen efter vårdas han fortfarande på sjukhus men läget är stabilt, enligt Regionen.\nPolisen utreder mordbrand\nEnligt räddningstjänsten fanns det en viss spridningsrisk till en mindre byggnad i närheten, men det gick att kontrollera.\n– Det har inte spridit sig någonstans, säger vakthavande befäl Ante Hägglund morgonen efter.\nDäremot har huset totalförstörts. Polisen har spärrat av platsen och inlett en förundersökning om mordbrand.\n”Som en askhög”\nTidigt på torsdagsmorgonen är räddningstjänsten fortfarande på plats med en styrka för att se till att huset brinner ned under kontrollerade former men insatsen kommer att avslutas under dagen.\n– Det glöder, det är som en askhög, säger vakthavande befäl Ante Hägglund.\nNär brandplatsen har svalnat kommer polisen att genomföra en teknisk undersökning.",
    "videos": [
     {
      "svtId": "KqPA1Py",
@@ -8250,10 +8250,10 @@
  "https://www.svt.se/nyheter/lokalt/vast/guide-se-alla-debatter-fran-politikshowen-i-goteborg": {
   "url": "https://www.svt.se/nyheter/lokalt/vast/guide-se-alla-debatter-fran-politikshowen-i-goteborg",
   "pubdate": "2026-09-02T20:55:39+02:00",
-  "lastmod": "2026-09-02T20:55:39+02:00",
+  "lastmod": "2026-09-03T08:52:15+02:00",
   "sitemap_title": "Guide: Se alla debatter från Politikshowen i Göteborg",
   "tab": "Lokalt/Väst",
-  "fetched_at": "2026-09-03T00:26:53.604460+02:00",
+  "fetched_at": "2026-09-03T10:40:11.937216+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__guide-se-alla-debatter-fran-politikshowen-i-goteborg.html",
   "extract": {
    "body": "Nio politiker. Sex ämnen. Här kan du se alla debatter från Politikshowen i Göteborg när stans toppolitiker möttes på Stora teatern.\nBOSTÄDER I GÖTEBORG\nGöteborgs bostadsbrist och långa köer driver barnfamiljer från staden.\nDemokraternas Martin Wannholt: Vill stoppa dyra nybyggen av hyresrätter och istället ombilda befintliga hyresrätter till äganderätter för att minska segregationen.\nSocialdemokraternas Jonas Attenius: Säger nej till ombildningar och satsar istället på en aktiv markpolitik med 400 billigare ”folkradhus” under fyra miljoner kronor.\nCenterpartiet Emmyly Bönfors: Vill planera för 1 000 nya radhus i Frölunda och Tynnered samt bygga trygghetsboenden för äldre för att skapad fungerande flyttkedjor.\nSKOLAN I GÖTEBORG\nDebatten om de låga resultaten i Göteborgs grundskolor blottar tydliga skiljelinjer mellan partierna.\nSocialdemokraternas Jonas Attenius: Vill satsa på en ”småskolereform” med högst 12 elever per lärare, stärka pengagarantin och stoppa vinstjakten. Prioriterar fler behöriga lärare, mer kringpersonal och trygghet.\nLiberalerna Axel Darvik: Vill lägga pengarna på utbildade lärare och riktiga läromedel samt stoppa S planer på nya jätteskolor i utsatta områden och nedläggning av fungerande småskolor.\nKristdemokraterna Dan-Ove Marcelind: Vill minska klasserna, ta bort mobiler/skärmar i låg- och mellanstadiet samt rensa i byråkratin. Kräver färre chefsled och mindre skolenheter så att rektorer får utöva sitt ledarskap och lärare kan fokusera på eleverna.\nBILTRAFIK I GÖTEBORG\nDebatten om bilens plats och framkomligheten i centrala Göteborg ställer stadsplanering mot trafikkaos.\nMiljöpartiets Klara Holmin: Vill minska bilismen för att nå klimatmålen, förbättra luften och skapa plats för cykelbanor, uteserveringar och kollektivtrafik. Framhåller att en växande stad inte har utrymme för obegränsat med bilar och att linjen följer utvecklingen i resten av Europa.\nModeraternas Axel Josefson: Kräver god framkomlighet för alla trafikslag och vill stoppa avstängningarna av vägar. Anser att bilförbud och nuvarande strategi skapar kaos – även för kollektivtrafiken – och att bilister från ytterområdena måste kunna ta sig in till centrum.\nDemokraternas Martin Wannholt: Kritiserar den nuvarande ”bilfientligheten” och menar att det är orimligt att ta bort boendeparkeringar och stänga vägar innan kollektivtrafiken byggts ut tillräckligt. Vill minska biltrafiken i centrum först på sikt när fungerande alternativ finns på plats.\nTRYGGHET I GÖTEBORG\nDebatten om tryggheten i Göteborg ställer hårda åtgärder mot långsiktigt förebyggande arbete och stadsutveckling.\nSverigedemokraternas Jörgen Fogelklou : Betonar fler kameror, ordningsvakter och skärpta straff så att kriminella låses in, men framhåller även arbetet med att stoppa nyrekryteringen till gängen. Anser att ett trygghetsperspektiv måste genomsyra alla kommunala beslut – allt från brottsbekämpning till digital övervakning inom äldreomsorgen.\nCenterpartiets Emmyly Bönfors : Förespråkar levande stadsmiljöer med mer befolkade gator, bostäder och restauranger i bottenplan, kombinerat med riktad kamerabevakning, stark skola och meningsfull fritid. Kritiserar SD:s retorik för att koppla samman bakgrund med kriminalitet och skapa polarisering, men vill se hårdare straff för de som rekryterar unga.\nMiljöpartiets Klara Holmin : Prioriterar det förebyggande arbetet i första hand för att förhindra att brott överhuvudtaget begås. Anser att kameror främst har effekt mot egendomsbrott och vill fokusera på sociala insatser och trygghetsskapande åtgärder framför enbart fler övervakningsinsatser.\nARBETE I GÖTEBORG\nVänsterpartiets vallöfte om sex timmars arbetsdag med bibehållen lön för undersköterskor inom äldreomsorgen väcker hård debatt om både ekonomi och personalbrist.\nVänsterpartiets Marie Brynolfsson : Hävdar att kortare arbetstid är nödvändigt för att rädda välfärden. Att förbättra måendet och arbetsvillkoren för undersköterskorna är nyckeln till högre kvalitet. ”Vi har råd – vi har inte råd att låta bli om välfärden ska fungera”.\nModeraternas Axel Josefson : Sågar förslaget helt och kallar det ett feltänk. Att skicka hem personal hjälper inte arbetsmiljön när det redan saknas tusentals undersköterskor. Josefson pekar på att det krävs bättre scheman och 1 400 fler anställda, inte färre arbetade timmar.\nSverigedemokraternas Jörgen Fogelklou : Fogelklou, som själv arbetat som undersköterska, framhåller att fokus istället måste ligga på ”fler händer i vården” och att fler anställda måste kunna svenska.\nGÖTEBORG MER LEVANDE\nHur skapas ett mer levande Göteborg? Finns det tillräckligt att göra i Göteborg och vad kan göras bättre? Liberalerna, Vänsterpartiet och Kristdemokraterna presenterar tre helt olika recept för att skapa ett mer attraktivt och levande Göteborg.\nLiberalerna Axel Darvik: Fokus på trygghet, tillgänglighet och stöd till det lokala kulturlivet. Darvik vill se fler små scener för lokala band, bättre trafiklösningar och en tryggare innerstad på kvällar och nätter så att folk vågar nyttja nöjeslivet.\nVänsterpartiet Marie Brynolfsson : V vill slopa extraavgiften för konserter på Liseberg och satsa på avgiftsfria evenemang som Kulturkalaset och sommarlovsaktiviteter. Brynolfsson passar även på att kritisera L för att skära ner pengarna till studieförbunden där unga band utvecklas.\nKristdemokraternas Dan-Ove Marcelind: Gröna och nytänkande stadsmiljöer. KD föreslår konstgjorda öar i Frihamnen för rekreation, biologisk mångfald och paddling, inspirerat av Köpenhamn.",
@@ -8556,13 +8556,13 @@
  "https://www.svt.se/sport/ishockey/rogle-kan-tappa-norska-talangen-till-toronto-en-drom-att-kunna-ta-en-plats": {
   "url": "https://www.svt.se/sport/ishockey/rogle-kan-tappa-norska-talangen-till-toronto-en-drom-att-kunna-ta-en-plats",
   "pubdate": "2026-09-02T22:35:19+02:00",
-  "lastmod": "2026-09-02T22:35:19+02:00",
+  "lastmod": "2026-09-03T06:44:44+02:00",
   "sitemap_title": "Rögle kan tappa norska talangen till Toronto: ”En dröm att kunna ta en plats”",
   "tab": "Sport",
-  "fetched_at": "2026-09-03T00:27:25.273654+02:00",
+  "fetched_at": "2026-09-03T10:40:46.072563+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__ishockey__rogle-kan-tappa-norska-talangen-till-toronto-en-drom-att-kunna-ta-en-plats.html",
   "extract": {
-   "body": "Rögles nyförvärv Tinus Luc Koblar, 19, kan vara förlorad redan innan han gjort tävlingsdebut för Ängelholmslaget.\nDen norska talangen ska på Torontos camp för försöka ta en plats i truppen.\n– Känner mig extremt taggad inför den utmaningen, säger Tinus Luc Koblar till SVT Sport.\nTinus Luc Koblar är en av Norges största talanger och var med och spelade hem det historiska norska bronset i VM i maj. Under den gångna säsongen tillhörde han Leksand men valde efter säsongen att skriva på för Rögle BK.\n– Det är ett väldigt stort kliv jag tagit i år och jag tycker väl att jag är extremt nöjd med min säsong som har varit, säger Tinus Luc Koblar.\nDraftad av Toronto\nEfter en kort försäsong med Rögle så har nu Tinus Luc Koblar åkt över till Nordamerika för att försöka ta en plats i Toronto som draftade norrmannen i andra rundan 2025.\n– Jag går in med inställning att jag tar en plats, det är det enda man kan göra liksom och sedan visa sig från sin bästa sida. Sen får vi väl se om man är bra nog för att kunna lyckas med det. Känner mig extremt taggad inför den utmaningen, säger Tinus Luc Koblar till SVT Sport.\nSHL andrahandsvalet\nOm han inte skulle ta en plats i NHL så blir han inte kvar och spelar i AHL utan då återvänder han till SHL och Rögle.\n– Om jag inte klarar av att slå mig in i NHL i år ska jag ta ett år till i Sverige innan jag eventuellt åker över igen.\nVad säger Rögle om att du åker över nu till campen?\n– De vill mitt bästa och har önskat mig lycka till. Samtidigt som de också vill att jag kommer tillbaka för jag är ju en del av den tilltänkta truppen, säger Tinus Luc Koblar.",
+   "body": "Rögles nyförvärv Tinus Luc Koblar, 19, kan vara förlorad redan innan han gjort tävlingsdebut för Ängelholmslaget.\nDen norska talangen ska på Torontos camp för försöka ta en plats i truppen.\n– Känner mig extremt taggad inför den utmaningen, säger Tinus Luc Koblar till SVT Sport.\nTinus Luc Koblar är en av Norges största talanger och var med och spelade hem det historiska norska bronset i VM i maj. Under den gångna säsongen tillhörde han Leksand men valde efter säsongen att skriva på för Rögle.\n– Det är ett väldigt stort kliv jag tagit i år och jag tycker väl att jag är extremt nöjd med min säsong som har varit, säger Koblar.\nDraftad av Toronto\nEfter en kort försäsong med Rögle har han nu åkt över till Nordamerika för att försöka ta en plats i Toronto, som draftade norrmannen i andra rundan 2025.\n– Jag går in med inställning att jag tar en plats, det är det enda man kan göra liksom och sedan visa sig från sin bästa sida. Sen får vi väl se om man är bra nog för att kunna lyckas med det. Känner mig extremt taggad inför den utmaningen, säger Koblar till SVT Sport.\nSHL andrahandsvalet\nOm han inte skulle ta en plats i NHL blir han inte kvar och spelar i AHL, utan då återvänder han till Rögle.\n– Om jag inte klarar av att slå mig in i NHL i år ska jag ta ett år till i Sverige innan jag eventuellt åker över igen.\nVad säger Rögle om att du åker över nu till campen?\n– De vill mitt bästa och har önskat mig lycka till. Samtidigt som de också vill att jag kommer tillbaka för jag är ju en del av den tilltänkta truppen, säger Tinus Luc Koblar.",
    "videos": [
     {
      "svtId": "jgWYVyv",
@@ -8680,5 +8680,1389 @@
    }
   },
   "sheet_row": 354
+ },
+ "https://www.svt.se/kultur/det-ar-klart-det-finns-en-liten-oscars-chans-for-arkipelag": {
+  "url": "https://www.svt.se/kultur/det-ar-klart-det-finns-en-liten-oscars-chans-for-arkipelag",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T06:47:05+02:00",
+  "sitemap_title": "Det är klart det finns en Oscars-chans för ”Arkipelag”",
+  "tab": "Kultur",
+  "fetched_at": "2026-09-03T10:38:50.620242+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/kultur__det-ar-klart-det-finns-en-liten-oscars-chans-for-arkipelag.html",
+  "extract": {
+   "body": "”Arkipelag” är ett mörkt och underhållande drama om en skolresa från helvetet. Och det brukar ju gå bra för Alex Schulman.\nHatten av till debut-regissören och renässansmannen Alex Schulman.\n”Arkipelag” är ett mörkt och underhållande drama om en skolresa från helvetet. Det blir Flugornas herre-vibbar i Stockholms skärgård med 30 sjundeklassare. Den ena mer hopplöst oförskämd och hemsk än den andra. Och än värre är de tre klasspapporna – Fares Fares, Gustaf Skarsgård och Linus Wahlgren – och deras maktkamp med eleverna och sinsemellan.\nAtt Schulman sagt att det bygger på erfarenheter från en resa med sin dotters klass får man ta med en nypa salt. Riktigt så här jävligt kan det inte varit, då hade vi läst om det i kvällstidningarna.\nFilmen har obekväma kvalitéer à la Ruben Östlund, som alla föräldrar som suttit på ett föräldramöte kan känna igen sig i, men mest är den en rappt berättad story om en klassresa som går helt överstyr.\nFör det ballar verkligen ur.\nOch det brukar ju gå bra för Alex Schulman, så det är klart det finns en Oscars-chans för ”Arkipelag”.\nFast senast en svensk film vann i kategorin bästa utländska film var det Ingmar Bergmans ”Fanny och Alexander” 1984.\nInnan det var det Ingmar Bergmans ”Såsom i en spegel” 1962.\nInnan det var det Ingmar Bergmans ”Jungfrukällan” 1961.\nEn liten chans.",
+   "videos": [
+    {
+     "svtId": "KGVp3ad",
+     "duration": 58,
+     "title": "Det är klart det finns en liten Oscars-chans för ”Arkipelag”",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 357
+ },
+ "https://www.svt.se/kultur/george-clooney-tog-emot-hederspris-i-venedig": {
+  "url": "https://www.svt.se/kultur/george-clooney-tog-emot-hederspris-i-venedig",
+  "pubdate": "2026-09-03T07:34:06+02:00",
+  "lastmod": "2026-09-03T07:34:06+02:00",
+  "sitemap_title": "George Clooney tog emot hederspris i Venedig",
+  "tab": "Kultur",
+  "fetched_at": "2026-09-03T10:38:53.021952+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/kultur__george-clooney-tog-emot-hederspris-i-venedig.html",
+  "extract": {
+   "body": "George Clooney tilldelades hederspris under filmfestivalen i Venedig.\nI sitt tacktal belyste skådespelaren vikten av berättelser i en tumultartad värld.\n– De första som auktoritära krafter försöker tysta är inte politiker. Det är journalister som ställer frågor, konstnärer som vägrar att nöja sig med enkla svar, filmskapare, författare, skådespelare och musiker, sade George Clooney från scenen.\n”Berättelser alltid farliga”\nClooney fick guldlejonet för sin livslånga gärning och i motiveringen betonas skådespelarens anmärkningsvärda professionalism.\n– Vi lever i en tid där makthavarna och de som har mest pengar uppmanar oss att frukta varandra. Berättelser är alltid farliga för dem som livnär sig på rädsla.\nVenedigfestivalen hålls mellan 2 och 12 september.",
+   "videos": [
+    {
+     "svtId": "eoraGrM",
+     "duration": 76,
+     "title": "George Clooney tog emot hederspris i Venedig",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T07:34:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 389
+ },
+ "https://www.svt.se/kultur/jazzsangerskan-cassandra-wilson-dod": {
+  "url": "https://www.svt.se/kultur/jazzsangerskan-cassandra-wilson-dod",
+  "pubdate": "2026-09-03T08:20:50+02:00",
+  "lastmod": "2026-09-03T10:11:35+02:00",
+  "sitemap_title": "Jazzsångerskan Cassandra Wilson död",
+  "tab": "Kultur",
+  "fetched_at": "2026-09-03T10:38:55.498807+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/kultur__jazzsangerskan-cassandra-wilson-dod.html",
+  "extract": {
+   "body": "Cassandra Wilson har avlidit, 70 år gammal, skriver AP.\nDen amerikanska sångerskan var känd för att blanda jazz, rotmusik och r’n’b under en 50 år lång karriär.\nPå album som kritikerhyllade ”Belly of the sun” från 2002 och Grammybelönade ”New moon daughter”, 1996, skapade Cassandra Wilson en egen mix av musik, präglad av hennes uppväxt i Jackson, Mississippi i den amerikanska Södern.\nMed sin karakteristiska mörka kontraaltröst sökte hon sig ofta utanför jazzens gränser och tolkade även låtar av så vitt skilda namn som The Monkees, U2 och Neil Young.\nI början av 80-talet flyttade Cassandra via New Orleans till New York där hon skivdebuterade som soloartist 1986 och hon var genom åren en flitig gäst i Sverige, på bland annat Stockholms jazzfestival.\n”Cassandra Wilson bar med sig Mississippis sound, känsla och historia vart än hennes musik tog henne”, säger Jacksons borgmästare John Horhn i ett uttalande.",
+   "videos": [
+    {
+     "svtId": "ey2apRn",
+     "duration": 30,
+     "title": "Jazzsångerskan Cassandra Wilson har dött, 70 år gammal",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T08:20:50+02:00",
+   "notes": {}
+  },
+  "sheet_row": 394
+ },
+ "https://www.svt.se/kultur/recension-av-de-besegrade-motstandets-estetik-pa-bonniers-konsthall": {
+  "url": "https://www.svt.se/kultur/recension-av-de-besegrade-motstandets-estetik-pa-bonniers-konsthall",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T09:44:08+02:00",
+  "sitemap_title": "Recension av De besegrade: Motståndets estetik på Bonniers Konsthall",
+  "tab": "Kultur",
+  "fetched_at": "2026-09-03T10:38:57.522317+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/kultur__recension-av-de-besegrade-motstandets-estetik-pa-bonniers-konsthall.html",
+  "extract": {
+   "body": "Hur bekämpar man våld och förtryck med konst och litteratur? Peter Weiss tankevärld och livsverk är grunden för en stor samlingsutställning på Bonniers Konsthall. Kulturnyheternas kritiker Anders Jansson möter en splittrad motkraft till människans barbari.\nKanske måste man börja med att krypa in i huvudet på författaren, filmaren och konstnären Peter Weiss (1916 – 1982) för att ta sig an den här utställningen. Hans monumentala romantrilogi Motståndets Estetik från 1970 och -80-talet handlar om framväxten av fascism och nazism kring andra världskriget. Och det revolutionära motstånd som måste födas som en konsekvens.\nDen unges blick på nazismen\nOch hans mörka blick är den unge konstnärens, som hetsigt, hungrigt och drömskt undersöker hur konst, litteratur och historia kan förmå människor att förstå och göra motstånd mot politiskt förtryck och våld. De tre curatorerna för utställningen har satt samman ett femtontal levande och döda konstnärer från runtom i världen som bidrar med verk som på olika sätt (förväntas) samtala med Weiss mångsidiga livsverk. Ömsom cerebralt, ömsom konkret.\nHur kan konst göra motstånd?\nFrågan som ligger i luften är: Hur kan konst göra motstånd idag? För fascismen är ju inte utrotad, krigiska stater mördar människor varje dag . Peter Weiss kom till Sverige som judisk flykting 1939, blev svensk medborgare och så småningom internationellt berömd dramatiker tillsammans med livskamraten, scenografen Gunilla Palmstierna-Weiss . Milstolpar som Marat/Sade och Auschwitz-rättegångsdramat Rannsakningen spelas fortfarande över hela världen. Mitt i utställningen får man en historisk inblick – och ett rostigt stycke scenografi.\nUtan kultur blir vi alla barbarer\nKan man förutspå var nästa bomb faller över Gaza genom en serie målningar? Hur gör man motstånd om man redan är besegrad? Kan ord, teorier, estetiska ståndpunkter eller konst svara på det? Inte vet jag – men utan allt detta så blir vi alla barbarer. Se utställningen och Anders Janssons recension i videon ovan!\nFler konstrecensioner här.",
+   "videos": [
+    {
+     "svtId": "KAMa3VX",
+     "duration": 142,
+     "title": "Recension av De besegrade: Motståndets estetik på Bonniers Konsthall",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 497
+   }
+  },
+  "sheet_row": 358
+ },
+ "https://www.svt.se/nyheter/inrikes/anmalningsplikt-for-vattkoppor-och-rs-virus": {
+  "url": "https://www.svt.se/nyheter/inrikes/anmalningsplikt-for-vattkoppor-och-rs-virus",
+  "pubdate": "2026-09-03T10:20:27+02:00",
+  "lastmod": "2026-09-03T10:20:27+02:00",
+  "sitemap_title": "Anmälningsplikt för vattkoppor och RS-virus",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-03T10:39:00.701395+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__anmalningsplikt-for-vattkoppor-och-rs-virus.html",
+  "extract": {
+   "body": "Det införs anmälningsplikt för bekräftade fall av vattkoppor och RS-virusinfektion från och med den 1 november, skriver Folkhälsomyndigheten i ett pressmeddelande.\nDet är hälso- och sjukvården som ska anmäla bekräftade fall till den regionala smittskyddsläkaren och Folkhälsomyndigheten.\n”Syftet är att förbättra smittskyddsarbetet genom stärkt övervakning och uppföljning av sjukdomarna”, skriver myndigheten som hänvisar till ett regeringsbeslut om ändringar i smittskyddsförordningen.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T10:20:27+02:00",
+   "notes": {}
+  },
+  "sheet_row": 408
+ },
+ "https://www.svt.se/nyheter/inrikes/fortsatt-rekord-for-utrikesresandet-pa-arlanda": {
+  "url": "https://www.svt.se/nyheter/inrikes/fortsatt-rekord-for-utrikesresandet-pa-arlanda",
+  "pubdate": "2026-09-03T07:36:46+02:00",
+  "lastmod": "2026-09-03T07:36:46+02:00",
+  "sitemap_title": "Fortsatt rekord för utrikesresandet på Arlanda",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-03T10:39:01.805992+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__fortsatt-rekord-for-utrikesresandet-pa-arlanda.html",
+  "extract": {
+   "body": "Sveriges största flygplats, Arlanda, slog rekord för andra månaden i rad gällande utrikesresande, visar Swedavias statistik.\nUtrikesresandet ökade med drygt tre procent till 2,1 miljoner resenärer, vilket överträffar det tidigare rekordet från augusti 2018 med cirka 16 000.\nTotalt hade Arlanda drygt 2,4 miljoner resenärer i augusti. Resandet ökade med två procent jämfört med samma månad i fjol. Inrikesresandet på flygplatsen minskade dock med fyra procent till drygt 324 000 resenärer.\nTotalt reste drygt 3,3 miljoner resenärer via Swedavias tio flygplatser i augusti, vilket också är en ökning med tre procent jämfört med samma månad 2025.\n”Ökningen drevs av fler besökare till Sverige och en ökad efterfrågan i Sverige”, skriver Swedavia.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T07:36:46+02:00",
+   "notes": {}
+  },
+  "sheet_row": 390
+ },
+ "https://www.svt.se/nyheter/inrikes/jakten-pa-metaller-hotar-renarnas-sista-vag-forbi-kiruna-slutet-for-samebyn": {
+  "url": "https://www.svt.se/nyheter/inrikes/jakten-pa-metaller-hotar-renarnas-sista-vag-forbi-kiruna-slutet-for-samebyn",
+  "pubdate": "2026-09-03T05:41:03+02:00",
+  "lastmod": "2026-09-03T05:41:59+02:00",
+  "sitemap_title": "Jakten på metaller hotar renarnas sista väg förbi Kiruna: ”Slutet för samebyn”",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-03T10:39:02.883328+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__jakten-pa-metaller-hotar-renarnas-sista-vag-forbi-kiruna-slutet-for-samebyn.html",
+  "extract": {
+   "body": "Gruvbolaget LKAB:s planerade gruva i Kiruna kan ge Europa tillgång till sällsynta jordartsmetaller som anses nödvändiga för elektrifiering och klimatomställning. Men fyndigheten ligger under den sista smala flyttleden för Gabna samebys renar.\n– Det blir slutet för rennäringen som vi känner den om gruvan byggs, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby i SVT:s ”Renar i vägen”.\nFlera gruvprojekt planeras på samisk mark i norra Sverige för utvinning av mineral till klimatomställningen. Många projekt är hårt kritiserade från samiskt håll och i Kiruna är konflikten extra svår.\n– Hur mycket ska vi offra för Sveriges och Europas välstånd, säger Karin Kvarfordt Niia, från Gabna sameby.\nDen så kallade Per Geijer-fyndigheten i Kiruna är rik på jordartsmetaller, som används för till exempel elbilar, vindkraftverk och mobiler. EU har klassat Per Geijer som ”strategisk viktig”, eftersom den skulle kunna göra Europa mer självförsörjande och mindre beroende av Kina.\n– Du kan inte bygga en elbil utan permanentmagneter. Då krävs dessa metaller. Det handlar om klimatet, försvarsindustrin och säkerhetspolitik, säger Niklas Johansson, direktör för externa relationer på LKAB.\nSamebyn riskerar bli avsnörd\nEftersom Per Geijer ligger på mark som samerna som urfolk har rätt att bruka måste LKAB samråda, men samtalen har brutit samman. Fyndigheten ligger under den 50 meter breda led som återstår av de tidigare 13 kilometer breda markerna, där tusentals renar vandrat i hundratals år. LKAB:s utvinningsmetod skulle göra ovanligt stora sår i marken och samebyn riskerar att snöras av på mitten om en gruva startas.\n– Det är ett experiment att klippa av en hel sameby. Det har aldrig gjorts i Sverige förut. Kan de göra det här så kan det ske på fler ställen, säger Lars-Marcus Kuhmunen.\n– Den som har en mobiltelefon kan inte vara emot gruvor. Ska vi utveckla våra samhällen är det ofta någon som måste backa. Alla kan inte få precis som de vill, inte vi heller, säger Niklas Johansson.\nSex riksdagspartier vill förenkla gruvtillstånden\nSex av de åtta riksdagspartierna svarar i SVT:s valkompass att de vill göra det enklare att starta gruvor på samisk mark.\nDe flesta partier pekar på klimatnyttan med metallerna. MP och V är mest kritiska till förslaget, medan M, och allra mest KD och SD, uttalat vill minska rennäringens inflytande.\nMen Lars-Marcus Kuhmunen ser inte nya gruvor som lösningen på klimatkrisen.\n– Om klimatomställningen sker på vår bekostnad kan den inte kallas hållbar. Lösningen är återhållsamhet snarare än expansion.",
+   "videos": [
+    {
+     "svtId": "8y2apXL",
+     "duration": 194,
+     "title": "Konflikten om Per Geijer i Kirunagruvan",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:41:03+02:00",
+   "notes": {}
+  },
+  "sheet_row": 382
+ },
+ "https://www.svt.se/nyheter/inrikes/must-chefen-om-hybridkrig-finns-ett-hogt-hot": {
+  "url": "https://www.svt.se/nyheter/inrikes/must-chefen-om-hybridkrig-finns-ett-hogt-hot",
+  "pubdate": "2026-09-03T08:41:12+02:00",
+  "lastmod": "2026-09-03T08:41:12+02:00",
+  "sitemap_title": "Must-chefen om hybridkrig: ”Finns ett högt hot”",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-03T10:39:05.132886+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__must-chefen-om-hybridkrig-finns-ett-hogt-hot.html",
+  "extract": {
+   "body": "Efter att Ryssland pekats ut som ansvarigt för drönarhändelsen i Leipzig samlades det svenska Nationella säkerhetsrådet.\nSverige är förberett på ytterligare eskalering.\n– Vi måste ha med det i beräkning, säger Thomas Nilsson, chef för den militära underrättelse- och säkerhetstjänsten Must.\nPå onsdagen samlades det Nationella säkerhetsrådet med anledning av drönarhändelsen i Leipzig i augusti .\nBedömningen är att Ryssland använder sig av avancerad hybridkrigföring mot Natoländer, inklusive Sverige.\n– Man vill göra oss osäkra, man vill splittra oss och man vill att vi ska upphöra med vårt stöd till Ukraina, säger Thomas Nilsson, chef för Must, i Morgonstudion.\nMust: ”Farligare nivå”\nThomas Nilsson menar att drönarhändelsen eskalerar situationen till en farligare nivå, och kallar det för en hybridattack.\n– Det var en drönare som var beväpnad med sprängämnen så vi får utgå från att avsikten var att den skulle explodera.\nSverige är förberett på ett liknande scenario.\n– Det finns ett högt hot mot vårt Ukrainastöd, som också innefattar privata företag och andra delar. Vi jobbar hårt och genomför de skyddsoperationer vi behöver för att göra det säkert.\n”Sverige inget prioriterat mål”\nTill DN säger Thomas Nilsson att Sverige inte är ett prioriterat mål för rysk hybridkrigföring, utan att Ryssland riktar in sig på mål i Tyskland, Polen och Baltikum.\n– Man skulle ganska snabbt kunna ändra sin intention, börja hitta mål och attackera Sverige också, säger han till DN .\nDanmark varnar för sabotage\nUnder onsdagen varnade Danmark för att Ryssland förbereder sabotage mot dansk försvarsindustri, som framför allt har kopplingar till Danmarks militära stöd till Ukraina.\nEnligt säkerhetspolisen PET blir ”helt vanliga danskar” kontaktade och erbjudna uppdrag. Det kan handla om att fotografera en lagerbyggnad, eller rapportera vilka tider en fabrik tar emot leveranser. Det kan också handla om anlagda bränder som får stora konsekvenser.\nDen danska säkerhetspolisen säger att man har tagit de ryska underrättelsetjänsterna ”på bar gärning” då de förberett angrepp i närtid, rapporterar TT.",
+   "videos": [
+    {
+     "svtId": "j3d16dx",
+     "duration": 25,
+     "title": "Must-chefen om ryska hybridhotet: \"Vi är förberedda\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T08:41:12+02:00",
+   "notes": {}
+  },
+  "sheet_row": 397
+ },
+ "https://www.svt.se/nyheter/inrikes/osakra-valjare-kan-avgora-valet-kanske-blir-som-nar-man-handlar-mat": {
+  "url": "https://www.svt.se/nyheter/inrikes/osakra-valjare-kan-avgora-valet-kanske-blir-som-nar-man-handlar-mat",
+  "pubdate": "2026-09-03T09:48:39+02:00",
+  "lastmod": "2026-09-03T09:48:39+02:00",
+  "sitemap_title": "Osäkra väljare kan avgöra valet: ”Kanske blir som när man handlar mat”",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-03T10:39:07.103725+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__osakra-valjare-kan-avgora-valet-kanske-blir-som-nar-man-handlar-mat.html",
+  "extract": {
+   "body": "Gunnar bestämmer sig dagen före, Leif först vid valurnan.\nTio procent av väljarna vet ännu inte hur de ska rösta. SVT frågade osäkra väljare i Skövde om när de ska bestämma sig.\n– Det kanske blir när man står där med valsedeln i handen, säger Rickard Andersson.\nOm mindre än två veckor går till Sverige till val. Trots det finns det fortfarande en stor grupp som ännu inte bestämt sig för hur de ska rösta.\nGunnar Lindström i Skövde är en av väljarna som ännu velar.\n– Jag är öppen fortfarande. Men det är klart att jag har vissa idéer sedan tidigare år, men det kan ändra sig, säger han.\nLeif Wahlander har bestämt sig för block men inte parti. Det beslutet tar han i vallokalen.\n– Det kanske blir samma som när man åker och ska handla mat. Vad ska man välja? Då blir det när man står där: ”Ja. jag tar det”.\n650 000 osäkra väljare\nHenrik Ekengren Oscarsson, professor i statsvetenskap, säger att modernare väljare inte har lika starka känslor för ett visst parti.\n– De överväger snarare att rösta på två-tre partier. Det här för den gruppen som valrörelsen finns till. Man vill hellre avvakta, vilket är fullt rationellt, säger han.\nInför valet 2022 handlade det om tio procent av väljarna, vilket motsvarar runt 650 000 personer. Siffran över osäkra väljare är densamma inför valet 2026, visar en undersökning som Indikator Opinion gjort för Ekot .\nAvgjorde valet 2022\nEnligt Henrik Ekengren Oscarsson är gruppen så stor att den kan avgöra valet – vilket de faktiskt gjorde förra valet.\n– Det var så jämnt förra gången att det var verkligen den här gruppen som gav team Kristersson segern. Man vann de flesta av de här väljarna och det räckte.\nOm de avvaktande väljarna fick bestämma, vilken regering skulle vi få?\n– Två tredjedelar av dem står i mitten, de har varken någon stark vänster- eller högeridentifikation. Ska man tjusa de här väljarna ska man vända sig till mittenväljarna som hör till den här gruppen, säger Henrik Ekengren Oscarsson",
+   "videos": [
+    {
+     "svtId": "eWm7Y4Z",
+     "duration": 97,
+     "title": "Bestämmer sig i vallokalen: \"Får gå på känsla\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T09:48:39+02:00",
+   "notes": {}
+  },
+  "sheet_row": 402
+ },
+ "https://www.svt.se/nyheter/lokalt/blekinge/isabelle-20-tar-emot-roster-ska-sjalv-rosta-for-forsta-gangen-spannande": {
+  "url": "https://www.svt.se/nyheter/lokalt/blekinge/isabelle-20-tar-emot-roster-ska-sjalv-rosta-for-forsta-gangen-spannande",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Isabelle, 20, tar emot röster – ska själv rösta för första gången: ”Spännande”",
+  "tab": "Lokalt/Blekinge",
+  "fetched_at": "2026-09-03T10:39:09.548312+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__blekinge__isabelle-20-tar-emot-roster-ska-sjalv-rosta-for-forsta-gangen-spannande.html",
+  "extract": {
+   "body": "Isabelle Schütz, 20, hjälper Sölvesborgsborna att rösta i förtid.\nSamtidigt ska hon själv lägga sin röst för första gången i årets val.\n– Det är väldigt roligt och spännande. Jag hade ju ingen aning om hur det ens såg ut i en vallokal innan, säger hon.\nIsabelle Schütz, 20, jobbar vanligtvis på Medborgarservice i Sölvesborg. I jobbet ingår bland annat att hjälpa till i vallokalerna – eller i hennes fall att vara röstmottagare.\nDet har gjort att Isabelle Schütz, som aldrig själv fått rösta tidigare, fått en inblick i valprocessen.\n– Det är väldigt roligt och spännande. Jag hade ju ingen aning om hur det ens såg ut i en vallokal innan, säger hon.\nNu ser hon fram emot att själv få lägga sin röst på valdagen.\n– Det känns jättebra att få göra sin röst hörd.\nHör mer om hur det är att vara röstmottagare innan man själv fått rösta i klippet ovan.",
+   "videos": [
+    {
+     "svtId": "KZx7AmQ",
+     "duration": 86,
+     "title": "Isabelle, 20, tar emot röster – ska själv rösta för första gången: \"Spännande\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 359
+ },
+ "https://www.svt.se/nyheter/lokalt/dalarna/skrota-regionen-sa-vill-politikerna-losa-vard-skola-och-klimat": {
+  "url": "https://www.svt.se/nyheter/lokalt/dalarna/skrota-regionen-sa-vill-politikerna-losa-vard-skola-och-klimat",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T06:32:31+02:00",
+  "sitemap_title": "”Skrota regionen” – så vill politikerna lösa vård, skola och klimat",
+  "tab": "Lokalt/Dalarna",
+  "fetched_at": "2026-09-03T10:39:11.001867+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__dalarna__skrota-regionen-sa-vill-politikerna-losa-vard-skola-och-klimat.html",
+  "extract": {
+   "body": "Hur gärna umgås Dalarnas politiker med varandra och vilka samarbetar de bäst med? I ”Middag med makten” möts politikerna för att äta mat ihop och inte minst: reda ut var de står i olika valfrågor.\nSnart är det dags för val och SVT Nyheter Dalarna har bjudit företrädare för riksdagspartierna i länet ut i naturen för en picknick.\nUtifrån vår publiks viktigaste valfrågor här i Dalarna har vi utmanat politikerna till snabba svar i ämnen som vård, skola och klimat.\n– Fler fasta läkarkontakter, säger Socialdemokraternas Lars Isacsson om hur vården ska förbättras.\n– Skrota regionen och inför ett nationellt ansvar för sjukvården, säger Mathias Bengtsson från Kristdemokraterna.\nSe fler svar från politikerna på frågor baserade på era viktigaste valfrågor i videon ovan.\nSnabba frågor: Vilken politiker hinner längst?\nSe om politikerna hinner hela vägen över bron. Har de haft ett vanligt jobb någon gång och ska det byggas med vindkraft i Dalarna? Se politikernas svar, på max 30 sekunder nedan.\nSe del ett av ”Middag med makten” där övriga fyra riksdagspartiers representanter möts för korvgrillning i skogen:",
+   "videos": [
+    {
+     "svtId": "jN3JQWQ",
+     "duration": 267,
+     "title": "Picknick, politik och snabba svar – här möts KD, SD, S och MP inför valet",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 873,
+    "extra_video_modules": 16
+   }
+  },
+  "sheet_row": 360
+ },
+ "https://www.svt.se/nyheter/lokalt/gavleborg/s-anklagas-for-dold-skolagenda-i-sandviken-svaret-inte-sant": {
+  "url": "https://www.svt.se/nyheter/lokalt/gavleborg/s-anklagas-for-dold-skolagenda-i-sandviken-svaret-inte-sant",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T06:44:54+02:00",
+  "sitemap_title": "S anklagas för dold skolagenda i Sandviken – svaret: ”Inte sant!”",
+  "tab": "Lokalt/Gävleborg",
+  "fetched_at": "2026-09-03T10:39:13.016069+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__gavleborg__s-anklagas-for-dold-skolagenda-i-sandviken-svaret-inte-sant.html",
+  "extract": {
+   "body": "Under de senaste åren har landsbygdsskolorna i Åshammar och Jäderfors lagts ner och planer tagits fram på hur två skolor i centrum skulle kunna byggas ut.\nNu anklagas styret med Socialdemokraterna i spetsen för att bedriva en dold skolagenda – kritiserade storskolor.\nPå Moderaternas sociala medier kan vi läsa att det nuvarande styret med S, L och C ska vara på väg i en riktning mot större centrala skolor.\nSverigedemokraterna skriver på sina sociala medier om ”Sossarnas svek mot landsbygden”.\nAtt Socialdemokraterna bröt ett vallöfte när de var med och beslutade om att lägga ner skolorna, det håller de själva med om.\n– Men ett vallöfte kan inte gå före att eleverna ska få en bra utbildning, säger Peter Kärnström (S), kommunstyrelsens ordförande.\nAlla partier säger nej till storskolor i Sandviken\nMen frågan är om Sandvikens kommun går i en riktning mot så kallade ”storskolor”. När SVT Gävleborg frågat alla partier inför valet så är det ingen som tycker att det är en bra idé.\n– Det är någon annan som säger att vi ska göra det. Inte vi, säger Peter Kärnström (S).\nMen Moderaterna har en annan bild.\n– Jag tänker att det har funnits en diskrepans mellan vad man säger att man vill och vad man har gjort, säger Emma Karlsson (M), ordförande i Moderaterna i Sandviken.\nI grunden handlar det här om ”Skolhusplanen 2030”, som var uppe för diskussion i Sandviken under förrförra mandatperioden. Då fick den massiv kritik och har sedan dess lagts på is.\nS: Nedläggningarna var nödvändiga\nMen efter de beslut som tagits de senaste åren så växer kritiken mot att skolhusplanen fortfarande lever kvar, då beslut anklagas för att gå i linje med den. Och att det nuvarande styret skulle gå i en riktning mot storskolor i centrum, som oppositionen är emot.\n– Det är inte sant!, säger Peter Kärnström (S).\nSocialdemokraterna beskriver att beslutet om att lägga ner landsbygdsskolor var tufft men nödvändigt för elevernas kvalitet på utbildning. De menar också att detaljplanerna för att bygga ut två skolor i centrum har tagits fram för att ha en beredskap, om befolkningen åter växer i framtiden.\nModeraterna vill nu se att kommunen tar fram en ny skolplan.\n– Då blir det enklare för alla att förstå var vi är på väg någonstans, säger Emma Karlsson (M).",
+   "videos": [
+    {
+     "svtId": "8vvaoYX",
+     "duration": 100,
+     "title": "Skolnedläggningar och skolplan i Sandvikens kommun inför valet",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 361
+ },
+ "https://www.svt.se/nyheter/lokalt/halland/hemvarnet-snabbutbildar-nya-soldater-annie-33-vill-kunna-bidra": {
+  "url": "https://www.svt.se/nyheter/lokalt/halland/hemvarnet-snabbutbildar-nya-soldater-annie-33-vill-kunna-bidra",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T10:31:37+02:00",
+  "sitemap_title": "Hemvärnet snabbutbildar nya soldater – Annie, 33: ”Vill kunna bidra”",
+  "tab": "Lokalt/Halland",
+  "fetched_at": "2026-09-03T10:39:15.563311+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__halland__hemvarnet-snabbutbildar-nya-soldater-annie-33-vill-kunna-bidra.html",
+  "extract": {
+   "body": "Ett nytt snabbspår för civila frivilliga ska ge Hemvärnet fler soldater. Målet är att rekrytera 3 500 nya hemvärnssoldater i Sverige till 2030.\n– Skulle det hända något så vill man inte bara sitta på rumpan och låta någon annan sköta det, säger hemvärnseleven Annie Anger från Varberg.\nStarta klippet för att se när de nya soldaterna övar på Mästocka skjutfält i Laholms kommun.\nTidigare fanns två vägar för frivilliga till Hemvärnet. Det är inte tillräckligt för att nå målet om 26 000 hemvärnssoldater till 2030, menar Försvarsmakten.\n– Vi gjorde ett pilotprojekt förra året i Härnösand med gott resultat, och de testerna fortsätter i år på åtta olika platser i Sverige, säger kaptenen Anders Håkansson.",
+   "videos": [
+    {
+     "svtId": "85dVLmX",
+     "duration": 88,
+     "title": "Hemvärnet snabbutbildar nya soldater - Annie, 33: \"Vill kunna bidra\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 541
+   }
+  },
+  "sheet_row": 362
+ },
+ "https://www.svt.se/nyheter/lokalt/helsingborg/e4-avstangd-under-dagen-yr8xgb": {
+  "url": "https://www.svt.se/nyheter/lokalt/helsingborg/e4-avstangd-under-dagen-yr8xgb",
+  "pubdate": "2026-09-03T09:41:52+02:00",
+  "lastmod": "2026-09-03T09:44:45+02:00",
+  "sitemap_title": "E4 avstängd under dagen",
+  "tab": "Lokalt/Helsingborg",
+  "fetched_at": "2026-09-03T10:39:18.745544+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__helsingborg__e4-avstangd-under-dagen-yr8xgb.html",
+  "extract": {
+   "body": "Under största delen av torsdagen är E4 avstängd mellan trafikplatserna Markaryd och Skånes Fagerhult i riktning mot Helsingborg. Anledningen är vägarbete.\nFrån 08.00 till 18.00 under torsdagen är E4 avstängd på en kortare sträcka mellan Markaryd och Örkelljunga. Trafiken leds om till väg 502. Efter trafikplats 73 vid Skånes Fagerhult ska trafiken rulla på som vanligt.\n– Detta kommer påverka trafiken då den leds om till en mindre väg en kortare sträcka. Men eftersom det är en torsdag och inte en fredag så är förhoppningen att det inte ska bli allt för omständligt, säger Daniel Mossberg, pressekreterare vid Trafikverket.\nVad ska man tänka på?\n– Det kommer vara mycket tung trafik ute på mindre vägar. Gör inga dumma omkörningar och ta det lite extra lugnt.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T09:41:52+02:00",
+   "notes": {}
+  },
+  "sheet_row": 401
+ },
+ "https://www.svt.se/nyheter/lokalt/helsingborg/starka-reaktioner-efter-avslojande-om-fusk-och-hedersfortryck-chock": {
+  "url": "https://www.svt.se/nyheter/lokalt/helsingborg/starka-reaktioner-efter-avslojande-om-fusk-och-hedersfortryck-chock",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:39:34+02:00",
+  "sitemap_title": "Starka reaktioner efter avslöjande om fusk och hedersförtryck: ”Chock”",
+  "tab": "Lokalt/Helsingborg",
+  "fetched_at": "2026-09-03T10:39:19.885050+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__helsingborg__starka-reaktioner-efter-avslojande-om-fusk-och-hedersfortryck-chock.html",
+  "extract": {
+   "body": "SVT:s avslöjande att lokala företag som ska hjälpa arbetssökande är beredda att fuska, har väckt starka reaktioner bland politiker i Helsingborg.\n– Man försöker hålla kvinnor utanför arbetsmarknaden, helt vansinnigt. Det var en chock att se, säger Mikael Andersson(S).\nUppdrag Granskning och SVT Nyheter Skåne kunde på onsdagen avslöja medvetet fusk i hälften av 100 privata företag i landet som har i uppdrag att skaffa jobb eller utbildning åt långtidsarbetslösa.\n– Man blir ju upprörd, så här får det inte gå till, säger Peter Jansson (C).\nI reportaget ”Fuskförmedlingen” besöker SVT Nyheter Skåne och Uppdrag granskning jobbcoacher med dold kamera för att undersöka om företagen kan tänka sig att bryta mot reglerna för att locka deltagare.\n”Bidrar till segregation och hedersförtryck”\nAv 18 granskade företag på söder i Helsingborg var 9 beredda på att kringgå regler. Dessutom kunde flera tänka sig att hjälpa en man att kontrollera sin fru.\n– Jag blir på ren svenska förbannad. Detta bidrar till segregationen och det hedersförtryck som finns i samhället idag, säger Joakim Lundberg (M).\nPolitikerna som SVT pratar med menar att det är bristande kontroller som gör att fusket kunnat pågå.\n– Systemet behövs stramas åt och Arbetsförmedlingens arbete med kommunen måste förbättras, säger Mikael Andersson (S).\nI videon ovan kan du se hur politikerna vill stoppa fusket.",
+   "videos": [
+    {
+     "svtId": "jqPA1ZX",
+     "duration": 117,
+     "title": "Starka reaktioner efter avslöjande om fusk och hedersförtryck: \"Chock\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 363
+ },
+ "https://www.svt.se/nyheter/lokalt/jamtland/zaria-17-ska-rosta-i-skolvalet-i-ostersund-bra-att-far-se-hur-det-gar-till": {
+  "url": "https://www.svt.se/nyheter/lokalt/jamtland/zaria-17-ska-rosta-i-skolvalet-i-ostersund-bra-att-far-se-hur-det-gar-till",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T07:44:05+02:00",
+  "sitemap_title": "Zaria, 17, ska rösta i skolvalet i Östersund: ”Bra att får se hur det går till”",
+  "tab": "Lokalt/Jämtland",
+  "fetched_at": "2026-09-03T10:39:22.428943+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jamtland__zaria-17-ska-rosta-i-skolvalet-i-ostersund-bra-att-far-se-hur-det-gar-till.html",
+  "extract": {
+   "body": "I samband med de allmänna valen genomförs även skolval. På Wargentin i Östersund kommer 3000 gymnasieelever få möjlighet att delta.\n– Det är väl bra så man får se hur det går till, säger Zaria Slottsborg som går tredje året på vård- och omsorgsprogrammet.\nI samband med de allmänna valen genomförs även skolval. De är riktade mot gymnasieelever och högstadieelever och i år har över 1700 skolor i Sverige anmält sig. Gymnasieskolorna Wargentin och Fyrvallla i Östersund är två av dom som deltar. Den 8 september kommer Wargentins aula förvandlas till en vallokal.\n– Det är sammanlagt 3000 elever, säger Erik Edervall som är samhällskunskapslärare på Wargentin.\nI en korridor på Wargentin sitter Zaria Slottsborg med två kompisar. Hon fyller 18 år senare i höst och får därmed inte rösta i de allmänna valen. Men i skolvalet kommer hon använda sin röst.\n– Man får ju en liten inblick i hur man ska göra och hur det går till, säger hon.\nResultat presenteras på valkvällen\nSkolval kan genomföras fram till 8 september. På kvällen den 13 september presenteras sedan resultaten på nationell-, kommun- och skolnivå. Vid skolvalet 2022 var valdeltagandet 77,9 procent.\nSyftet med skolvalet är att öka ungas kunskap om demokrati och hur val går till samt att stärka deras möjligheter att delta i politiska processer.\nI Jämtlands län är det flera skolor som deltar, exempelvis Anders-Olofskolan i Hammarstrand, Duveds skola, Funäsdalens skola, Gällö skola, Härjedalens gymnasium och Jämtlands gymnasium Berg.",
+   "videos": [
+    {
+     "svtId": "KZx7Ln5",
+     "duration": 89,
+     "title": "Zaria, 17, ska rösta i skolvalet: \"Bra att får se hur det går till\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 364
+ },
+ "https://www.svt.se/nyheter/lokalt/jonkoping/anglagard-blir-nasta-stora-musikal-pa-kulturhuset-spira-i-jonkoping": {
+  "url": "https://www.svt.se/nyheter/lokalt/jonkoping/anglagard-blir-nasta-stora-musikal-pa-kulturhuset-spira-i-jonkoping",
+  "pubdate": "2026-09-03T07:00:32+02:00",
+  "lastmod": "2026-09-03T07:07:01+02:00",
+  "sitemap_title": "Änglagård blir nästa stora musikal på Kulturhuset Spira i Jönköping",
+  "tab": "Lokalt/Jönköping",
+  "fetched_at": "2026-09-03T10:39:24.746797+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jonkoping__anglagard-blir-nasta-stora-musikal-pa-kulturhuset-spira-i-jonkoping.html",
+  "extract": {
+   "body": "Nästa år sätts den folkkära svenska filmklassikern Änglagård upp som musikal på Kulturhuset Spira i Jönköping.\n– Det är en film som det känns som att hela landet har en relation till, säger skådespelaren Kalle Malmberg som spelar Zac.\n”Jag ser väldigt mycket fram emot det här” säger skådespelaren Kalle Malmberg. Se mer i klippet.\nColin Nutleys filmklassiker Änglagård spelades in utanför Ulricehamn och hade premiär 1992. Filmen blev snabbt en svensk klassiker.\nMusikalen hade premiär på Oscarsteatern i Stockholm 2023. Under hösten 2026 sätts den upp på bland annat Säffleoperan och Svenska Teatern i Helsingfors.\n”Stor och svulstig musikal”\nNu flyttar berättelsen till scenen på Kulturhuset Spira i Jönköping. Musiken framförs av Jönköpings Sinfonietta, och rollerna som Fanny och Zac spelas av Madeleine Hilleard och Kalle Malmberg.\n– Det blir en stor och svulstig musikal igen här i huset, säger Kalle Malmberg.\nBerättelsen utspelar sig i byn Yxnared, där Fanny anländer för att ta över herrgården Änglagård. Hennes ankomst vänder upp och ner på tillvaron för byns invånare.\nMusikalversionen av Änglagård är skriven av Edward af Sillén och Daniel Réhn, med musik och sångtexter av Fredrik Kempe.\nÄnglagård har premiär på Kulturhuset Spira september 2027.",
+   "videos": [
+    {
+     "svtId": "8myYoLy",
+     "duration": 85,
+     "title": "Änglagård blir nästa stora musikal på Kulturhuset Spira i Jönköping",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T07:00:32+02:00",
+   "notes": {}
+  },
+  "sheet_row": 388
+ },
+ "https://www.svt.se/nyheter/lokalt/jonkoping/bjorn-oroas-av-giftvaxt-vid-sjon-mina-barnbarn-leker-och-badar-har": {
+  "url": "https://www.svt.se/nyheter/lokalt/jonkoping/bjorn-oroas-av-giftvaxt-vid-sjon-mina-barnbarn-leker-och-badar-har",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T09:13:47+02:00",
+  "sitemap_title": "Björn oroas av giftväxt vid sjön: ”Mina barnbarn leker och badar här”",
+  "tab": "Lokalt/Jönköping",
+  "fetched_at": "2026-09-03T10:39:26.145368+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jonkoping__bjorn-oroas-av-giftvaxt-vid-sjon-mina-barnbarn-leker-och-badar-har.html",
+  "extract": {
+   "body": "Björn Ericsson i Vaggeryd vill få bort den giftiga sprängörten från sjön intill sin tomt där barnbarnen badar. Men kommunen anser att växten inte utgör någon risk och låter den stå kvar.\nSprängörten som kan orsaka medvetslöshet, kräkningar och i värsta fall dödlig utgång växer fritt på flera platser i Sverige, främst vid vattendrag. Den har hittats bakom vårdcentralen i Vaggeryd men kommunen har beslutat att sprängörten inte behöver tas bort.\nBjörn Ericsson, vars tomt gränsar till sjön, menar att han inte känner sig bekväm med att den giftiga växten växer i sjön där hans barnbarn brukar bada.\n– Jag vill inte att sprängörten ska komma i kontakt med mina barnbarn som leker och badar här, säger Björn Ericsson.\nUtgör ingen fara\nHans Göransson som är chef på gatan- och parkavdelningen på kommunen i Vaggeryd menar att det växten endast tas bort när den utgör en fara, som exempelvis när det finns risk att den kommer i kontakt med djur eller människor.\n– Sprängörten växer så långt ut i vattnet här att man inte kommer åt den, säger Hans Göransson.",
+   "videos": [
+    {
+     "svtId": "8DvanyN",
+     "duration": 74,
+     "title": "Sprängört växer kvar på tomt i Sverige trots anmälningar",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 219
+   }
+  },
+  "sheet_row": 365
+ },
+ "https://www.svt.se/nyheter/lokalt/jonkoping/man-doms-till-fangelse-for-hot-mot-aklagare": {
+  "url": "https://www.svt.se/nyheter/lokalt/jonkoping/man-doms-till-fangelse-for-hot-mot-aklagare",
+  "pubdate": "2026-09-03T10:24:05+02:00",
+  "lastmod": "2026-09-03T10:25:52+02:00",
+  "sitemap_title": "Man döms till fängelse för hot mot åklagare",
+  "tab": "Lokalt/Jönköping",
+  "fetched_at": "2026-09-03T10:39:27.499886+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jonkoping__man-doms-till-fangelse-for-hot-mot-aklagare.html",
+  "extract": {
+   "body": "En man i 40-årsåldern från Vetlanda döms till tre månaders fängelse efter att ha hotat en åklagare.\n”Slumpmässigt utvalda kommer att straffas”, skrev mannen i ett mejl till åklagarkammaren.\nMannen hotade åklagaren via telefon och mejl vid tre tillfällen i början av året efter ett förlängt kontaktförbud. Han döms för hot mot tjänsteman.\nHan har bland annat skickat ett mejl till åklagarkammaren där han skrev ”Slumpmässigt utvalda kommer att straffas”.\nHan förnekar brott och menar att han kontaktade myndigheten eftersom han var arg och frustrerad över situationen.\nDomstolen konstaterar däremot att hoten var riktade till åklagaren eftersom att mannen bad om att få be kopplad till henne och angav hennes namn i mejlets ämnesrad.\nMannen döms till tre månaders fängelse av Eksjö tingsrätt.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T10:24:05+02:00",
+   "notes": {}
+  },
+  "sheet_row": 410
+ },
+ "https://www.svt.se/nyheter/lokalt/norrbotten/kryptoforetagens-skattefusk-fortsatter-stjal-fran-samhallet": {
+  "url": "https://www.svt.se/nyheter/lokalt/norrbotten/kryptoforetagens-skattefusk-fortsatter-stjal-fran-samhallet",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Skatteverket: Kryptoföretagens skattefusk fortsätter: ”Stjäl från samhället”",
+  "tab": "Lokalt/Norrbotten",
+  "fetched_at": "2026-09-03T10:39:29.779496+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__norrbotten__kryptoforetagens-skattefusk-fortsatter-stjal-fran-samhallet.html",
+  "extract": {
+   "body": "Skatteverket har beslutat om höjda skatter på närmare 540 miljoner kronor för sex kryptoföretag med verksamhet i Boden. Myndigheten bedömer att bolagen har använt upplägg för att få skattefördelar de inte haft rätt till.\n– Man kommer till ett samhälle och stjäl från det, säger Patrik Lillqvist, underrättelsechef på Skatteverket.\nSVT Norrbottens granskning av kryptobranschen 2024 visade att kryptoföretag blåst svenska staten på en miljard kronor. Majoriteten av skattefusket skedde i Boden.\nSkatteverkets granskning av branschen visar att fusket har fortsatt. Under 2024–2026 har ytterligare nio företag upptaxerats på över en halv miljard kronor totalt.\nMajoriteten av dessa företag, sex av nio, har sin verksamhet i Boden och ska betala tillbaka närmare 540 miljoner kronor.\n– De bolag som vi har kontrollerat har ofta ett särskilt upplägg för att dölja att de ägnar sig åt mining, det vill säga att skapa nya enheter av kryptovalutor. Syftet är att få skattefördelar som företagen inte har rätt till, säger Patrik Lillqvist, underrättelsechef på Skatteverket.\nBolag kan inte betala skulderna\nFlera av kryptoföretagen har överklagat skattebesluten till förvaltningsrätten och kammarrätten som hittills gått på Skatteverkets linje.\nBikupan datacenter, med verksamhet i Boden och Robertsfors, har beviljats rekonstruktion då de inte kan betala skulderna. Företaget har tagit tvisten till Högsta förvaltningsdomstolen där ärendet fortfarande är under prövning.\nSverigechefen: ”Delar inte bedömningen”\nJohanna Törnblad, vd för Bikupan datacenter och Sverigechef för moderbolaget Hive, skriver i ett mejl till SVT.\n”När det gäller Bikupa-bolagens historiska verksamhet delar vi inte Skatteverkets bedömning, vilket framgår av rekonstruktionsansökan där vi förklarar att själva kryptoutvinningen utförs av externa miningpooler som är fristående från HIVE-koncernen”.\nTörnblad fortsätter:\n”Bikupabolagen säljer beräkningskapacitet det vill säga datorkraft som till exempel också kan användas till AI.”",
+   "videos": [
+    {
+     "svtId": "KwqabYL",
+     "duration": 61,
+     "title": "Kryptoföretagens skattefusk fortsätter: \"Stjäl från samhället\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 366
+ },
+ "https://www.svt.se/nyheter/lokalt/norrbotten/m-politiker-sprider-vaccinkritik-i-strid-med-partilinjen": {
+  "url": "https://www.svt.se/nyheter/lokalt/norrbotten/m-politiker-sprider-vaccinkritik-i-strid-med-partilinjen",
+  "pubdate": "2026-09-03T10:00:03+02:00",
+  "lastmod": "2026-09-03T10:35:23+02:00",
+  "sitemap_title": "M-politiker sprider vaccinkritik – i strid med partilinjen",
+  "tab": "Lokalt/Norrbotten",
+  "fetched_at": "2026-09-03T10:39:31.863237+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__norrbotten__m-politiker-sprider-vaccinkritik-i-strid-med-partilinjen.html",
+  "extract": {
+   "body": "Medan mässlingutbrottet på Urkultfestivalen uppmärksammats ifrågasätter M-politikern Inger Oja att människor ”rusar efter vacciner” av rädsla. Hennes återkommande vaccinkritik går emot Moderaternas hållning, men själv ser hon inget problem med det.\n– Vi är för fria människor, säger Oja.\nPå sina sociala medier riktar kommunfullmäktigeledamoten Inger Oja (M) i Luleå återkommande inlägg kritik mot vaccin mot sjukdomar som mässling, difteri, TBE och HPV.\nHon delar länkar till vaccinmotståndare – när Socialdemokraterna lyfter frågan om ett nationellt vaccinationskort ifrågasätter Inger Oja om de är sponsrade av läkemedelsindustrin.\n”I min barndom var ingen orolig för mässling. Man var snarare lite missnöjd om man inte haft mässling. Nu är folk livrädda och rusar efter vacciner trots att det är cirka 0,00067 procent av befolkningen som dog av den sjukdomen”, skriver Inger Oja i ett inlägg den 15 augusti efter mässlingutbrottet på Urkultfestivalen.\nGår emot partilinjen\nInger Ojas ställningstaganden går emot sitt eget parti som ställer sig bakom Folkhälsomyndighetens rekommendationer och det nationella barnvaccinationsprogrammet. Moderaterna är även positiva till ett nationell vaccinationsregister som Inger Oja riktar kraftig kritik mot.\n– Det är väl för faan tur att vi lever i en demokrati där man får tycka olika, säger Inger Oja.\nDirekt efter att SVT ringt upp Inger Oja och ställt frågor om hennes kritik mot vaccin på sociala medier så stänger hon sin facebooksida för allmänheten.\nKan bli otydligt för väljarna\nModeraternas gruppledare i Luleå säger att förtroendevalda bör vara försiktig med hur de uttrycker sig på sociala medier eftersom det kan vara svårt för väljarna att skilja på vad som är en enskild åsikt och vad som är partipolitik.\nMen han har fortsatt förtroende för Inger Oja som är sjättenamn på Moderaternas lista i kommunvalet.\n– Jag ser inte att just det här skulle på något sätt påverka hennes möjligheter att fortsätta i sin politiska gärning, säger Matti Björk (M).",
+   "videos": [
+    {
+     "svtId": "KvvaXBg",
+     "duration": 125,
+     "title": "M-politiker sprider vaccinkritik - i strid med partilinjen",
+     "svtplay": true
+    },
+    {
+     "svtId": "8Zx7ADQ",
+     "duration": 147,
+     "title": "M-politiker om partikollegans vaccinkritik",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T10:00:03+02:00",
+   "notes": {}
+  },
+  "sheet_row": 405
+ },
+ "https://www.svt.se/nyheter/lokalt/orebro/omfattande-vattenlacka-i-orebro-manga-gator-berors": {
+  "url": "https://www.svt.se/nyheter/lokalt/orebro/omfattande-vattenlacka-i-orebro-manga-gator-berors",
+  "pubdate": "2026-09-03T06:14:19+02:00",
+  "lastmod": "2026-09-03T07:34:55+02:00",
+  "sitemap_title": "Vattenläcka i Örebro lagad",
+  "tab": "Lokalt/Örebro",
+  "fetched_at": "2026-09-03T10:39:34.446918+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__orebro__omfattande-vattenlacka-i-orebro-manga-gator-berors.html",
+  "extract": {
+   "body": "En omfattande vattenläcka i Brickeberg i Örebro upptäcktes strax efter midnatt. Omkring 30 gator och områden berördes av störningen.\nStrax efter klockan sju på torsdagsmorgonen meddelade Örebro kommun att läckan är lagad och att vattnet är tillbaka. Men under natten och tidig morgon var många hushåll fortfarande utan vatten.\nKommunen uppger att vattnet kan vara missfärgat och att trycket kan variera en tid efter störningen.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T06:14:19+02:00",
+   "notes": {
+    "factbox_chars": 492
+   }
+  },
+  "sheet_row": 385
+ },
+ "https://www.svt.se/nyheter/lokalt/orebro/socialdemokraterna-darfor-ar-fler-utbildningsvagar-viktiga": {
+  "url": "https://www.svt.se/nyheter/lokalt/orebro/socialdemokraterna-darfor-ar-fler-utbildningsvagar-viktiga",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Socialdemokraterna: Därför är fler utbildningsvägar viktiga",
+  "tab": "Lokalt/Örebro",
+  "fetched_at": "2026-09-03T10:39:35.910674+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__orebro__socialdemokraterna-darfor-ar-fler-utbildningsvagar-viktiga.html",
+  "extract": {
+   "body": "Inför valet tar länets partier med oss till platser de tycker symboliserar deras politik. Socialdemokraterna tog med oss för en rundtur på Örebros universitet.\nSocialdemokraterna tycker att alla ska kunna ha möjligheten utbilda sig till det de vill.\nJenny Steen från Socialdemokraterna är regionstyrelsens ordförande i Örebro och tycker att det är viktigt att samhället säkerställer att det ska finnas flera olika vägar att få kunskap på.\n– Jag tycker att det är jätteviktigt ur ett socialdemokratiskt perspektiv att visa att det aldrig är försent, säger Jenny Steen (S).\nFölj med till Örebros universitet och hör om hur Socialdemokraterna tänker kring olika utbildningsvägar i samhället.",
+   "videos": [
+    {
+     "svtId": "KPBAwJ6",
+     "duration": 125,
+     "title": "Socialdemokraterna: Därför är fler utbildningsvägar viktiga",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 380
+ },
+ "https://www.svt.se/nyheter/lokalt/ost/rebecka-le-moine-mp-vi-har-ett-ansvar-for-vara-egna-skogar": {
+  "url": "https://www.svt.se/nyheter/lokalt/ost/rebecka-le-moine-mp-vi-har-ett-ansvar-for-vara-egna-skogar",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Rebecka Le Moine (MP): ”Vi har ett ansvar för våra egna skogar”",
+  "tab": "Lokalt/Öst",
+  "fetched_at": "2026-09-03T10:39:37.939359+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__ost__rebecka-le-moine-mp-vi-har-ett-ansvar-for-vara-egna-skogar.html",
+  "extract": {
+   "body": "Hon har prisats av kungen som Årets miljöhjälte och varit med och tagit initiativ till Biologiska mångfaldens dag. Nu hoppas Miljöpartiets toppnamn i Östergötland, Rebecka Le Moine, få fortsatt förtroende från väljarna i nästa val.\n– Bryr man sig om naturen och djuren, då är en röst på mig rätt röst, säger hon.\nUtanför Norrköping träffar SVT Rebecka Le Moine (MP), Miljöpartiets toppnamn i Östergötland.\nHon är utbildad naturvårdsbiolog och hennes politiska engagemang började i 20-årsåldern. Som Miljöpartiets toppnamn i Östergötland är skyddandet av skogen en av hennes viktigaste frågor inför valet.\n– Många engagerar sig för regnskogen och Amazonas. Men vi har också ett ansvar för våra skogar, säger hon.\nVill stoppa avverkning\nEnligt Le Moine granskas bara en liten del av de skogar som anmäls för avverkning innan arbetet påbörjas. Därför vill hon att avverkningar ska vänta tills myndigheterna har haft möjlighet att bedöma området.\n– Där vill jag se till att inga skogar avverkas förrän vi kan med säkerhet säga att det är okej att avverka dem, säger hon.\nVarför ska en väljare i Östergötland rösta på just dig?\n– Bryr man sig om naturen och djuren och det som kanske inte så många andra partier och politiker kommer att kämpa för, då är en röst på mig rätt röst, säger Rebecka Le Moine.\nHör Rebecka Le Moine berätta om varför skogen blivit hennes viktigaste politiska fråga i videon.",
+   "videos": [
+    {
+     "svtId": "j7dxYX7",
+     "duration": 101,
+     "title": "Rebecka Le Moine vill reformera skogsbruket i Östergötland",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 381
+ },
+ "https://www.svt.se/nyheter/lokalt/skane/atervandaren-golahmad-tillbaka-i-afghanistan": {
+  "url": "https://www.svt.se/nyheter/lokalt/skane/atervandaren-golahmad-tillbaka-i-afghanistan",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Golahmad får ta hjälp av släkting – för att bidraget ska nå Afghanistan",
+  "tab": "Lokalt/Skåne",
+  "fetched_at": "2026-09-03T10:39:40.050964+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__skane__atervandaren-golahmad-tillbaka-i-afghanistan.html",
+  "extract": {
+   "body": "Migrationsverket har hittills betalat ut återvandringsbidrag till 171 personer. Men många tvingas hitta riskfyllda och ofta dyra vägar för att få ut sina pengar – eftersom myndigheten inte lyckats skriva de avtal som krävs.\n– Jag förde över pengarna till en släktings bankkonto i Sverige. Han tar nu ut dem lite i taget och skickar dem vidare till mig i Afghanistan.\nRegeringen höjde från 1 januari i år återvandringsbidraget för personer som vill flytta tillbaka till sina forna hemländer. SVT har följt Golahmad som nappat på erbjudandet . Migrationsverket har betalat ut hela beloppet, 350 000 kronor, till hans bankkonto i Sverige.\nNär han gick till banken för att ta ut pengarna, eller föra över dem till Afghanistan, fick han beskedet att det inte gick . Afghanistan är rödklassat och det är varken möjligt att föra över pengar dit eller att ta ut 350 000 kronor kontant och ta med sig.\nTar hjälp av släkting\nHan kontaktade Migrationsverket, men fick ingen hjälp. I stället tvingades han hitta en egen väg som kan kosta honom runt 100 000 kronor.\n– Jag förde över pengarna till en släktings bankkonto i Sverige. Han tar nu ut dem lite i taget och skickar dem vidare till mig i Afghanistan. Sedan kan det tillkomma ytterligare kanske 50 000 kronor i kostnader för själva överföringarna.\nAvtal med FN-organisation saknas\nNär SVT kontaktar migrationsministerns stab hänvisar de till att regeringen gett Migrationsverket rätt att ingå internationella avtal, till exempel med FN:s migrationsorganisation IOM, för att kunna betala ut återvandringsbidrag till personer som återvänder till länder dit banköverföringar inte är möjliga.\nMen IOM skriver till SVT att något sådant avtal ännu inte finns:\n”IOM har för närvarande inget gällande avtal med Migrationsverket om administration eller utbetalning av Sveriges återvandringsbidrag.”\nLänder på EU:s sanktionslista\nHittills i år har Migrationsverket betalat ut återvandringsbidrag till 171 personer. De flesta är medborgare i Syrien, Irak, Afghanistan och Demokratiska republiken Kongo – länder som finns på EU:s sanktionslista, där det i praktiken inte går att föra över pengar till lokala banker.\n– Det pågår intensiva dialoger med internationella organisationer om vilka som kan hjälpa oss och bistå vid den här typen av utbetalningar, säger Petra Lindh, enhetschef på Migrationsverket.\n”Inte ensam längre”\nGolahmad befinner sig nu hos sin bror i Kabul medan han väntar på att pengarna successivt ska nå fram. Det kan ta upp till ett år innan hela beloppet är överfört, berättar han.\n– Jag känner mig glad här med min bror, jag känner mig inte ensam längre.",
+   "videos": [
+    {
+     "svtId": "jBwaPxv",
+     "duration": 114,
+     "title": "Golahmad får ta hjälp av släkting – för att bidraget ska nå Afghanistan",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 898
+   }
+  },
+  "sheet_row": 367
+ },
+ "https://www.svt.se/nyheter/lokalt/skane/findus-eller-palsa-har-far-barnen-rosta-pa-rosengard": {
+  "url": "https://www.svt.se/nyheter/lokalt/skane/findus-eller-palsa-har-far-barnen-rosta-pa-rosengard",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Findus eller Pälsa? – Här får barnen på Rosengård rösta",
+  "tab": "Lokalt/Skåne",
+  "fetched_at": "2026-09-03T10:39:41.486952+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__skane__findus-eller-palsa-har-far-barnen-rosta-pa-rosengard.html",
+  "extract": {
+   "body": "Samtidigt som vuxna förtidsröstar får Malmös barn gå till valurnorna i sitt eget val på Rosengårdsbiblioteket. Där ställs tio älskade barnbokskaraktärer mot varandra i en omröstning som ska väcka både läslust och nyfikenhet på demokrati.\n– Det är att ge benen en röst, ett deltagande och läsfrämjande, säger initiativtagaren Ida Hadžić som är biblioteksassistent på Rosengårdsbiblioteket.\nIdén kommer från Danmark, där Børnevalget har engagerat tusentals barn sedan 2015. Nu testas Barnens val för första gången i Sverige. Genom att rösta får barnen lära känna både barnböcker och demokrati.\nSystrarna Signe 8 år och Iris 5 år var bland de första barnen som röstade på Rosengårdsbiblioteket.\n– Jag gillade att rösta. Det var väldigt coolt att man kunde göra det, säger Iris Ask Svensson.\nVar det svårt att välja?\n– Ja, det var lite svårt att välja för att jag har läst så många böcker.\nBarnens val riktar sig till barn i åldern 4–12 år, och kommer att pågå mellan den 26 augusti och 12 september.\nSe i klippet ovan när femåriga Iris visar hur det går till att rösta i Barnens val.",
+   "videos": [
+    {
+     "svtId": "e9daL4R",
+     "duration": 81,
+     "title": "Findus eller Pälsa? Här får barnen rösta på Rosengård",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 368
+ },
+ "https://www.svt.se/nyheter/lokalt/skane/man-misshandlad-pa-bergsgatan-i-malmo": {
+  "url": "https://www.svt.se/nyheter/lokalt/skane/man-misshandlad-pa-bergsgatan-i-malmo",
+  "pubdate": "2026-09-03T08:32:03+02:00",
+  "lastmod": "2026-09-03T10:38:29+02:00",
+  "sitemap_title": "Flera personer inblandade i bråk på Bergsgatan i Malmö",
+  "tab": "Lokalt/Skåne",
+  "fetched_at": "2026-09-03T10:39:42.798556+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__skane__man-misshandlad-pa-bergsgatan-i-malmo.html",
+  "extract": {
+   "body": "Strax innan klockan åtta på torsdagsmorgonen fick polisen in ett larm om ett bråk på Bergsgatan i centrala Malmö. Det ska vara tre personer inblandade, alla är gripna misstänkta för grov misshandel.\nBråket ska ha skett utomhus och initialt är tre personer inblandade. Två av dem har förts till sjukhus med oklart skadeläge. Samtliga är gripna misstänkta för grov misshandel.\n– Vi befinner oss på sjukhuset och personerna kommer att bli förhörda när det går, men jag kan inte gå in på mer detaljer, säger Patric Fors, polisens presstalesperson.\nPolisen är på plats och förhör vittnen. Det ska även göras en teknisk undersökning på platsen.\n– Om det finns personer som har filmat eller sett händelsen kan de kontakta oss, säger Patric Fors.\nEnligt polisen finns det uppgifter om att det ska ha använts tillhygge.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T08:32:03+02:00",
+   "notes": {}
+  },
+  "sheet_row": 395
+ },
+ "https://www.svt.se/nyheter/lokalt/smaland/ensamstaende-magdalena-20-timmars-forskola-betyder-mycket": {
+  "url": "https://www.svt.se/nyheter/lokalt/smaland/ensamstaende-magdalena-20-timmars-forskola-betyder-mycket",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T09:21:03+02:00",
+  "sitemap_title": "Ensamstående Magdalena: ”20 timmars förskola betyder mycket”",
+  "tab": "Lokalt/Småland",
+  "fetched_at": "2026-09-03T10:39:44.121661+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__smaland__ensamstaende-magdalena-20-timmars-forskola-betyder-mycket.html",
+  "extract": {
+   "body": "Magdalena Lindmark i Köpingsvik är ensamstående med två små barn. Hon är en av dem som valt att utnyttja möjligheten att ha sitt äldre barn på förskolan 20 timmar i veckan istället för 15.\nMagdalena Lindmark sitter med lillebror Liam fem månader i famnen. På golvet intill leker Leo 2,5 år. Just nu är han förkyld, men i vanliga fall är han på förskolan ungefär sju timmar om dagen, tre dagar i veckan.\n– Han älskar att vara på förskolan. Det är knappt så att han vill göra något annat. För mig som är ensamstående innebär den utökade tiden möjlighet till större fokus på lillebror under dagen.\nInfördes för ett år sedan\nI början av förra året tog den politiska majoriteten i Borgholm beslutet att utöka tiden på förskola för barn till vårdnadshavare som är föräldralediga, arbetssökande eller sjukskrivna. Förändringen infördes sedan i augusti förra året.\nFörändringen möttes då av kritik från personal inom förskolan som befarade större barngrupper och minskad tid för planering.\n– Jag tror inte att barngrupperna blivit så mycket större. Det föds så pass få barn här i kommunen så det kan inte handla om så många fler varje dag, säger Magdalena.\nÖka ytterligare\nFlera politiska partier vill nu ta ytterligare steg och utöka från 20 till 30 timmar i veckan. Det är däremot något Magdalena Lindmark är tveksam till att utnyttja.\n– Det känns för länge. Då skulle jag få så lite tid med honom. Bara hinna några timmar efter förskolan där vi i princip bara skulle hinna äta innan det är dags att sova igen.",
+   "videos": [
+    {
+     "svtId": "e5dVLn3",
+     "duration": 101,
+     "title": "Borgholm kan utöka förskolan för barn till föräldralediga",
+     "svtplay": true
+    },
+    {
+     "svtId": "KrQBoJJ",
+     "duration": 109,
+     "title": "Borgholm vill utöka förskole­tiden för föräldralediga",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 1325
+   }
+  },
+  "sheet_row": 369
+ },
+ "https://www.svt.se/nyheter/lokalt/smaland/kalmar-kommun-stoppar-forskolornas-pridetag-efter-jo-kritik-jattetrakigt": {
+  "url": "https://www.svt.se/nyheter/lokalt/smaland/kalmar-kommun-stoppar-forskolornas-pridetag-efter-jo-kritik-jattetrakigt",
+  "pubdate": "2026-09-03T09:50:49+02:00",
+  "lastmod": "2026-09-03T10:13:54+02:00",
+  "sitemap_title": "Kalmar kommun stoppar förskolornas pridetåg efter JO-kritik: ”Jättetråkigt”",
+  "tab": "Lokalt/Småland",
+  "fetched_at": "2026-09-03T10:39:47.140055+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__smaland__kalmar-kommun-stoppar-forskolornas-pridetag-efter-jo-kritik-jattetrakigt.html",
+  "extract": {
+   "body": "Inför årets pridevecka har Kalmar kommun uppmanat förskolorna att ta bort pridetåg för barnen. Bakgrunden är JO-kritik i somras, efter att en pappa anmält att hans barn tvingats delta i ett tåg.\n– Vi uppmanar förskolorna att se över inslag som kan uppfattas som manifestationer, säger skolchef Mats Linde.\nPå förskolan Värsnäs har man efter JO-beslutet både valt att ta bort tåget – och att byta namnet från pride till ”normkreativa veckan” – hör mer i klippet\nDen springande punkten i kritiken från Justitieombudsmannen (JO) var att gå i tåg till musik med flaggor kunde uppfattas som en manifestation för en särskild åsikt, och att pridetåget inte var frivilligt i lagens mening. Detta eftersom så små barn inte kan förväntas ta ställning till om de ville vara med eller inte, och samtycke inte inhämtats från vårdnadshavare.\nMats Linde säger sig inte ha några invändningar mot det resonemanget.\n– Det är en ganska klok avvägning man kommer fram till, säger han.\nAndra aktivitetet tillåtna\nMats Linde framhåller att JO inte hade invändningar i övrigt mot andra aktiviteter som förskolan anordnade under prideveckan, och ansåg att dessa följde läroplan. Det är förskoleenheterna själva som ansvarar för upplägget och om man väljer att uppmärksamma värdegrundsfrågor särskilt i samband med Southeast Pride.\nEn förskola har valt att ta bort ordet pride helt ur sina aktiviteter, är det ett bra svar på förändringen?\n– Nej det tror jag inte. Pride är ju inget konstigt, det är ett sätt att manifestera allas rätt att vara den man är. I läroplanen kallar man det värdegrundsarbete. Kärt barn har många namn.\nSå det är fortfarande okej att kalla det pride?\n– Det ser jag inga hinder för, det står heller ingenting om det i JO:s beslut.",
+   "videos": [
+    {
+     "svtId": "K5dVok1",
+     "duration": 117,
+     "title": "Kalmar kommun stoppar förskolornas pridetåg efter JO-kritik: \"Jättetråkigt\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T09:50:49+02:00",
+   "notes": {}
+  },
+  "sheet_row": 403
+ },
+ "https://www.svt.se/nyheter/lokalt/smaland/majoriten-i-borgholm-vill-erbjuda-foraldrarlediga-30-timmars-forskola": {
+  "url": "https://www.svt.se/nyheter/lokalt/smaland/majoriten-i-borgholm-vill-erbjuda-foraldrarlediga-30-timmars-forskola",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T08:19:28+02:00",
+  "sitemap_title": "Majoriteten i Borgholm vill erbjuda föräldralediga 30 timmars förskola",
+  "tab": "Lokalt/Småland",
+  "fetched_at": "2026-09-03T10:39:49.168668+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__smaland__majoriten-i-borgholm-vill-erbjuda-foraldrarlediga-30-timmars-forskola.html",
+  "extract": {
+   "body": "Den politiska majoriteten i Borgholm är nöjda efter införandet av 20 timmar i förskolan för barn till bland annat föräldralediga. Nu vill man öka antalet timmar till 30.\n– Vi vill göra det för att underlätta för familjerna att få ihop livspusslet och barnen får stimulans i förskolan, säger Ilko Corkovic (S), kommunalråd i Borgholm.\nSedan ett år tillbaka kan barn till föräldralediga, sjukskrivna och arbetssökande vårdnadshavare gå 20 istället för tidigare 15 timmar i veckan på förskolan.\n– Det jag har hört från föräldrar är att det varit uppskattat. Men vi kommer också utvärdera förändringen nu under hösten för att se hur det fungerat i praktiken, säger Ilko Corkovic.\nNu vill flera partier ta det ett steg längre och istället erbjuda 30 timmar i veckan. Både Centerpartiet och Vänsterpartiet, som idag styr kommunen tillsammans med Socialdemokraterna, är också positiva till 30 timmar.\nMen alla håller inte med. Kristdemokraterna vill se att pengarna läggs på annat.\n– För oss är det viktigare att hela kommunen ska leva. I dagsläget finns det exempelvis inte någon öppen förskola i Löttorp. Det skulle vi vilja införa, säger Jonas Wullf, ordförande i Kristdemokraterna på Öland.",
+   "videos": [
+    {
+     "svtId": "KrQBoJJ",
+     "duration": 109,
+     "title": "Borgholm vill utöka förskole­tiden för föräldralediga",
+     "svtplay": true
+    },
+    {
+     "svtId": "e5dVLn3",
+     "duration": 101,
+     "title": "Borgholm kan utöka förskolan för barn till föräldralediga",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 1325
+   }
+  },
+  "sheet_row": 370
+ },
+ "https://www.svt.se/nyheter/lokalt/sodertalje/tva-atalas-for-dodsskjutning-i-fornhojden": {
+  "url": "https://www.svt.se/nyheter/lokalt/sodertalje/tva-atalas-for-dodsskjutning-i-fornhojden",
+  "pubdate": "2026-09-03T10:20:26+02:00",
+  "lastmod": "2026-09-03T10:29:36+02:00",
+  "sitemap_title": "Två åtalas för dödsskjutning i Fornhöjden",
+  "tab": "Lokalt/Södertälje",
+  "fetched_at": "2026-09-03T10:39:50.224257+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sodertalje__tva-atalas-for-dodsskjutning-i-fornhojden.html",
+  "extract": {
+   "body": "Den 24 oktober 2025 besköts en bil i Fornhöjden i Södertälje, och den 18-åriga föraren dog av skadorna. Idag åtalas en 29-årig man och en 34-årig kvinna för mord, försök till mord och grovt vapenbrott.\nDet satt tre personer i bilen som besköts sent under en fredagskväll, varav en passagerare skadades och den tredje, en 20-åring, klarade sig oskadd.\nPolisens teori vid tillfället var att skjutningen är del av den gängkonflikt som pågått i Södertälje sedan flera år tillbaka.\nDen åtalade kvinnan och mannen har suttit häktade sedan slutet av oktober förra året.\nÅklagaren: Anlitades för morduppdraget\nÅklagaren menar att mannen och kvinnan tillsammans tog på sig ett morduppdrag och genomförde det.\nEn person är begärd häktad i sin utevaro misstänkt för att ha beställt brotten, men omfattas inte av åtalet.\nÅklagaren hänvisar bland annat till krypterade chattar, övervakningsbilder och teknisk bevisning. Polisen har också säkrat kryptovaluta som enligt åklagaren misstänks vara betalning för mordet.\nHuvudförhandlingen är planerad att starta i mitten av september.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T10:20:26+02:00",
+   "notes": {}
+  },
+  "sheet_row": 407
+ },
+ "https://www.svt.se/nyheter/lokalt/sormland/driver-aktiebolag-trots-partiets-nej-till-vinster": {
+  "url": "https://www.svt.se/nyheter/lokalt/sormland/driver-aktiebolag-trots-partiets-nej-till-vinster",
+  "pubdate": "2026-09-03T07:55:28+02:00",
+  "lastmod": "2026-09-03T07:55:28+02:00",
+  "sitemap_title": "Driver aktiebolag – trots partiets nej till vinster",
+  "tab": "Lokalt/Sörmland",
+  "fetched_at": "2026-09-03T10:39:52.568691+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sormland__driver-aktiebolag-trots-partiets-nej-till-vinster.html",
+  "extract": {
+   "body": "Företrädare för S, V och MP – partier som går till val på att stoppa eller begränsa vinster i välfärden – har 229 kandidater i valet som driver aktiebolag i välfärdssektorn, enligt en granskning som Expressen har gjort.\nEtt exempel är omsorgsbolaget Familjehemsguiden AB, som på tio år delat ut 10 miljoner kronor. Merparten har gått till Gerty Fexler Höjer – tidigare V-gruppledare i Trosa kommun – och maken Ulf Höjer. Båda är V-kandidater i kommunvalet den 13 september.\n– Jag själv är inte helt emot vinster i välfärden, men det ska finnas en begränsning hur stort uttag man kan ta. Du får fråga mina partikamrater vad de tycker, säger Gerty Fexler Höjer till tidningen.\nV-ledaren Nooshi Dadgostar konstaterar att utdelningar från bolag i välfärden är lagligt i dag:\n– Vi vill göra det olagligt oavsett om det är en vänsterpartist eller en sverigedemokrat som bedriver det.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T07:55:28+02:00",
+   "notes": {}
+  },
+  "sheet_row": 391
+ },
+ "https://www.svt.se/nyheter/lokalt/sormland/studsvik-har-valt-leverantor-av-reaktorer": {
+  "url": "https://www.svt.se/nyheter/lokalt/sormland/studsvik-har-valt-leverantor-av-reaktorer",
+  "pubdate": "2026-09-03T08:32:22+02:00",
+  "lastmod": "2026-09-03T10:33:27+02:00",
+  "sitemap_title": "Studsvik har valt leverantör av reaktorer",
+  "tab": "Lokalt/Sörmland",
+  "fetched_at": "2026-09-03T10:39:54.855909+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sormland__studsvik-har-valt-leverantor-av-reaktorer.html",
+  "extract": {
+   "body": "Studsvik har valt leverantör av reaktorer. Valet har landat på GE Vernova Hitachi och Samsung.\nTillsammans ska parterna utveckla ett projekt om fyra reaktorer (SMR) av typen BWRX-300 med en sammanlagd effekt på 1,2 gigawatt. Den första reaktorn beräknas vara i drift i mitten av 2030-talet, skriver Studsvik i ett pressmeddelande.\nBolaget har inte satt ner foten helt när det gäller var reaktorerna ska byggas. Det står mellan Studsviks befintliga kärntekniska anläggning i Nyköping eller vid Målma i Valdemarsvik.",
+   "videos": [
+    {
+     "svtId": "jR5Z61N",
+     "duration": 76,
+     "title": "Här fokuserar utredningarna: Platsen där nya reaktorer kan byggas i Studsvik",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T08:32:22+02:00",
+   "notes": {}
+  },
+  "sheet_row": 396
+ },
+ "https://www.svt.se/nyheter/lokalt/sormland/stumfilmsfestival-rullar-pa-bussar-i-sormland-nar-tiotusentals-resenarer": {
+  "url": "https://www.svt.se/nyheter/lokalt/sormland/stumfilmsfestival-rullar-pa-bussar-i-sormland-nar-tiotusentals-resenarer",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Stumfilmsfestival rullar på bussar i Sörmland – når tiotusentals resenärer",
+  "tab": "Lokalt/Sörmland",
+  "fetched_at": "2026-09-03T10:39:57.952710+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sormland__stumfilmsfestival-rullar-pa-bussar-i-sormland-nar-tiotusentals-resenarer.html",
+  "extract": {
+   "body": "Just nu pågår en stumfilmsfestival på länets bussar. Från Oxelösund i söder till Eskilstuna i norr visas inskickade filmbidrag och Sörmlandstrafiken uppskattar att omkring 50 000 resenärer tar bussen varje vardag.\n– Det är jättekul, jag tycker att alla borde se mer film, speciellt kortfilm, säger 21-årige filmaren Felicia Emanuelsson som tillsammans med Nova Cormier har skickat i ett bidrag.\nIdén till filmfestivalen Stumfilmsrullen föddes efter att flera konserter och en liveinspelning av musik genomförts på en buss .\n– Efter det växte det fram andra tankar om vad man mer kan göra för kulturarrangemang på bussarna, säger Alvin Wedsted, projektledare för kulturhuset Rio i Eskilstuna\nTankarna föll då på bussarnas digitala skärmar som inte har ljud.\n– Och det slutade med en stumfilmsfestival för deltagare i Sörmland, säger Alvin Wedstedt.\nTemat för festivalen var ämnet Tur och totalt skickades det in 32 bidrag som nu, tillsammans med bussarna rullar runt i länet.\n– Jag tycker det känns som en jättefin plattform för kreatörer i alla åldrar att få visa upp sina filmer, säger Sofia Westerlund, marknadsansvarig på Sörmlandstrafiken.\nHör Felicia, 21, om filmprojektet\nFram till 14 september kan man se filmerna och vill man kan man rösta på sin favorit. Alla filmer kommer sedan att visas på Biostaden i samband med kulturnatten i Eskilstuna och då ackompanjeras filmerna av pianisten David Lindström.\n– Det är jättemånga fina bidrag och jag är imponerad över vilken bredd och nivå som filmerna har. Både när det gäller det tekniska och det filmiska, säger Alvin Wedstedt.\nEfter festivalen ska projektet utvärderas och kanske kommer det en fortsättning.\n– Det här känns som startskottet på något nytt som vi hoppas kommer många gånger om igen, säger Sofia Westerlund.\nStumfilmsrullen arrangeras av Sörmlandstrafiken, Film i Sörmland och Rio.\nDärför visas film på bussarna, hör Sörmlandstrafiken och projektledaren i klippet högst upp.",
+   "videos": [
+    {
+     "svtId": "e7dxY3B",
+     "duration": 59,
+     "title": "Därför anordnas Stumfilmsrullen på bussarna",
+     "svtplay": true
+    },
+    {
+     "svtId": "eXv7ygN",
+     "duration": 48,
+     "title": "Hör filmaren Felicia Emanuelsson om att ha med en film på Stumfilmsrullen.",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 372
+ },
+ "https://www.svt.se/nyheter/lokalt/stockholm/de-vill-styra-regionen-debatt-mellan-hadzialic-s-och-conradi-m": {
+  "url": "https://www.svt.se/nyheter/lokalt/stockholm/de-vill-styra-regionen-debatt-mellan-hadzialic-s-och-conradi-m",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T08:02:59+02:00",
+  "sitemap_title": "De vill styra regionen – debatt mellan Hadzialic (S) och Conradi (M)",
+  "tab": "Lokalt/Stockholm",
+  "fetched_at": "2026-09-03T10:40:01.039892+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__stockholm__de-vill-styra-regionen-debatt-mellan-hadzialic-s-och-conradi-m.html",
+  "extract": {
+   "body": "Med bara en dryg vecka kvar till valet möts finansregionrådet Aida Hadzialic (S) och utmanaren Axel Conradi (M), oppositionsregionråd, i en debatt arrangerad av SVT Nyheter Stockholm.\nHör hur de båda ser på ätstörningsvården, vårdköerna och kollektivtrafiken.\nDet var stundtals heta ordväxlingar mellan Aida Hadzialic (S) och Axel Conradi (M) i debatten som hölls i det som fortfarande kallas Landstingssalen.\n– Ätstörningsvården har varit ett förbannat misslyckande den här mandatperioden, säger Axel Conradi.\n– Vi såg att det behövdes en förändring och har under de här åren ökat anslagen till ätstörningsvården, svarar Aida Hadzialic och säger att 100 miljoner kronor ska öronmärkas kommande år.\nS: Sjukvården vår viktigaste fråga\nDe båda partierna fick också välja varsitt ämne till debatten.\nSocialdemokraterna valde vårdköerna:\nM: Lovar 1,6 miljarder till fler avgångar\nModeraterna valde kollektivtrafiken som debattämne. Här handlade diskussionen främst om neddragningar som skett under mandatperioden.\nOppositionspartiet kommer med ett miljardlöfte:",
+   "videos": [
+    {
+     "svtId": "Kwqa2y2",
+     "duration": 118,
+     "title": "Hadzialic (S) och Conradi (M) i debatt om ätstörningsvården",
+     "svtplay": true
+    },
+    {
+     "svtId": "K1q1ano",
+     "duration": 148,
+     "title": "Debatt om kollektivtrafiken i Region Stockholm",
+     "svtplay": true
+    },
+    {
+     "svtId": "8PBAn9k",
+     "duration": 146,
+     "title": "Region Stockholm: Debatt om vårdköer och väntetider",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 1778
+   }
+  },
+  "sheet_row": 371
+ },
+ "https://www.svt.se/nyheter/lokalt/stockholm/e18-stangd-efter-lastbilsolycka": {
+  "url": "https://www.svt.se/nyheter/lokalt/stockholm/e18-stangd-efter-lastbilsolycka",
+  "pubdate": "2026-09-03T10:33:02+02:00",
+  "lastmod": "2026-09-03T10:38:28+02:00",
+  "sitemap_title": "E18 stängd efter lastbilsolycka",
+  "tab": "Lokalt/Stockholm",
+  "fetched_at": "2026-09-03T10:40:03.884245+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__stockholm__e18-stangd-efter-lastbilsolycka.html",
+  "extract": {
+   "body": "En lastbil har kört in i mitträcket och släpet ligger delvis över vägen på E18 Norrtäljevägen. Vägen är nu blockerad, och trafikverket har ännu ingen prognos för när vägen öppnas.\nTrafikolyckan inträffade på E18 Norrtäljevägen strax efter klockan 09 på torsdagsmorgonen. Vägen är blockerad efter Brottby mot Stockholm och leds om via väg 268 och 975.\nIngen person har kommit till skada.\n– Vi vet inte hur lång tid det tar innan vi kan öppna vägen igen, säger Angelica Knutsson, presskommunikatör på Trafikverket.\nTexten uppdateras.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T10:33:02+02:00",
+   "notes": {}
+  },
+  "sheet_row": 412
+ },
+ "https://www.svt.se/nyheter/lokalt/uppsala/knivstanu-vill-riva-upp-bostadsavtal-jamfor-med-hongkong": {
+  "url": "https://www.svt.se/nyheter/lokalt/uppsala/knivstanu-vill-riva-upp-bostadsavtal-jamfor-med-hongkong",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T07:14:27+02:00",
+  "sitemap_title": "Knivsta.nu vill riva upp bostadsavtal – jämför med Hongkong",
+  "tab": "Lokalt/Uppsala",
+  "fetched_at": "2026-09-03T10:40:05.082917+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__uppsala__knivstanu-vill-riva-upp-bostadsavtal-jamfor-med-hongkong.html",
+  "extract": {
+   "body": "Med några veckor kvar till valet har det hettat till om bostadsbyggandet i Knivsta. Det styrande Knivsta.nu vill ta bort bostadsdelen ur fyrspårsavtalet och jämför en framtida bostadstäthet med Hongkong. Det har fått bland annat Vänsterpartiet att reagera.\nKnivsta.nu vill plocka ut bostadsdelen i fyrspårsavtalet, som innebär att kommunen ska möjliggöra för 15 000 bostäder fram till 2057 i Alsike och västra Knivsta.\nI de två områdena finns riktvärden på upp till 500 invånare per hektar. I stället för att följa bostadsbyggnationen i fyrspårsavtalet vill Knivsta.nu ”ha demokratisk rådighet över bebyggelseutvecklingen”.\nI sitt förslag beskriver Knivsta.nu bostadstätheten i avtalet som ”extremt hög”. Partiet jämför den med tätheten i ”många av Hongkongs bostadsområden, där flervåningshusen har mellan 20 och 40 våningar”.\nJämförelsen har fått bland andra Vänsterpartiet att reagera.\n– Man försöker missleda andra partier och Knivstabor, säger Johan Jansson (V), ersättare i kommunstyrelsen.\nHan är med på att det finns områden i Hongkong med omkring 500 invånare per hektar. Men, säger han, det är inte i de områden där höghusen står tätt och har mellan 20 och 40 våningar.\n– Vi har ett område i Knivsta i dag där man byggt mer än maxtaket i avtalet, centrala Ängby, med 600-700 invånare per hektar. Varför jämför man inte med det?\nI klippet ovan: Därför reagerar Vänsterpartiet på Knivsta.nu:s argumentation.\nKNU: ”Kan inte lämna över det till våra barn”\nMatilda Hübinette (KNU) är kommunalråd och den högsta politikern i Knivsta. Hon ser inga möjligheter att bygga upp till 500 invånare per hektar, trots att det redan i dag finns exempel på det.\n– Vi kan inte lämna över det här till våra barn.\nTycker du att det är schysst att koppla ihop 500 invånare per hektar med 20-våningshus i Hong Kong?\n– Vi skriver 500 invånare per hektar för att det står så i avtalet.\nMen ni har ju redan byggt för 600-700 invånare per hektar i centrala Ängby, alltså mer än maxtaket i avtalet, vad är skillnaden?\n– Det handlar om att man ska trycka in 6 000 bostäder i Alsike och 9 000 bostäder i Knivsta fram till 2057. Det är inte tekniskt eller marknadsmässigt möjligt, anser vi.\nFörslaget behandlades vid det senaste kommunfullmäktigemötet. Där fick stora delar av oppositionen – L, MP, S och V – igenom en minoritetsåterremiss. Det innebär att förslaget skickas tillbaka till kommunstyrelsen för fortsatt beredning.\nHur tycker de andra partierna i Knivsta att det ska byggas i kommunen? Gör SVT:s lokala valkompass nedan.",
+   "videos": [
+    {
+     "svtId": "KXv7qzE",
+     "duration": 99,
+     "title": "Knivsta.nu vill riva upp bostadsavtal – jämför med Hongkong",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 373
+ },
+ "https://www.svt.se/nyheter/lokalt/varmland/ferzanna-riley-persson-i-arvika-skulle-giftas-bort-vill-utbilda-om-tvangsaktenskap-och-hederskultur": {
+  "url": "https://www.svt.se/nyheter/lokalt/varmland/ferzanna-riley-persson-i-arvika-skulle-giftas-bort-vill-utbilda-om-tvangsaktenskap-och-hederskultur",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T06:45:53+02:00",
+  "sitemap_title": "Ferzanna Riley Persson i Arvika skulle giftas bort – vill utbilda om tvångsäktenskap och hederskultur",
+  "tab": "Lokalt/Värmland",
+  "fetched_at": "2026-09-03T10:40:08.929034+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__ferzanna-riley-persson-i-arvika-skulle-giftas-bort-vill-utbilda-om-tvangsaktenskap-och-hederskultur.html",
+  "extract": {
+   "body": "När skolåret börjat och ett barn inte dyker upp i klassrummet efter sommarlovet kan det finnas anledning till oro. Det menar Ferzanna Riley Persson i Arvika. I sin bok Heder berättar hon om hur hon skulle giftas bort mot sin vilja.\nHon växte upp i en pakistansk familj i England men bor numera utanför Arvika. Under uppväxten levde hon i två världar. En västerländsk värld utanför hemmet, en annan innanför hemmets väggar.\n– Där styrde pappa med total auktoritet och att ifrågasätta ledde till högljudda bråk och hårda slag, berättar Ferzanna Riley Persson när SVT träffar henne på Sågudden i Arvika.\nLurades att resa till Pakistan\nNär hennes föräldrar ansåg att hennes västerländska vanor blivit en skam för familjen lurades hon och hennes yngre syster med på en resa till familjen i Pakistan.\n– Jag hade hört att sådant kunde hända men trodde aldrig det skulle handla om mig.\nKunskapsbrist hos myndigheter\nNu har Ferzanna bott i Värmland sedan 2019 och hon ser en stor kunskapsbrist kring tvångsäktenskap och hederskultur här.\n– Många som jobbar med sociala frågor här känner inte igen varningstecknen och okunskapen gör att barn hamnar i stor fara, säger hon.\nNu hoppas hon kunna bidra och dela med sig av sina erfarenheter till polis- och sociala myndigheter.",
+   "videos": [
+    {
+     "svtId": "jvvayBW",
+     "duration": 149,
+     "title": "Ferzanna Riley Persson i Arvika skulle giftas bort – vill utbilda om tvångsäktenskap och hederskultur",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 374
+ },
+ "https://www.svt.se/nyheter/lokalt/varmland/misstankt-farligt-foremal-hittat-i-karlstad": {
+  "url": "https://www.svt.se/nyheter/lokalt/varmland/misstankt-farligt-foremal-hittat-i-karlstad",
+  "pubdate": "2026-09-03T06:34:45+02:00",
+  "lastmod": "2026-09-03T08:51:35+02:00",
+  "sitemap_title": "Misstänkt farligt föremål hittat i Karlstad",
+  "tab": "Lokalt/Värmland",
+  "fetched_at": "2026-09-03T10:40:10.849250+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__misstankt-farligt-foremal-hittat-i-karlstad.html",
+  "extract": {
+   "body": "Nationella bombskyddet har under natten varit på plats i Karlstad då polisen hittat ett misstänkt farligt föremål vid en husrannsakan. Tre män har anhållits.\nDet var i samband med att polisen kontrollerade en man misstänkt för narkotikabrott, som man också genomförde en husrannsakan i mannens bostad och då hittade något som uppfattades som ett misstänkt farligt föremål.\nNationella bombskyddet kom till bostaden i natt och ska ha identierat ett föremål. Polisen vill inte uppge några detaljer kring vilken typ av föremål det var.\nTre män har gripits och anhållits för vad som i nuläget rubriceras som grovt brott mot lagen om brandfarliga och explosiva varor.\nDet var NWT och VF som först uppmärksammade händelsen i natt.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T06:34:45+02:00",
+   "notes": {}
+  },
+  "sheet_row": 386
+ },
+ "https://www.svt.se/nyheter/lokalt/vast/katten-hugo-plankade-pa-sparvagnen": {
+  "url": "https://www.svt.se/nyheter/lokalt/vast/katten-hugo-plankade-pa-sparvagnen",
+  "pubdate": "2026-09-03T08:05:09+02:00",
+  "lastmod": "2026-09-03T08:06:35+02:00",
+  "sitemap_title": "Katten Hugo plankade på spårvagnen",
+  "tab": "Lokalt/Väst",
+  "fetched_at": "2026-09-03T10:40:13.061939+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__katten-hugo-plankade-pa-sparvagnen.html",
+  "extract": {
+   "body": "Katten Hugo har blivit viral på sociala medier efter att han plankade mellan Järntorget och Bergsjön. Men för familjen är det inte helt oväntat att Hugo ibland ger sig ut på sina egna äventyr.\n– Jag visste direkt att det var han, säger ägaren Said Asgari Motlagh.\nHugo har bara bott hos sin husse i ungefär fyra månader. Tillsammans med familjens andra katter brukar han få komma ut på innergården, där han kan röra sig fritt under uppsikt.\nProblemet är att Hugo ibland vill längre bort.\nBorta bra men hemma bäst\nJust hemma vid Järntorget har blivit något av en favorit för Hugo. Där verkar han trivas bland människor och allt som händer runt omkring. Men för husse har det inneburit flera promenader för att hämta honom.\nSamtidigt är det inte helt enkelt att bara hålla Hugo kvar på innegården. Han tycker om att vara ute, och husse vill att han ska få fortsätta göra det – men på ett tryggt sätt.\nI klippet kan du se Hugos nattliga äventyr på spårvagnen med Robert Magnusson som hittade Hugo på spårvagnen.",
+   "videos": [
+    {
+     "svtId": "KkAkLo5",
+     "duration": 52,
+     "title": "Katten Hugo plankade på spårvagnen",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T08:05:09+02:00",
+   "notes": {}
+  },
+  "sheet_row": 392
+ },
+ "https://www.svt.se/nyheter/lokalt/vast/zain-11-vill-bli-statsminister-har-startat-eget-parti-i-ulricehamn": {
+  "url": "https://www.svt.se/nyheter/lokalt/vast/zain-11-vill-bli-statsminister-har-startat-eget-parti-i-ulricehamn",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T06:14:33+02:00",
+  "sitemap_title": "Zain, 11, vill bli statsminister – har startat eget parti i Ulricehamn",
+  "tab": "Lokalt/Väst",
+  "fetched_at": "2026-09-03T10:40:14.475712+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__zain-11-vill-bli-statsminister-har-startat-eget-parti-i-ulricehamn.html",
+  "extract": {
+   "body": "Det började redan i lågstadiet för Zain Milhem. Då tog intresset för politik rejäl fart, i samband med valet 2022.\nNu har han hunnit bli 11 år och kämpar för att få till ett ungdomsfullmäktige i Ulricehamn.\n– Jag vill göra bra grejer för Sverige, säger han.\n11-årige Zain Milhem har ett tydligt mål: driva igenom ett permanent ungdomsfullmäktige i Ulricehamns kommun.\nHan har lämnat in ett medborgarförslag till kommunen, vilket han tidigare berättat om i Ulricehamns Tidning .\nZain vill se en plats där ungas röster representeras, och tycker att det är alldeles för många steg mellan elevråd och kommunfullmäktige.\n– Idéer förloras längs vägen, säger han.\nVilka frågor vill du driva?\n– Till exempel vill jag se en bättre ishall i Ulricehamn, bättre basketplaner och kanske schackklubbar.\nHar siktet inställt på riksdagen\nHan har även startat ett eget parti som heter Ungdomspartiet.\n– Just nu är det ett en-persons-parti. Min plan är att kanske få ett mandat till kommunfullmäktige. Men jag hoppas på att få ett mandat till region eller riksdagen, med vuxna kandidater – för jag får inte vara med.\nZain engagerar sig i frågor om ekonomi, försvar, integration och sjukvård. Men en fråga som Zain tycker är extra viktig är uppgraderingen av jänvägslinjen Malmbanan i norra Sverige, som han menar borde vara dubbelspårig.\nHan medger dock att just Malmbanan kanske inte är en fråga som engagerar så många unga.\n– Jag vill bli politiker i riksdagen, så naturligt behöver du då också veta vad som just nu är problem för Sverige. Det är därför jag tänker på Malmbanan.",
+   "videos": [
+    {
+     "svtId": "jQr6nrY",
+     "duration": 75,
+     "title": "Zain, 11, vill bli statsminister – har startat eget parti i Ulricehamn",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 375
+ },
+ "https://www.svt.se/nyheter/lokalt/vasterbotten/forskare-soker-svar-pa-harpestsmittan-tror-pa-fler-fall-i-framtiden-manga-fragetecken-kvar": {
+  "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/forskare-soker-svar-pa-harpestsmittan-tror-pa-fler-fall-i-framtiden-manga-fragetecken-kvar",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T10:15:21+02:00",
+  "sitemap_title": "Forskare söker svar om harpestsmittan – tror på fler fall i framtiden: ”Många frågetecken kvar”",
+  "tab": "Lokalt/Västerbotten",
+  "fetched_at": "2026-09-03T10:40:16.676194+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vasterbotten__forskare-soker-svar-pa-harpestsmittan-tror-pa-fler-fall-i-framtiden-manga-fragetecken-kvar.html",
+  "extract": {
+   "body": "Det kan bli ett rekordår för harpest i år. Forskare söker fortfarande svar på frågor kring smittspridningen och varför vissa år sticker ut i antalet fall.\n– Det är många frågetecken kvar kring hur, var och när man blir smittad och varför man har de här topparna vissa år, säger Lovisa Hökby, doktorand, institutionen för vilt, fisk och miljö på SLU i Umeå.\nDet har i år bekräftats 69 fall av harpest i Västerbotten och mycket tyder på att det kommer bli ett rekordår.\nInfektionssjukdomen orsakas av en bakterie som gnagare kan bära på, och myggor kan också sprida sjukdomen.\nTidigare har man sett att när beståndet av harar och andra gnagare är högt blir fler människor smittade.\nMen 2023 var det ett bottenår för gnagare, men trots detta var det ovanligt många fall av harpest.\nProvtagit vatten\nFör att ta reda på mer om hur smittan sprids har forskare i Umeå undersökt om bävrar bidrar till smittspridningen eftersom harpest sprids via myggor som trivs i vattenmiljöerna som bävern skapar med sina dammar.\n– Vi har provtagit mycket vatten runt om i Sverige, både i bävervåtmarker och andra vatten. Sedan har vi jämfört förekomsten av harpestbakterier, säger Lovisa Hökby.\nDel av ett europeiskt projekt\nMen forskarna har alltså inte sett att bäverdammar innebär någon ökad smittspridning av harpest. Forskningen är en del av ett större europeiskt projekt som också tittar på myggor och smågnagare.\n– Vi vill veta hur de här olika smittkällorna hänger ihop. Var bakterien finns i naturen och hur de hänger i hop med organismerna som kan sprida smittan vidare, säger Lovisa Hökby.",
+   "videos": [
+    {
+     "svtId": "jvvaZN4",
+     "duration": 73,
+     "title": "Forskare söker svar på harpestsmittan - tror på fler fall i framtiden: \"Många frågetecken kvar\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {
+    "factbox_chars": 738
+   }
+  },
+  "sheet_row": 376
+ },
+ "https://www.svt.se/nyheter/lokalt/vasterbotten/hundratals-stromlosa-efter-askovader-i-jorn": {
+  "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/hundratals-stromlosa-efter-askovader-i-jorn",
+  "pubdate": "2026-09-03T06:49:40+02:00",
+  "lastmod": "2026-09-03T07:42:54+02:00",
+  "sitemap_title": "Hundratals strömlösa efter åskoväder i Jörn",
+  "tab": "Lokalt/Västerbotten",
+  "fetched_at": "2026-09-03T10:40:18.935441+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vasterbotten__hundratals-stromlosa-efter-askovader-i-jorn.html",
+  "extract": {
+   "body": "Ett åskoväder har dragit fram över Jörn under torsdagsmorgonen. 580 personer blev utan ström. Skellefteå Kraft arbetar för att åtgärda problemet.\nStrömmen försvann vid 06.15-tiden.\nSkellefteå Kraft skriver på sin hemsida att cirka 580 kunder blev utan ström. Elbolaget arbetar för att åtgärda felet.\n”Vi gör allt för att strömmen snart ska vara tillbaka” skriver Skellefteå Kraft på sin hemsida.\nVid 07.10 hade många fått strömmen åter, men omkring 115 personer saknar ännu el.\nIngen sluttid har satts.\nTexten uppdateras.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T06:49:40+02:00",
+   "notes": {}
+  },
+  "sheet_row": 387
+ },
+ "https://www.svt.se/nyheter/lokalt/vasternorrland/anges-forsta-damlag-i-hockey": {
+  "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/anges-forsta-damlag-i-hockey",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Ånges första damlag i hockey",
+  "tab": "Lokalt/Västernorrland",
+  "fetched_at": "2026-09-03T10:40:20.037251+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vasternorrland__anges-forsta-damlag-i-hockey.html",
+  "extract": {
+   "body": "Ånge IK bildades 1952 och har sedan dess hållit på med ishockey. Under årens gång har klubben haft flera olika lag på både ungdoms- och seniorsidan.\nI början på 1970-talet bildades klubbens första damlag.\nLagets tränare Anita Näsberg, var vid den tiden landets yngsta och kanske enda kvinnliga hockeytränare.\nSe hur det såg ut i mars 1971 när laget fick besök av SVT:s reporter Owe Eriksson.",
+   "videos": [
+    {
+     "svtId": "j4d6oMa",
+     "duration": 135,
+     "title": "Från Arkivet: Ånges första damlag i hockey",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 377
+ },
+ "https://www.svt.se/nyheter/lokalt/vasternorrland/hockeymorsor-i-ange-skapade-eget-damlag-storre-intresse-an-vi-trodde": {
+  "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/hockeymorsor-i-ange-skapade-eget-damlag-storre-intresse-an-vi-trodde",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T07:58:21+02:00",
+  "sitemap_title": "Hockeymorsor i Ånge skapade eget damlag: ”Större intresse än vi trodde”",
+  "tab": "Lokalt/Västernorrland",
+  "fetched_at": "2026-09-03T10:40:21.715845+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vasternorrland__hockeymorsor-i-ange-skapade-eget-damlag-storre-intresse-an-vi-trodde.html",
+  "extract": {
+   "body": "Efter år av längtan ut till isen och avsaknad av ett damlag, bestämde sig några tjejer för att dra ihop ett eget hockeylag i Ånge – Lady Beasts Ånge IK.\n– Det är fantastiskt kul och mycket större intresse än vi trodde, säger Helena Bornedal, en av initiativtagarna till att starta upp Ånges nya damlag.\nAtt Ånge IKs nya damlag startats beror framförallt på en gemensam längtan ut på isen. Några har följt med sina barn på träningar i flera år, andra är själv gamla spelare, medan några knappt stått på ett par skridskor.\n– Vi är ju många som valt att bo kvar här i Ånge. Det här är ju ett sätt att få ha roligt tillsammans och blir ytterligare en träningsform, säger Helena Bornedal.\nFrån första träningen för en knapp månad sen har de vuxit sig större för varje träningstillfälle och är nu uppe i omkring 15 deltagare. De tar med glädje emot fler som känner sig nyfikna på att testa.\n– Ingen tidigare erfarenhet krävs. Det är bara att höra av sig till någon av oss i laget om man är nyfiken, säger Katarina Häreby.\nStab av kvinnor\nPå ungdomssidan har de idag bara lag för killar. Så de tjejer som är intresserade av att spela får vara med i killarnas lag. Bland annat har U10 och U12 både tjejer och killar i sina lag. Lady Beasts är därmed det enda damlaget i ishockeyföreningen just nu.\n– Det som jag tycker är bra är att hela staben är kvinnor. Våra tränare, vår materialare, lagledaren, säger Katarina Häreby.\nDet här är bara början\nDet första riktiga eldprovet väntar senare under hösten. Bland annat har de planerat en match mot Rimbo-laget Mammutarna.\n– Vi pratar också med Timrå och andra föreningar i området och hoppas kunna få till en match med ett annat lag som är lite på samma nivå som oss, säger Helena Bornedal.",
+   "videos": [
+    {
+     "svtId": "jMypPNv",
+     "duration": 105,
+     "title": "Hockeymorsor i Ånge skapade eget damlag",
+     "svtplay": true
+    },
+    {
+     "svtId": "j4d6oMa",
+     "duration": 135,
+     "title": "Från Arkivet: Ånges första damlag i hockey",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 378
+ },
+ "https://www.svt.se/nyheter/lokalt/vastmanland/risk-for-vattenbrist-i-vastmanland-sa-kan-du-paverkas": {
+  "url": "https://www.svt.se/nyheter/lokalt/vastmanland/risk-for-vattenbrist-i-vastmanland-sa-kan-du-paverkas",
+  "pubdate": "2026-09-03T05:30:06+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Risk för vattenbrist i Västmanland – så kan du påverkas",
+  "tab": "Lokalt/Västmanland",
+  "fetched_at": "2026-09-03T10:40:25.449056+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vastmanland__risk-for-vattenbrist-i-vastmanland-sa-kan-du-paverkas.html",
+  "extract": {
+   "body": "Det är låga grundvattennivåer i Västmanland, och nu varnar SMHI för vattenbrist . Det gäller främst de med enskild brunn, men återhållsamhet med vattnet gäller även de med kommunalt vatten.\n– Just nu så rekommenderar vi att man iakttar försiktighet vid vattenanvändandet, och att man avstår från onödig bevattning, som exempelvis bevattning av trädgårdar och liknande, säger Isabella Segerström vattenhandläggare på Länsstyrelsen.\nVarning för lågt grundvatten har SMHI utfärdat i Västmanland sedan den 11 augusti, och orsakerna är dels låga regnmängder i sommar, dels att nivåerna sedan förra året redan var relativt låga.\n– Framför allt påverkar det de hushåll som har egna borrade brunnar, där man faktiskt kan se att risken finns att vattnet sinar säger Isabella Segerström.\nHushåll med egen brunn rekommenderas även att ta prover på sitt vatten då oönskade ämnen ökar i koncentration när det blir låga vattennivåer. Risk för bakterietillväxt ökar också.\nNy plan framåt\nUnder våren har kommunerna tillsammans med Länsstyrelsen arbetet fram en regional vattenförsörjningsplan där syftet är att långsiktigt och hållbart säkra länets vattenförsörjning.\n– Vi har samverkat med kommunerna och VA-bolagen för att motverka och vara i framkant för just sådana här situationer. Och det kan man till exempel göra genom att filtrera ner ytvatten i grundvattensmagasinen, säger Isabella Segerström.",
+   "videos": [
+    {
+     "svtId": "jd6kA5E",
+     "duration": 65,
+     "title": "Risk för vattenbrist i Västmanland – så kan du påverkas",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:30:06+02:00",
+   "notes": {}
+  },
+  "sheet_row": 379
+ },
+ "https://www.svt.se/nyheter/sapmi/ingen-ny-utredning-om-rennaringen-fore-valet-partierna-oeniga-om-direktiv": {
+  "url": "https://www.svt.se/nyheter/sapmi/ingen-ny-utredning-om-rennaringen-fore-valet-partierna-oeniga-om-direktiv",
+  "pubdate": "2026-09-03T09:33:46+02:00",
+  "lastmod": "2026-09-03T09:51:46+02:00",
+  "sitemap_title": "Ingen ny utredning om rennäringen före valet – partierna oeniga om direktiv",
+  "tab": "Nyheter/Sápmi",
+  "fetched_at": "2026-09-03T10:40:28.141071+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__sapmi__ingen-ny-utredning-om-rennaringen-fore-valet-partierna-oeniga-om-direktiv.html",
+  "extract": {
+   "body": "Det kommer inte att tillsättas någon ny rennäringsutredning före valet.\nTidöpartierna är oense om hur utredningen ska arbeta.\n– Så är det ju, för hade Tidöpartierna varit eniga så hade man ju gått fram, säger riksdagsledamoten Kjell-Arne Ottosson (KD) till Sameradion .\nAvsikten var att en ersättning till den nedlagda Renmarkskommittén skulle tillsättas före valet. Utredningen ska ligga till grund för en ny renskötsellag, men partierna är oense om direktiven.\nBeslutet om att avveckla Renmarkskommittén togs i december 2024. Förutom underlag till en ny renskötsellag, skulle kommittén utreda samernas rätt till jakt och fiske i linje med Girjasdomen.\nLiberalerna motsätter sig\nStatsminister Ulf Kristersson säger i Sameradions partiledarintervju att det behövs en ny utredning, men enligt tidningen Svensk Jakt har Liberalerna inte ställt upp på direktiven till en ny utredning.\nI Sameradions partiledarintervju utvecklar Simona Mohamsson (L) partiets inställning i frågan. Se klippet ovan.",
+   "videos": [
+    {
+     "svtId": "j4d6odL",
+     "duration": 76,
+     "title": "Ingen ny utredning om rennäringen före valet",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T09:33:46+02:00",
+   "notes": {}
+  },
+  "sheet_row": 399
+ },
+ "https://www.svt.se/nyheter/sapmi/mikkel-jakobsson-g-eanet-rudja-sami-servodahkii": {
+  "url": "https://www.svt.se/nyheter/sapmi/mikkel-jakobsson-g-eanet-rudja-sami-servodahkii",
+  "pubdate": "2026-09-03T10:13:18+02:00",
+  "lastmod": "2026-09-03T10:13:18+02:00",
+  "sitemap_title": "Mikkel Jakobsson (G): ”Eanet ruđa sámi servodahkii”",
+  "tab": "Nyheter/Sápmi",
+  "fetched_at": "2026-09-03T10:40:30.262389+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__sapmi__mikkel-jakobsson-g-eanet-rudja-sami-servodahkii.html",
+  "extract": {
+   "body": "Son lea doaibman Gurutbellodagas hede 30 jagi.\nDál Mikkel Jakobsson áiggošii álgit Riikkabeaievttohassan\n– Mun jáhkán ahte mus lea ollu máhttu, go mus lea sihke sáme- ja gielddapolitihka hárjánupmi, dadjá son.\nSVT Sápmi háliida deaivat sámi evttohasaid geat servet riikkabeaiválggaide. Mikkel Jakobsson (G) lea ráiddu njealját evttohas.\nMikkel Jakobsson lea 2025 rájis Sámedikki kulturlávdegotti ođđa ságadoallii, ja sámi politihkas son ovddasta Samerna bellodaga. Son lea dál Gurutbellodaga evttohas Riikkabeaiválggaide, ja son háliida eanet áŋgiruššat kultuvrrii ja oahpahusii.\n– Buot sámepolitihkka lea diehttelas dehálaš. Seamma guoská birasáššiide – mot mii eallit, ja movt mii hálddašit buot, dadjá Mikkel Jakobsson.\nHáliida eanet gielladoaibmabijuid\nSámi áššit leat Jakobssonii hui dehálaččat.\n– Mun sávan ahte ollu eanet ruhta juolluduvvo sámi servodahkii boahtte válgaáigodagas, vai mis lea ealli kultuvra mii sáhttá ovdánit, dadjá son.\nSon háliida eanet sámegieloahpahusa skuvllain veahkehan dihtii nuoraid.\n– Nu ahte nuorat geat háliidit oahppat sámegiela, ožžot vejolašvuođa oahppat dan, eai dušše ovtta dahje guokte diimmu vahkus, dadjá son.",
+   "videos": [
+    {
+     "svtId": "Ky2aXZA",
+     "duration": 79,
+     "title": "Mikkel Jakobsson (V): \"Mer pengar till det samiska samhället\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T10:13:18+02:00",
+   "notes": {}
+  },
+  "sheet_row": 406
+ },
+ "https://www.svt.se/nyheter/sapmi/mikkel-jakobsson-v-mer-pengar-till-det-samiska-samhallet": {
+  "url": "https://www.svt.se/nyheter/sapmi/mikkel-jakobsson-v-mer-pengar-till-det-samiska-samhallet",
+  "pubdate": "2026-09-02T11:50:11+02:00",
+  "lastmod": "2026-09-03T05:30:06+02:00",
+  "sitemap_title": "Mikkel Jakobsson (V): ”Mer pengar till det samiska samhället”",
+  "tab": "Nyheter/Sápmi",
+  "fetched_at": "2026-09-03T10:40:32.557111+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__sapmi__mikkel-jakobsson-v-mer-pengar-till-det-samiska-samhallet.html",
+  "extract": {
+   "body": "Han har varit aktiv i Vänsterpartiet i nästan 30 år.\nNu kandiderar Mikkel Jakobsson till riksdagsvalet.\n– Jag tror jag kan tillföra en hel del eftersom jag varit i både den samiska och kommunala politiken, säger han.\nSVT Sápmi har som ambition att möta de samiska företrädarna som kandiderar till riksdagen. Mikkel Jakobsson (V) är den fjärde riksdagskandidaten i serien.\nMikkel Jakobsson är sen 2025 ny ordförande för Sametingets kulturnämnd och representerar Partiet Samerna i den samiska politiken. Nu kandiderar han för Vänsterpartiet i riksdagsvalet, där han vill slå ett slag för kultur och utbildning.\n– All samisk politik är ju viktig. Miljöfrågan likaså, hur vi lever och hur vi tar hand om allt, säger Mikkel Jakobsson.\nVill se språksatsningar\nDet är de samiska frågorna som Jakobsson har närmast hjärtat.\n– Jag vill att det under den kommande mandatperioden överförs mycket mer pengar till det samiska samhället så att vi kan få en levande kultur som kan blomstra, säger han.\nHan vill också se en större språksatsning på samiska i skolan, för att ge unga bättre förutsättningar.\n– Så att de unga som vill lära sig samiska får en ärlig chans att lära sig samiska, inte bara en timme i veckan eller något sånt, säger han.\nMikkel representerar även Vänsterpartiet i Lycksele kommun.\nHör mer i klippet ovan.",
+   "videos": [
+    {
+     "svtId": "Ky2aXZA",
+     "duration": 79,
+     "title": "Mikkel Jakobsson (V): \"Mer pengar till det samiska samhället\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-02T11:50:11+02:00",
+   "notes": {}
+  },
+  "sheet_row": 355
+ },
+ "https://www.svt.se/nyheter/utrikes/3-september-nattens-nyheter-3kut6v": {
+  "url": "https://www.svt.se/nyheter/utrikes/3-september-nattens-nyheter-3kut6v",
+  "pubdate": "2026-09-03T05:28:35+02:00",
+  "lastmod": "2026-09-03T05:47:26+02:00",
+  "sitemap_title": "3 september: Nattens nyheter",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-03T10:40:33.700542+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__3-september-nattens-nyheter-3kut6v.html",
+  "extract": {
+   "body": "Danmarks säkerhetspolis varnar för ryskt sabotage\nRyssland förbereder sabotage mot Danmarks försvarsindustri, menar den danska säkerhetspolisen.\nEn död efter dykolycka i Kungsbacka\nEn person har dött efter en dykolycka i Kungsbacka kommun.\nSchröder målskytt igen i CL-kvalet\nI sin tredje match för Real Madrid slog Felicia Schröder till igen och tog laget vidare till Champions league.",
+   "videos": [
+    {
+     "svtId": "e4d6ooL",
+     "duration": 50,
+     "title": "Här nätar Felicia Schröder för Real Madrid i CL-kvalet mot Ajax",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:28:35+02:00",
+   "notes": {}
+  },
+  "sheet_row": 356
+ },
+ "https://www.svt.se/nyheter/utrikes/80-personer-hittade-doda-i-bat-utanfor-kanarieoarna": {
+  "url": "https://www.svt.se/nyheter/utrikes/80-personer-hittade-doda-i-bat-utanfor-kanarieoarna",
+  "pubdate": "2026-09-03T09:54:23+02:00",
+  "lastmod": "2026-09-03T10:16:28+02:00",
+  "sitemap_title": "80 personer döda efter båtolycka utanför Kanarieöarna",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-03T10:40:34.851118+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__80-personer-hittade-doda-i-bat-utanfor-kanarieoarna.html",
+  "extract": {
+   "body": "Minst 80 personer har dött efter en båtolycka utanför Kanarieöarna.\nDet rapporterar spanska nyhetsbyrån Efe .\nDen mindre båten ska ha drivit sönder söder om Kanarieöarna.\nTidigt på torsdagsmorgonen nådde räddningsinsatsen fram och fann 45 överlevande i båten, samt fem döda.\n128 passagerare ska ha varit ombord på båten som lämnade Gambia för 26 dagar sedan.\nÖver 80 personer, varav en bebis, ska ha dött.\nBåten ska ha lokaliserats av ett flygplan tillhörande Spaniens marina räddningstjänst Salvamento Maritimo på onsdagseftermiddagen.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T09:54:23+02:00",
+   "notes": {}
+  },
+  "sheet_row": 404
+ },
+ "https://www.svt.se/nyheter/utrikes/ryanair-tecknar-kollektivavtal": {
+  "url": "https://www.svt.se/nyheter/utrikes/ryanair-tecknar-kollektivavtal",
+  "pubdate": "2026-09-03T09:21:33+02:00",
+  "lastmod": "2026-09-03T09:21:33+02:00",
+  "sitemap_title": "Ryanair tecknar kollektivavtal",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-03T10:40:35.974221+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__ryanair-tecknar-kollektivavtal.html",
+  "extract": {
+   "body": "Lågprisflygbolaget Ryanair tecknar kollektivavtal med Svenska Transportarbetareförbundet.\nAvtalet omfattar Ryanairs bas på Arlanda i Sverige vilket innebär att kabinpersonal ska få kollektivavtalade löner och anställningsvillkor, skriver förbundet i ett pressmeddelande.\n”Det här är ett historiskt besked för Ryanairs anställda och en viktig framgång för den svenska modellen”, säger ordförande Tommy Wreth i ett pressmeddelande.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-03T09:21:33+02:00",
+   "notes": {}
+  },
+  "sheet_row": 398
+ },
+ "https://www.svt.se/nyheter/utrikes/vart-femte-barn-utsatts-for-overgrepp-online": {
+  "url": "https://www.svt.se/nyheter/utrikes/vart-femte-barn-utsatts-for-overgrepp-online",
+  "pubdate": "2026-09-03T05:46:59+02:00",
+  "lastmod": "2026-09-03T09:19:34+02:00",
+  "sitemap_title": "Vart femte barn utsätts för övergrepp online",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-03T10:40:37.191367+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__vart-femte-barn-utsatts-for-overgrepp-online.html",
+  "extract": {
+   "body": "Vart femte barn som använder internet utsattes för övergrepp online inom loppet av ett år – och 40 procent berättade inte för någon.\nDet visar en ny global studie från Unicef.\n– Många lägger skulden på sig själva och är rädda för omgivningens och föräldrarnas reaktioner, säger Unicef Sveriges barnrättsrådgivare Lulu Li.\nUnicefs rapport baserar sig på undersökningar med 21 000 barn i 21 länder och är en av de största studierna i världen i sitt slag.\nResultatet visar att var femte barn som använder internet utsattes för sexuella övergrepp online.\nOmkring 60 procent av övergreppen skedde på vanliga sociala medier. Övergrepp på onlinespel är också ganska vanligt.\n– Utsattheten är enorm, oftast på sociala plattformar där barn oftast är, säger Lulu Li i SVT Morgonstudien.\nOfta någon i barnets närhet\nEn majoritet av övergreppen, 57 procent, begicks av en person som barnen redan kände.\n– Det slår hål på myten om att det är en främling långt bort som kontaktar, groomar och utsätter våra barn. Verkligheten visar att det är betydligt vanligare än man tror att det är någon som redan finns i barnets närhet, säger Lulu Li.\nDet kan vara en familjemedlem, någon från skolan, en pojkvän, flickvän, eller någon annan i den fysiska världen, säger hon.\nStort stigma\nFärre än 1 procent av barnen anmälde övergreppen till polis eller sociala myndigheter, enligt rapporten.\n40 procent berättade inte för någon alls vad de hade utsatts för.\n– Det är oftast väldigt mycket stigma, skuld och skam kopplat till den här utsattheten. Det vi ser efter att ha pratat med ungdomar som utsatts i sin barndom är att de ofta inte vet var de ska vända sig.\nKritisk mot plattformarna\nLulu Li är kritisk mot de stora plattformarna och menar att apparnas utformning kan underlätta för förövare att komma i kontakt med barn.\n– Det kan exempelvis handla om att det är alldeles för enkelt för en förövare att online hitta barns uppgifter, förstå vilka kretsar de umgås i och vad de har för intressen. Det utnyttjas av förövare för att kontakta, bygga förtroende, eller pressa och grooma barn.\nMen det händer en hel del på EU-nivå för att lagstifta kring hur plattformar måste agera. Där finns det mycket regler för hur barns uppgifter måste hållas privata, vilka funktioner som inte ska vara tillgängliga för barn och hur plattformarna kontinuerligt ska se över risker, säger Li\n– Politikerna behöver utöva betydligt mer press för att visa att den lagen har betydelse och att det får kännbara konsekvenser när man inte följer den.",
+   "videos": [
+    {
+     "svtId": "KR5GN59",
+     "duration": 91,
+     "title": "Så pratar du med barn om risker på nätet",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T05:46:59+02:00",
+   "notes": {
+    "factbox_chars": 775
+   }
+  },
+  "sheet_row": 383
+ },
+ "https://www.svt.se/nyheter/utrikes/wmo-el-nino-kan-bli-den-starkaste-nagonsin": {
+  "url": "https://www.svt.se/nyheter/utrikes/wmo-el-nino-kan-bli-den-starkaste-nagonsin",
+  "pubdate": "2026-09-03T10:20:31+02:00",
+  "lastmod": "2026-09-03T10:22:59+02:00",
+  "sitemap_title": "WMO: El Niño kan bli den starkaste någonsin",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-03T10:40:39.295052+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__wmo-el-nino-kan-bli-den-starkaste-nagonsin.html",
+  "extract": {
+   "body": "Årets El Niño kan bli den starkaste någonsin, enligt World Meteorological Organization (WMO).\nOrganisationen säger att väderfenomenet redan är igång – och kommer intensifieras till exceptionellt starkt de kommande månaderna.\n– Det slår alla rekord, säger Celeste Saulo, generalsekreterare för WMO på deras presskonferens.\nWMO har tidigare varnat för att ett super-El Niño kan drabba världen i år. Nu säger de att det kan bli den starkaste som uppmätts.\n– Uppdateringen visar att El Niño har förstärkts och kommer fortsätta bli exceptionellt stark. Den kan bli starkare än någonsin sedan vi började mäta. Det slår alla rekord på fyra decennier, säger Celeste Saulo, generalsekreterare för WMO på organisationens presskonferens.\nEnligt WMO:s prognoser är det nästan hundra procents sannolikhet att El Niño kommer att bestå till februari 2027. Det är första gången organisationen uttryckt sådan säkerhet. Och de kommande månaderna väntas fenomenet växa sig ännu starkare.\nRisken för översvämningar, torka och extremvärme 2027 ökar.\nKraftfullt väderfenomen\nEl Niño är ett av våra mest kraftfulla väderfenomen. Det inträffar med några års mellanrum i Stilla havet – den typ av konstanta vindar som kallas passadvindar avtar vilket får temperaturen i havet att stiga. Det brukar ge stora konsekvenser för vädret i världen.\nEl Niño kommer nå sin kulmen mot slutet av detta år. Klimatpåverkan kommer att fortsätta långt in i 2027, enligt ett uttalande från WMO.",
+   "videos": [
+    {
+     "svtId": "KvvQLoq",
+     "duration": 134,
+     "title": "Så funkar väderfenomenet El Niño",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T10:20:31+02:00",
+   "notes": {}
+  },
+  "sheet_row": 409
+ },
+ "https://www.svt.se/sport/friidrott/alhaji-jeng-jamfor-stjarnornas-teknik-dar-ar-han-i-en-klass-for-sig": {
+  "url": "https://www.svt.se/sport/friidrott/alhaji-jeng-jamfor-stjarnornas-teknik-dar-ar-han-i-en-klass-for-sig",
+  "pubdate": "2026-09-03T06:12:00+02:00",
+  "lastmod": "2026-09-03T06:12:00+02:00",
+  "sitemap_title": "Alhaji Jeng jämför stjärnornas teknik: ”Där är han i en klass för sig”",
+  "tab": "Sport",
+  "fetched_at": "2026-09-03T10:40:40.617670+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__friidrott__alhaji-jeng-jamfor-stjarnornas-teknik-dar-ar-han-i-en-klass-for-sig.html",
+  "extract": {
+   "body": "Emmanouil Karalis har närmat sig Armand Duplantis rejält senaste tiden.\nÄven om stjärnorna liknar varandra i mycket – finns också skillnader.\n– De har båda 20 steg, men sättet de springer på är annorlunda, säger SVT:s expert Alhaji Jeng.\nEmmanouil Karalis hoppade nyligen 6,20 och ”Mondo” har berättat att han triggas av konkurrensen från greken.\n– Det var en riktig battle, sa Duplantis om den senaste duellen.\nPå fredag möts de igen när Diamond League-finalen avgörs i Bryssel – en tävling som sänds i SVT2/Play med start 18.30.",
+   "videos": [
+    {
+     "svtId": "8p5adqW",
+     "duration": 123,
+     "title": "Bild för bild: Experten pekar ut skillnaderna i stavhoppgiganternas teknik",
+     "svtplay": true
+    },
+    {
+     "svtId": "8LJpWk9",
+     "duration": 54,
+     "title": "Armand Duplantis inför tävlingarna mot EmmanouilKaralis",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T06:12:00+02:00",
+   "notes": {}
+  },
+  "sheet_row": 384
+ },
+ "https://www.svt.se/sport/friidrott/klart-svt-sander-andreas-almgren-i-kopenhamns-halvmaraton": {
+  "url": "https://www.svt.se/sport/friidrott/klart-svt-sander-andreas-almgren-i-kopenhamns-halvmaraton",
+  "pubdate": "2026-09-03T10:24:15+02:00",
+  "lastmod": "2026-09-03T10:30:15+02:00",
+  "sitemap_title": "Klart: SVT sänder Andreas Almgren i Köpenhamns halvmaraton",
+  "tab": "Sport",
+  "fetched_at": "2026-09-03T10:40:43.035383+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__friidrott__klart-svt-sander-andreas-almgren-i-kopenhamns-halvmaraton.html",
+  "extract": {
+   "body": "Den 20 september springer europamästaren Andreas Almgren VM i halvmaraton i Köpenhamn. Det är nu klart att SVT sänder loppet.\nDen 15 augusti vann Andreas Almgren EM-guld på 10 000 meter efter en överlägsen uppvisning.\nEfter guldet meddelade Almgren att han nu siktar mot bland annat New York Marathon den 1 november, men också VM i halvmaraton i Köpenhamn den 20 september.\nNär SVT Sport nyligen träffade honom för att prata om satsningen mot New York, berättade Almgren att han inte är nervös för att springa långa lopp, trots att han aldrig någonsin ens sprungit längre än 33 kilometer.\n– Kroppen är ju så anpassningsbar. Jag är ju den snabbaste europén genom tiderna på halvmaraton, konstaterade han.\nKlockan 09.45 den 20 september startar VM i halvmaraton, som sänds i SVT och kommenteras av Niklas Nord.",
+   "videos": [
+    {
+     "svtId": "eQr6qRY",
+     "duration": 80,
+     "title": "Andreas Almgrens kaxiga mål i New York: \"Tänker på det hela tiden\"",
+     "svtplay": true
+    },
+    {
+     "svtId": "K1q1X1P",
+     "duration": 59,
+     "title": "Andreas Almgren blind-rankar: Sveriges bästa friidrottare genom tiderna",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T10:24:15+02:00",
+   "notes": {}
+  },
+  "sheet_row": 411
+ },
+ "https://www.svt.se/sport/friidrott/lotta-haralas-besked-efter-finnkampen-halsenan-var-helt-av": {
+  "url": "https://www.svt.se/sport/friidrott/lotta-haralas-besked-efter-finnkampen-halsenan-var-helt-av",
+  "pubdate": "2026-09-03T09:39:19+02:00",
+  "lastmod": "2026-09-03T09:43:13+02:00",
+  "sitemap_title": "Lotta Haralas besked efter Finnkampen: ”Hälsenan var helt av”",
+  "tab": "Sport",
+  "fetched_at": "2026-09-03T10:40:44.660245+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__friidrott__lotta-haralas-besked-efter-finnkampen-halsenan-var-helt-av.html",
+  "extract": {
+   "body": "Finnkampen skulle bli hennes sista lopp i karriären. Då skadade sig finska stjärnan Lotta Harala och tvingades bryta.\nNu berättar 34-åringen mer om vad som hände.\n”Vänstra hälsenan var helt av. Men trots det känner jag en enorm tacksamhet” skriver hon i sociala medier.\nPrecis innan starten på 100 meter häck kablades tråkiga bilder ut.\nLotta Harala hade skadat sig under uppvärmningen och leddes ut i rullstol – och fick inte det avslut på en lång friidrottskarriär som hon hade tänkt sig.\nNu har hon opererats och skickar en hälsning från sjukhussängen.\n”Min vänstra hälsena var helt av. Jag minns inte exakt när den small, egentligen bara att jag låg på marken och sade att ”jag kan springa!!” men nej, det hade jag absolut inte kunnat” skriver den finska friidrottsstjärnan i ett inlägg på Instagram.\n”Underbara människor runt omkring mig”\nHon berättar också att det är många som har hört av sig för att visa sitt stöd.\n”Trots allt känner jag framför allt en enorm tacksamhet. Jag har fått läsa alla brev, meddelanden, kommentarer från er alla. Jag kan inte tro hur underbara människor jag har runt omkring mig, i livet och i mitt supportteam!!”\nNu väntar ett års rehabilitering för 34-åringen, som ersattes i Finnkampen av höjdhopperskan Ella Junnila – som sprang 100 meter häck-loppet i bara strumplästen.",
+   "videos": [
+    {
+     "svtId": "KxgaW6E",
+     "duration": 80,
+     "title": "Lotta Harala skadade sig innan karriärens sista tävling",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-03T09:39:19+02:00",
+   "notes": {}
+  },
+  "sheet_row": 400
+ },
+ "https://www.svt.se/sport/tennis/aryna-sabalenka-i-ordbrak-med-reporter-ni-ar-ett-skamt": {
+  "url": "https://www.svt.se/sport/tennis/aryna-sabalenka-i-ordbrak-med-reporter-ni-ar-ett-skamt",
+  "pubdate": "2026-09-03T08:05:50+02:00",
+  "lastmod": "2026-09-03T08:05:50+02:00",
+  "sitemap_title": "Aryna Sabalenka i ordbråk med reporter: ”Ni är ett skämt”",
+  "tab": "Sport",
+  "fetched_at": "2026-09-03T10:40:47.868504+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__tennis__aryna-sabalenka-i-ordbrak-med-reporter-ni-ar-ett-skamt.html",
+  "extract": {
+   "body": "Världsettan Aryna Sabalenka vann enkelt andra rundan av US Open.\nMen det var ordbråket på presskonferensen efteråt som skapade störst rubriker.\n– Varför säger du ens det? Ni är ju ett skämt, säger Sabalenka.\nPå presskonferensen antydde en reporter att Sabalenka ”festat och haft kul” inför turneringen, vilket inte landade väl hos tennisstjärnan.\nEn het ordväxling följde, där reportern försökte förklara vad han menade, men gjorde världsettan ännu mer irriterad:\n– Bara för att jag lade upp några bilder med sponsorer så tror du att jag har festat, inte tränat?\nSabalenka är en stor profil i sociala medier, med bland annat 5,6 miljoner följare på Instagram.\nSe mer från ordbråket i spelaren ovan\nSjälva matchen var en mindre dramatisk historia. Sabalenka vann enkelt i två raka set ( 6–1, 6–1) mot ryskan Polina Iatcenko och matchen var över på 53 minuter.\nTennisstjärnan är försvarande mästare i US Open, efter en period med sämre resultat bakom sig. I Franska Öppna åkte hon ur i kvartsfinalen och i WTA-turneringen i Cincinnati nyligen blev 28-åringen utslagen redan i fjärde omgången.\nI den tredje rundan av US Open ställs Sabalenka mot Kamilla Rakhimova från Uzbekistan.",
+   "videos": [
+    {
+     "svtId": "jJypdyW",
+     "duration": 72,
+     "title": "Här hamnar Aryna Sabalenka i ordbråk med en reporter på US Open",
+     "svtplay": true
+    },
+    {
+     "svtId": "8y2ap2n",
+     "duration": 32,
+     "title": "Aryna Sabalenka vidare i US Open efter blixtsnabb match",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-03T08:05:50+02:00",
+   "notes": {}
+  },
+  "sheet_row": 393
  }
 }
