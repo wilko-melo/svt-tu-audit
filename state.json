@@ -13077,5 +13077,29 @@
    "notes": {}
   },
   "sheet_row": 536
+ },
+ "https://www.svt.se/nyheter/utrikes/har-begravs-de-sista-migranterna-i-ceuta-vi-kunde-ha-stoppat-honom": {
+  "url": "https://www.svt.se/nyheter/utrikes/har-begravs-de-sista-migranterna-i-ceuta-vi-kunde-ha-stoppat-honom",
+  "pubdate": "2026-09-04T03:02:53+02:00",
+  "lastmod": "2026-09-04T03:02:53+02:00",
+  "sitemap_title": "Här begravs de sista migranterna i Ceuta:  ”Vi kunde ha stoppat honom”",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-04T05:22:18.507019+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__har-begravs-de-sista-migranterna-i-ceuta-vi-kunde-ha-stoppat-honom.html",
+  "extract": {
+   "body": "Det finns inga konkreta bevis för att Marocko låg bakom att över 70 000 migranter tog sig till exklaven Ceuta i somras, uppger Spaniens premiärminister Pedro Sánchez.\nDäremot har desinformationskampanjer som spridits av konton med kopplingar till Ryssland, Israel och högerextrema nätverk förvärrat krisen – i syfte att ”inte bara attackera Spanien, utan även Europa och splittra det”, säger Sánchez. Uppenbara lögner, svarar de båda länderna.\nInför parlamentet redogjorde den spanska premiärministern Pedro Sánchez på torsdagen för sin version av vad som legat bakom massmigrationen till Ceuta den 30 och 31 juli, samt hur regeringen hanterat krisen.\nHan betonade att den spanska underrättelsetjänsten CNI inte funnit några bevis för att marockanska myndigheter agerat pådrivande, men däremot att marockansk gränspolis låtit bli att stoppa folkmassan – och att den spanska regeringen vill ha svar på varför. Flera migranter i Ceuta säger till SVT att de vinkades förbi av gränsvakterna.\nAnvänder migration som ett vapen\nEtt förvrängt budskap i sociala medier om att migranter som kommit till Ceuta sjövägen inte omedelbart skulle utvisas blev den tändande gnistan för anstormningen, förklarade Sánchez i måndags.\nBudskapet förstärktes och spreds sedan i desinformationskampanjer. Enligt Sánchez har europeiska utrikestjänsten kunnat knyta spridningen till konton med kopplingar till ryska, pro-israeliska, och högerextrema nätverk.\nI måndags sa Sánchez att dessa ”använder migration inte bara för att attackera Spanien, utan även Europa och splittra det”.\nFörnekar inblandning\nIsraels utrikesminister Gideon Saar menar att anklagelserna är ”uppenbara lögner” och att fortsätta sprida dem ”inte kommer att distrahera från Sánchez skamliga oförmåga att hantera sitt lands angelägenheter”.\nÄven Moskva har utmanat Sánchez att presentera bevis.\nSpanska oppositionspartier och lokalbor i Ceuta fortsätter kritisera centralregeringen för att agera för långsamt. Bara häromdagen godkändes ett stödpaket till Ceuta på 309 miljoner euro, som bland annat ska gå till migrationshanteringen.\nTusentals migranter från framförallt Marocko lever fortfarande på gatan i exklaven, i hopp om att få stanna i Europa – något som väcker upprörda känslor bland lokalbor.\nMassflykten till Ceuta är den dödligaste händelsen vid en spansk gräns i modern tid – 89 personer har begravts på den spanska sidan.\nI videon: SVT var på plats när de sista kropparna jordfästes.",
+   "videos": [
+    {
+     "svtId": "jEqY3J1",
+     "duration": 183,
+     "title": "SVT är på plats när de sista migranterna begravs i Ceuta",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-04T03:02:53+02:00",
+   "notes": {}
+  },
+  "sheet_row": 537
  }
 }
