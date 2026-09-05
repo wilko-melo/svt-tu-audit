@@ -17363,5 +17363,22 @@
    "notes": {}
   },
   "sheet_row": 713
+ },
+ "https://www.svt.se/nyheter/utrikes/flera-doda-i-explosion-pa-militarforlaggning-i-bolivia": {
+  "url": "https://www.svt.se/nyheter/utrikes/flera-doda-i-explosion-pa-militarforlaggning-i-bolivia",
+  "pubdate": "2026-09-05T04:58:25+02:00",
+  "lastmod": "2026-09-05T04:58:25+02:00",
+  "sitemap_title": "Flera döda i explosion på militärförläggning i Bolivia",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-05T05:25:00.249297+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__flera-doda-i-explosion-pa-militarforlaggning-i-bolivia.html",
+  "extract": {
+   "body": "Minst tio personer har omkommit i en explosion vid en militärförläggning i Bolivianska Viacha, uppger lokala myndigheter enligt Reuters .\nYtterligare 59 personer ska ha skadats, de flesta civila. Sju personer saknas fortfarande, rapporterar El Deber .\nFyrverkerier ska ha förvarats på förläggningen, men en utredning om orsaken till explosionen pågår fortfarande, säger polisens talesperson Roger Roca enligt AFP.\nFörläggningen ligger mitt i staden och ett omfattande strömavbrott följde explosionen.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-05T04:58:25+02:00",
+   "notes": {}
+  },
+  "sheet_row": 714
  }
 }
