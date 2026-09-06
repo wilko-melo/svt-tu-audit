@@ -19186,15 +19186,22 @@
  "https://www.svt.se/nyheter/inrikes/partierna-kallas-till-mote-efter-felaktiga-fortidsrosterna": {
   "url": "https://www.svt.se/nyheter/inrikes/partierna-kallas-till-mote-efter-felaktiga-fortidsrosterna",
   "pubdate": "2026-09-05T21:42:43+02:00",
-  "lastmod": "2026-09-05T22:22:17+02:00",
+  "lastmod": "2026-09-06T19:52:23+02:00",
   "sitemap_title": "Partierna kallas till möte efter felaktiga förtidsröster",
   "tab": "Nyheter/Inrikes",
-  "fetched_at": "2026-09-05T23:57:50.795093+02:00",
+  "fetched_at": "2026-09-06T20:05:12.277962+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__partierna-kallas-till-mote-efter-felaktiga-fortidsrosterna.html",
   "extract": {
-   "body": "Valmyndigheten har kallat riksdagspartiernas partisekreterare till möte på måndag, för att informera om situationen kring uppemot 4 000 felaktiga förtidsröster, rapporterar Ekot .\n– Det pågår ett intensivt arbete med att kartlägga vilka som har drabbats, säger myndighetens pressekreterare Jany Plevnik till SVT.\nEtt tekniskt fel i Valmyndighetens it-system har gjort att omkring 4 000 väljare vid förtidsröstningen antingen har registrerats två gånger eller fått sin röst registrerad på en annan väljare.\nFelet, som berört röstningslokaler i nästan alla kommuner, upptäcktes under fredagen och stoppades under natten. Valmyndigheten uppger att det inte finns några tecken på extern påverkan och att väljare nu registreras korrekt.\n– Vi har en teori om hur det kan ha gått till. Det handlar om ett mjukvarufel som vi har lyckats täppa till, säger Jany Plevnik.\nMan arbetar med att identifiera de berörda väljarna, men röster som inte kan kopplas till rätt väljare kommer att underkännas.\nValmyndigheten rekommenderar oroliga förtidsröstare att inte göra något, utan att avvakta och invänta mer information från myndigheten.\n– Vi kommer att veta mer i början av nästa vecka, säger Plevnik.\nHittills har omkring 1,6 miljoner personer förtidsröstat, enligt Valmyndighetens statistik .",
-   "videos": [],
-   "players_in_dom": 0,
+   "body": "Valmyndigheten har kallat riksdagspartiernas partisekreterare till möte på måndag, för att informera om situationen kring uppemot 4 000 felaktiga förtidsröster, rapporterar Ekot .\n– Det pågår ett intensivt arbete med att kartlägga vilka som har drabbats, säger myndighetens pressekreterare Jany Plevnik till SVT.\nEtt tekniskt fel i Valmyndighetens it-system har gjort att omkring 4 000 väljare vid förtidsröstningen antingen har registrerats två gånger eller fått sin röst registrerad på en annan väljare.\nFelet, som berört röstningslokaler i nästan alla kommuner, upptäcktes under fredagen och stoppades under natten. Valmyndigheten uppger att det inte finns några tecken på extern påverkan och att väljare nu registreras korrekt.\n– Vi har en teori om hur det kan ha gått till. Det handlar om ett mjukvarufel som vi har lyckats täppa till, säger Jany Plevnik.\nMan arbetar med att identifiera de berörda väljarna, men röster som inte kan kopplas till rätt väljare kommer att underkännas.\nValmyndigheten rekommenderar oroliga förtidsröstare att inte göra något, utan att avvakta och invänta mer information från myndigheten.\nHittills har omkring 1,6 miljoner personer förtidsröstat, enligt Valmyndighetens statistik .\nStatsministern hoppas att valresultatet inte påverkas\nStatsminister Ulf Kristersson (M) säger på söndagen att det är bra att Valmyndigheten hittills har varit så transparent och att han inte har någon mer information än den myndigheten hittills har gått ut med.\n– Men det är mycket beklagligt att något sånt här överhuvudtaget kan hända, säger Kristersson.\nTror du att det kan få någon påverkan på valutgången i efterhand?\n– Det tror jag inte, och det hoppas jag verkligen inte, säger statsministern.",
+   "videos": [
+    {
+     "svtId": "8Wm7mD6",
+     "duration": 24,
+     "title": "Statsministern hoppas att förtidsrösthaveriet inte påverkar valresultatet",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
    "ld_pubdate": "2026-09-05T21:42:43+02:00",
    "notes": {}
   },
@@ -20455,13 +20462,13 @@
  "https://www.svt.se/nyheter/lokalt/blekinge/svampen-har-kommit-har-visas-nyplockade-svampar-upp-pa-svampens-dag-i-ronneby": {
   "url": "https://www.svt.se/nyheter/lokalt/blekinge/svampen-har-kommit-har-visas-nyplockade-svampar-upp-pa-svampens-dag-i-ronneby",
   "pubdate": "2026-09-06T15:00:44+02:00",
-  "lastmod": "2026-09-06T15:00:44+02:00",
+  "lastmod": "2026-09-06T18:11:13+02:00",
   "sitemap_title": "Svampen har kommit – här visas nyplockade svampar upp på svampens dag i Ronneby",
   "tab": "Lokalt/Blekinge",
-  "fetched_at": "2026-09-06T17:04:49.326115+02:00",
+  "fetched_at": "2026-09-06T20:05:14.337545+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__blekinge__svampen-har-kommit-har-visas-nyplockade-svampar-upp-pa-svampens-dag-i-ronneby.html",
   "extract": {
-   "body": "Svampen har kommit till Blekinge, lite senare än vanligt.\n– Nu ser den ut att må bra för det regnar i stort sätt varje dag, säger Åke Widgren, på svampens dag i Ronneby som pågått under söndagen.\nÅke Widgren, biolog och medlem i organisationen Blekinges Flora, har intresserat sig för svamp hela sitt liv. Nu tror han att svampen har börjat ta sig efter att regnet har börjar falla i länet.\n– Bor man i västra Blekinge är det nog läge redan nu men det har varit mer torka i östra delarna. Bästa tiden för att plocka svamp har vi nog framför oss, säger Åke Widgren.\nSvamputställning på Naturum\nTillsammans med ett gäng tyska mykologer, svampvetare, har Blekinge flora samlat ihop svamp för att visa upp på Naturum i Ronneby på söndagen.\n– För en vecka sedan var jag orolig och tänkte att det är bra om vi får ihop tio arter, tidigare år har vi däremot fått till över hundra arter, säger Åke Widgren.\nSe svampbordet dukas upp med massor av sorter i klippet ovan.",
+   "body": "Svampen har kommit till Blekinge, lite senare än vanligt.\n– Nu ser den ut att må bra, för det regnar i stort sett varje dag, säger Åke Widgren på Svampens dag i Ronneby, som pågått under söndagen.\nÅke Widgren, biolog och medlem i föreningen Blekinges Flora, har intresserat sig för svamp hela sitt liv. Nu tror han att svampen har börjat ta sig efter att regnet har börjar falla i länet.\n– Bor man i västra Blekinge är det nog läge redan nu men det har varit mer torka i östra delarna. Bästa tiden för att plocka svamp har vi nog framför oss, säger Åke Widgren.\nSvamputställning på Naturum\nTillsammans med ett gäng tyska mykologer, svampvetare, har Blekinges Flora samlat ihop svamp för att visa upp på Naturum i Ronneby på söndagen.\n– För en vecka sedan var jag orolig och tänkte att det är bra om vi får ihop tio arter, tidigare år har vi däremot fått till över hundra arter, säger Åke Widgren.\nSe svampbordet dukas upp med massor av sorter i klippet ovan.",
    "videos": [
     {
      "svtId": "KR5GNr4",
@@ -20657,13 +20664,13 @@
  "https://www.svt.se/nyheter/lokalt/vast/bil-voltade-under-motorsportevent-utanfor-toreboda": {
   "url": "https://www.svt.se/nyheter/lokalt/vast/bil-voltade-under-motorsportevent-utanfor-toreboda",
   "pubdate": "2026-09-06T14:52:29+02:00",
-  "lastmod": "2026-09-06T16:44:17+02:00",
+  "lastmod": "2026-09-06T17:16:12+02:00",
   "sitemap_title": "Bil voltade under motorsportevent i Bällefors utanför Töreboda",
   "tab": "Lokalt/Väst",
-  "fetched_at": "2026-09-06T17:05:11.435055+02:00",
+  "fetched_at": "2026-09-06T20:05:23.881292+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__bil-voltade-under-motorsportevent-utanfor-toreboda.html",
   "extract": {
-   "body": "En bil har voltat och hamnat ute på åkern under en motorsporttävling i Töreboda kommun under söndagseftermiddagen. En person har förts med ambulans till sjukhus. Skadeläget är oklart.\nAmbulans och räddningstjänst larmades till en dragracingtävling på ett gammalt flygfält i Bällefors i Töreboda kommun under söndagen.\n– Det ska ha varit en bil som voltat flera gånger, säger Tamara Fuentes, polisens presstalesperson.\nPersonen som befann sig i bilen ska ha varit talbar efter olyckan, men fördes med ambulans till sjukhus.\nArrangören har ställt in tävlingen.\nTexten uppdateras.",
+   "body": "En bil har voltat och hamnat ute på åkern under en motorsporttävling i Töreboda kommun under söndagseftermiddagen. En person har förts med ambulans till sjukhus. Skadeläget är oklart.\nAmbulans och räddningstjänst larmades till en dragracingtävling på ett gammalt flygfält i Bällefors i Töreboda kommun under söndagen.\n– Det ska ha varit en bil som voltat flera gånger, säger Tamara Fuentes, polisens presstalesperson.\nPersonen som befann sig i bilen ska ha varit talbar efter olyckan, men fördes med ambulans till sjukhus.\nArrangören har ställt in tävlingen.",
    "videos": [],
    "players_in_dom": 0,
    "ld_pubdate": "2026-09-06T14:52:29+02:00",
@@ -20864,13 +20871,13 @@
  "https://www.svt.se/sport/fotboll/hacken-tappade-segern-i-toppmotet-malmo-reducerade-pa-tillaggstid": {
   "url": "https://www.svt.se/sport/fotboll/hacken-tappade-segern-i-toppmotet-malmo-reducerade-pa-tillaggstid",
   "pubdate": "2026-09-06T16:55:50+02:00",
-  "lastmod": "2026-09-06T17:01:20+02:00",
+  "lastmod": "2026-09-06T17:52:42+02:00",
   "sitemap_title": "Häcken tappade segern i toppmötet – Malmö kvitterade på tilläggstid",
   "tab": "Sport",
-  "fetched_at": "2026-09-06T17:05:25.000589+02:00",
+  "fetched_at": "2026-09-06T20:05:33.761640+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__hacken-tappade-segern-i-toppmotet-malmo-reducerade-pa-tillaggstid.html",
   "extract": {
-   "body": "Häcken såg ut att gå mot sin tionde raka seger i damallsvenskan.\nSedan kvitterade Malmö i den 94:e minuten.\nSe avgörandet i videon ovan.\nMaja Bodin gjorde hattrick i sin första match för BK Häcken. Sedan dess har hon fortsatt leverera. På fyra matcher i Häcken-tröjan har 24-åringen stått för hela sex mål.\nDet sjätte kom i toppmötet mot Malmö FF.\nDet var i den den 22:a minuten som bollen studsade på en Malmö-försvarare och ut till Tabby Tindell som i sin tur skickade in bollen mot mål.\nKaptenen behövde hjälp av\nDär fanns Maja Bodin rätt med pannan och gav Häcken ledningen.\n– Det jätteskönt. Skönt att gå in i halvtidsvila med ledning, säger Bodin i halvtid.\nMed bara minuter kvar av ordinarie tid fick Anna Anvegård rejält ont och tvingades till byte.\nHäcken-kaptenen höll sig om vaden och grinade illa medan hon fick hjälp av planen.\nTappade segern i 94:e\nLänge såg det ut som att målet skulle bli matchens enda. Men i den 94:e minuten kvitterade Malmö och räddade poäng.\nCharlotte Grant var sist på bollen efter en stökig situation i straffområdet och en missräkning av Häcken-målvakten Jennifer Falk.\nDärmed blev det delad pott när två landslagsmålvakter – Jennifer Falk och Zecira Musovic – ställdes mot varandra.\nHäcken fortsätter toppa tabellen men har Hammarby hack i häl, endast två poäng bakom. Malmö är trea, 16 poäng bakom Häcken.\nTexten uppdateras.",
+   "body": "Häcken såg ut att gå mot sin tionde raka seger i damallsvenskan.\nSedan kvitterade Malmö i den 94:e minuten.\n– Vi gjorde oss förtjänta av ett mål, säger MFF-kaptenen Mia Persson till SVT Sport.\nSe avgörandet i videon ovan.\nMaja Bodin gjorde hattrick i sin första match för BK Häcken. Sedan dess har hon fortsatt leverera. På fyra matcher i Häcken-tröjan har 24-åringen stått för hela sex mål.\nDet sjätte kom i toppmötet mot Malmö FF.\nDet var i den den 22:a minuten som bollen studsade på en Malmö-försvarare och ut till Tabby Tindell som i sin tur skickade in bollen mot mål.\nKaptenen behövde hjälp av\nDär fanns Maja Bodin rätt med pannan och gav Häcken ledningen.\n– Det jätteskönt. Skönt att gå in i halvtidsvila med ledning, säger Bodin i paus.\nI den andra halvleken fick sedan Anna Anvegård rejält ont och tvingades till byte. Häcken-kaptenen höll sig om vaden och grinade illa medan hon fick hjälp av planen.\nEfter matchen meddelade klubben att det handlade om kramp.\nTappade segern i 94:e\nLänge såg det ut som att Häckens mål skulle bli matchens enda. Men i den 94:e minuten kvitterade Malmö och räddade poäng.\nÄlvali Lindström var sist på bollen efter en stökig situation i straffområdet.\nDärmed blev det delad pott när två landslagsmålvakter – Jennifer Falk och Zecira Musovic – ställdes mot varandra.\n– Vi får en väldigt bra start. Men det är kamp hela matchen igenom. En tuff match, det kanske är rättvist med 1–1, säger Häckens Josefine Rybrink till SVT Sport.\nHäcken fortsätter toppa tabellen men har Hammarby hack i häl, endast två poäng bakom. Malmö är trea, 16 poäng bakom Häcken.\n– Det är synd att vi inte har tio minuter till. Men så länge vi stannar i matchen har vi alltid chans att vinna och ta poäng, säger MFF-kaptenen Mia Persson.",
    "videos": [
     {
      "svtId": "jp5aoRn",
@@ -20918,22 +20925,28 @@
  "https://www.svt.se/sport/fotboll/lisa-baum-hjalte-i-sin-arsenaldebut-avgjorde-med-drommal": {
   "url": "https://www.svt.se/sport/fotboll/lisa-baum-hjalte-i-sin-arsenaldebut-avgjorde-med-drommal",
   "pubdate": "2026-09-06T14:53:30+02:00",
-  "lastmod": "2026-09-06T16:01:26+02:00",
+  "lastmod": "2026-09-06T17:24:19+02:00",
   "sitemap_title": "Lisa Baum hjälte i sin Arsenaldebut – avgjorde med drömmål",
   "tab": "Sport",
-  "fetched_at": "2026-09-06T17:05:29.316001+02:00",
+  "fetched_at": "2026-09-06T20:05:35.159144+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__lisa-baum-hjalte-i-sin-arsenaldebut-avgjorde-med-drommal.html",
   "extract": {
-   "body": "Den tyska talangen Lisa Baum behövde bara tio minuter.\nSedan hade hon målat och avgjort för Arsenal i sin debut.\n– Det är fullständigt briljant, säger BBC:s expert Sue Smith.\nArsenal kommer att få det trångt på anfallspositionerna under säsongen. Under WSL-premiären fick spelare som Chloe Kelly, Caitlin Foord och svenska Stina Blackstenius inleda på bänken.\nI stället fick det 19-åriga nyförvärvet i form av Lisa Baum chansen från start.\nOch den tog hon minst sagt.\nTyskan stod för matchens enda mål när Arsenal tog hem premiären mot Brighton med 1–0.\n”Spelar med sån rutin”\nBaum tog saken i egna händer i den tionde matchminuten när hon drev fram bollen en bra bit på offensiv planhalva och dundrade dit matchens enda mål via ribban och in.\nEn soloräd hon hyllades för.\n– Det är fullständigt briljant från Lisa Baum. 19 år gammal och spelar med sån rutin. Det har pratats så mycket om henne under försäsongen och hur explosiv hon är. Hon har sån kontroll och balans, och bara glider förbi spelare så enkelt, säger BBC:s expert Sue Smith och avslutar:\n– Och vilket avslut det är också.\nBåda svenskorna i Arsenal, Blackstenius och Smilla Holmberg, byttes in i den andra halvleken men utan att göra något vidare avtryck.",
+   "body": "Den tyska talangen Lisa Baum behövde bara tio minuter.\nSedan hade hon målat och avgjort för Arsenal i sin debut.\n– Det är fullständigt briljant, säger BBC:s expert Sue Smith.\nArsenal kommer att få det trångt på anfallspositionerna under säsongen. Under WSL-premiären fick spelare som Chloe Kelly, Caitlin Foord och svenska Stina Blackstenius inleda på bänken.\nI stället fick det 19-åriga nyförvärvet i form av Lisa Baum chansen från start.\nOch den tog hon minst sagt.\nTyskan stod för matchens enda mål när Arsenal tog hem premiären mot Brighton med 1–0.\n”Spelar med sån rutin”\nBaum tog saken i egna händer i den tionde matchminuten när hon drev fram bollen en bra bit på offensiv planhalva och dundrade dit matchens enda mål via ribban och in.\nEn soloräd hon hyllades för.\n– Det är fullständigt briljant från Lisa Baum. 19 år gammal och spelar med sån rutin. Det har pratats så mycket om henne under försäsongen och hur explosiv hon är. Hon har sån kontroll och balans, och bara glider förbi spelare så enkelt, säger BBC:s expert Sue Smith och avslutar:\n– Och vilket avslut det är också.\nBåda svenskorna i Arsenal, Blackstenius och Smilla Holmberg, byttes in i den andra halvleken men utan att göra något vidare avtryck. Liverpools svenska – Cornelia Kapocs – blev dock målskytt mot Charlston.\n”The Reds” vann med 4–0.",
    "videos": [
     {
      "svtId": "erQBoaQ",
      "duration": 20,
      "title": "Lisa Baum, 19, målskytt i Arsenaldebuten: ”Briljant”",
      "svtplay": true
+    },
+    {
+     "svtId": "84d6oRv",
+     "duration": 11,
+     "title": "Cornelia Kapocs målskytt för Liverpool – satte straff mot Charlton",
+     "svtplay": true
     }
    ],
-   "players_in_dom": 1,
+   "players_in_dom": 2,
    "ld_pubdate": "2026-09-06T14:53:30+02:00",
    "notes": {}
   },
@@ -20968,18 +20981,18 @@
  "https://www.svt.se/sport/fotboll/tre-i-ribban-och-en-i-stolpen-nar-hammarby-tappade-i-guldstriden": {
   "url": "https://www.svt.se/sport/fotboll/tre-i-ribban-och-en-i-stolpen-nar-hammarby-tappade-i-guldstriden",
   "pubdate": "2026-09-06T15:56:46+02:00",
-  "lastmod": "2026-09-06T16:59:48+02:00",
+  "lastmod": "2026-09-06T17:41:06+02:00",
   "sitemap_title": "Tre i ribban och en i stolpen när Hammarby tappade i guldstriden: ”Bollen vill inte in”",
   "tab": "Sport",
-  "fetched_at": "2026-09-06T17:05:32.392648+02:00",
+  "fetched_at": "2026-09-06T20:05:41.989958+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__tre-i-ribban-och-en-i-stolpen-nar-hammarby-tappade-i-guldstriden.html",
   "extract": {
    "body": "Hammarby spelade 1–1 mot Örgryte i en klassisk ”stolpe ut-match”.\nEfter tre bollar i ribban och en i stolpen tappade man på Sirius i guldstriden.\n– Tyvärr vill bollen inte in, säger Hammarbys Nahir Besara till SVT Sport.\nDe medresta fansen buade ut sitt lag och skanderade: ”Vi vill se Hammarby” i ett missnöje med den uteblivna effektiviteten.\nÖrgryte tog ledningen efter elva minuters spel. Efter en hörna höll sig William Hofvander framme och stötte in 1–0 från nära håll.\nEtt par minuter senare kvitterade Hammarby till 1–1 på en straff som blev omdiskuterad. Hammarbys Markus Karlsson gick in i en duell om bollen med Öis Christoffer Styffe och ramlade vid kontakten som var av det lättare slaget. Victor Lind var säker från straffpunkten.\nAnnars var det ramträffarnas match för Bajen. Efter en hörna i första halvleken gick bollen först i ribban och sedan nickade Noah Persson i samma ribba efter att ha kommit för nära, inte vågat gå för det fullt ut.\n”Vända den här stolpe ut-trenden”\nI andra halvlek sköt Persson återigen i ribban efter ett skott som gick via en medspelare. I sekvensen innan hade Paulos Abraham lyft bollen i stolpen, alltså fyra ramträffar för Bajen.\n– De två senaste matcherna har vi skapat extremt många lägen men gjort för få mål. Enda sättet att vända den här stolpe ut-trenden är att jobba ännu hårdare på träning, säger inbytte Besara som med tillägget fick 40 minuters speltid.\n– Jag har fortfarande mycket i mig och vet att jag kan prestera och känner mig i bra form, säger Besara.\nÖis målvakt Hampus Gustafsson var en jätte i försvaret med sina uppoffrande spelare till hjälp och fläkte sig, var följsam och räddade gång på gång.\n– En poäng är mer än noll men vi kunde fått med oss mer. Det var en konstigt dömd straff, säger Gustafsson.\nEfter att serieledande Sirius fått stopp på blödningen med vinsten mot Västerås i går är man nu åtta poäng före Hammarby i tabellen.",
    "videos": [
     {
-     "svtId": "8vvaXN7",
-     "duration": 34,
-     "title": "Hammarby med misskavalkad mot Örgryte – fyra i ramen",
+     "svtId": "8myYo7E",
+     "duration": 56,
+     "title": "Noah Persson missade från en halvmeter: ”Jag läser av bollbanan fel”",
      "svtplay": true
     }
    ],
@@ -21060,5 +21073,268 @@
    "notes": {}
   },
   "sheet_row": 852
+ },
+ "https://www.svt.se/nyheter/lokalt/jonkoping/forvaning-nar-statsministern-knackar-pa-i-huskvarna-nar-de-hamtat-sig-brukar-de-vara-ganska-talfora": {
+  "url": "https://www.svt.se/nyheter/lokalt/jonkoping/forvaning-nar-statsministern-knackar-pa-i-huskvarna-nar-de-hamtat-sig-brukar-de-vara-ganska-talfora",
+  "pubdate": "2026-09-06T17:28:54+02:00",
+  "lastmod": "2026-09-06T19:45:08+02:00",
+  "sitemap_title": "Statsministern knackar på i Huskvarna: ”När de hämtat sig brukar de vara ganska talföra”",
+  "tab": "Lokalt/Jönköping",
+  "fetched_at": "2026-09-06T20:05:15.926813+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jonkoping__forvaning-nar-statsministern-knackar-pa-i-huskvarna-nar-de-hamtat-sig-brukar-de-vara-ganska-talfora.html",
+  "extract": {
+   "body": "Minst sagt lite förvånad – ja det blev Ulla Rådefjäll, när statsminister Ulf Kristersson (M) plötsligt stod utanför dörren under söndagsmorgonen. SVT hängde med statsministern på dörrknackningsrunda.\nEn busslast moderater knackade under söndagen på hos Huskvarnaborna för att prata politik. Några som öppnade dörren fick dock en smärre chock när självaste statsministern stod utanför dörren.\n– Jag blev lite snopen, det första jag reagerade på var att det stod så mycket bilar utanför, säger Ulla Rådefjäll.\nHon pratade på en lång stund med statsministern om bland annat pension och straffrabatter. Men Ulla Rådefjäll tänker inte låta besöket påverka hennes val.\n– Jag har nog min inställning sedan innan, vare sig han kom eller inte. Men det var trevligt att få besök och prata lite grann om det man har i hjärtat, säger hon.\nKnackade dörr i en halvtimme\nDörrknackningen varade ungefär en halvtimme och statsministern hann besöka ungefär 4-5 adresser uppe på Huskvarnas höjder.\n– En och annan blir ju lite förvånad första sekunderna men när de väl har hämtat sig brukar de vara ganska talföra, säger Moderaternas partiledare Ulf Kristersson.\nHur går tankarna när du står där vid dörren? Du vet ju inte vad du kommer möta? – Jag har lärt mig att 99 procent är vänliga och trevliga. Sen finns det någon enstaka som säger att de är mitt i matlagningen eller att barnet skriker och då får man respektera det, men nästan alla tycker att det är kul att prata.\nHäng med när statsministern knackar dörr i videon ovan!",
+   "videos": [
+    {
+     "svtId": "KrQBoa5",
+     "duration": 85,
+     "title": "Statsministern besökte Huskvarna och knackade dörr",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T17:28:54+02:00",
+   "notes": {}
+  },
+  "sheet_row": 871
+ },
+ "https://www.svt.se/nyheter/lokalt/ost/en-vecka-kvar-till-valet-forstagangsvaljaren-bea-nytt-och-spannande": {
+  "url": "https://www.svt.se/nyheter/lokalt/ost/en-vecka-kvar-till-valet-forstagangsvaljaren-bea-nytt-och-spannande",
+  "pubdate": "2026-09-06T19:09:21+02:00",
+  "lastmod": "2026-09-06T19:29:58+02:00",
+  "sitemap_title": "En vecka kvar till valet – förstagångsväljaren Bea: ”Nytt och spännande”",
+  "tab": "Lokalt/Öst",
+  "fetched_at": "2026-09-06T20:05:18.715472+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__ost__en-vecka-kvar-till-valet-forstagangsvaljaren-bea-nytt-och-spannande.html",
+  "extract": {
+   "body": "18-åriga Linköpingsbon Bea Warnqvist står inför sitt första val. SVT träffar henne exakt en vecka innan valdagen för att höra hur det känns att få rösta för första gången – och om hon redan vet vilket parti hon ska lägga sin röst på\n– Det känns nervöst och man vet inte riktigt hur det ska gå till rent konkret, men det känns ändå kul och spännande att påverka hur landet ska styras, säger Bea Warnqvist.\n18-åringen berättar att det inte har varit helt lätt att skapa sig en uppfattning om vad hon ska rösta på. Hon försöker därför söka information från olika håll och bilda sig en egen uppfattning.\nVad är dina främsta informationskällor?\n– Partiernas hemsidor, skolan och kompisar. Men det blir nog väldigt mycket sociala medier och man påverkas av det.\nVilka politiska frågor är viktiga för Bea – och hur mycket påverkas hon av sin familj? Hör henne i klippet ovan.",
+   "videos": [
+    {
+     "svtId": "eDva9pG",
+     "duration": 89,
+     "title": "En vecka till val – förstagångsväljaren Bea: \"Nytt och spännande\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T19:09:21+02:00",
+   "notes": {}
+  },
+  "sheet_row": 878
+ },
+ "https://www.svt.se/nyheter/lokalt/skane/s-nar-20-000-dorrknackningar-i-malmo-med-partiledarens-insats": {
+  "url": "https://www.svt.se/nyheter/lokalt/skane/s-nar-20-000-dorrknackningar-i-malmo-med-partiledarens-insats",
+  "pubdate": "2026-09-06T19:27:16+02:00",
+  "lastmod": "2026-09-06T19:47:00+02:00",
+  "sitemap_title": "S når 20 000 dörrknackningar i Malmö  – med partiledarens insats",
+  "tab": "Lokalt/Skåne",
+  "fetched_at": "2026-09-06T20:05:20.393297+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__skane__s-nar-20-000-dorrknackningar-i-malmo-med-partiledarens-insats.html",
+  "extract": {
+   "body": "På söndagseftermiddagen nådde Socialdemokraterna i Malmö 20 000 dörrknackningar. Partiledaren Magdalena Andersson stod för en av knackningarna som tog partiet över milstolpen.\nDet var på Sköldgatan i området Håkanstorp i Malmö där socialdemokraternas partiledare knackade på dörr nummer 20 000.\nHon möttes av ett hundratal entusiastiska partimedlemmar och boenden.\n– Det har varit ett väldigt varmt mottagande. Så här är det runt om i Sverige, vi har väldigt taggade partimedlemmar som är sugna på att vinna val, säger Magdalena Andersson (S).\n”Många är besvikna”\nDen socialdemokratiske partiledaren uppger att hon vid flera tillfällen under sina dörrknackningsturnéer runt om i landet har mött väljare som uttryckt oro.\n– Det jag möter nu när jag knackar dörr i Sverige är att många människor är besvikna. De märker hur lönen räcker till allt mindre, och här i Skåne märker man hur det är kris i sjukvården, säger Magdalena Andersson (S). Hör henne i videon.",
+   "videos": [
+    {
+     "svtId": "e3d1dEY",
+     "duration": 59,
+     "title": "Magdalena Andersson dörrknackade i Håkanstorp i Malmö",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T19:27:16+02:00",
+   "notes": {}
+  },
+  "sheet_row": 879
+ },
+ "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-september-ovd0nk": {
+  "url": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-september-ovd0nk",
+  "pubdate": "2026-09-06T19:53:19+02:00",
+  "lastmod": "2026-09-06T19:53:19+02:00",
+  "sitemap_title": "Nyheter från dagen: 6 september",
+  "tab": "Lokalt/Stockholm",
+  "fetched_at": "2026-09-06T20:05:22.385807+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__stockholm__nyheter-fran-dagen-6-september-ovd0nk.html",
+  "extract": {
+   "body": "Det här har SVT Nyheter Stockholm rapporterat om under sömdagen den 6 september.\n• Efter turbulensen i Botkyrka: Två olika S-partier i valet\nVäljaren: Känner inte till att det finns två S-märkta partier\n• Man död efter fall på personalfest i Norrtälje\nPolisen har inlett en förundersökning gällande mord\n• Falsk valaffisch upptäckt i Upplands-Bro\nBild på språkröret Amanda Lind (MP)",
+   "videos": [
+    {
+     "svtId": "KLJpaAA",
+     "duration": 112,
+     "title": "Botkyrkabornas val – två S-partier att välja mellan",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T19:53:19+02:00",
+   "notes": {}
+  },
+  "sheet_row": 881
+ },
+ "https://www.svt.se/nyheter/lokalt/vast/polis-pakord-av-fyrhjuling-vid-landvetter": {
+  "url": "https://www.svt.se/nyheter/lokalt/vast/polis-pakord-av-fyrhjuling-vid-landvetter",
+  "pubdate": "2026-09-06T18:22:32+02:00",
+  "lastmod": "2026-09-06T18:24:15+02:00",
+  "sitemap_title": "Polis påkörd av fyrhjuling vid Landvetter",
+  "tab": "Lokalt/Väst",
+  "fetched_at": "2026-09-06T20:05:24.981339+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__polis-pakord-av-fyrhjuling-vid-landvetter.html",
+  "extract": {
+   "body": "När polisen skulle kontrollera fyra fyrhjulingsförare utanför McDonalds vid Landvetter flygplats uppstod tumult. En av förarna körde då på en polis och eftersöks nu av polisen.\n– Jag tror att vi har ganska bra chanser att få tag på rätt person, säger polisens vakthavande befäl Morten Gunneng.\nDet var 16.21 på söndagseftermiddagen som de fyra fyrhjulingsförarna kontrollerades. Polisen som blev påkörd har fått lindrigare skador med skrapsår och blodvite.\nEn av förarna kunde polisen få fatt på, men det är troligen inte den föraren som körde på polismannen, uppger vakthavande befäl.\nTack vare övervakningsfilmer och vittnesuppgifter bedömer polisen utredningsläget som gott. Ärendet utreds som försök till våld mot tjänsteman.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-06T18:22:32+02:00",
+   "notes": {}
+  },
+  "sheet_row": 875
+ },
+ "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga": {
+  "url": "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga",
+  "pubdate": "2026-09-06T17:31:05+02:00",
+  "lastmod": "2026-09-06T18:26:13+02:00",
+  "sitemap_title": "Stor klimatmarsch i Göteborg  vill lyfta klimatet som valfråga",
+  "tab": "Lokalt/Väst",
+  "fetched_at": "2026-09-06T20:05:27.617374+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga.html",
+  "extract": {
+   "body": "Under söndagseftermiddagen gick ett femtiotal organisationer ihop för att lyfta klimatfrågan inför valet. Och tusen och åter tusen personer gick från Linnéplatsen till Gustav Adolfs torg där tal hölls av bland annat Greta Thunberg.\n– Det här är den största klimatdemonstrationen jag varit på i Göteborg, säger Sara Isaksson.\nFör två veckor sedan samlades tiotusentals människor på Stockholms gator för en klimatdemonstration. Uppgifterna om det exakta deltagarantalet varierar, men det talas om fler än 50 000 personer där. Manifestationen arrangerades då med stöd av nästan 300 organisationer. Nu var det dags i Göteborg.\n– Jag vet att vi inte gör tillräckligt. Och jag vet att alla borde göra mer, säger Marie Vidarsson som en av de som marscherade i det kilometerlånga ledet.\nOpolitisk manifestation\nEtt 50-tal organisationer hade engagerat sig i Göteborgsmanifestationen, bland annat Greenpeace, Svenska kyrkan, Hyresgästföreningen och fackförbund som Vision och Vårdförbundet. Enligt polisen deltog mellan 5000 och 10 000 personer i den opolitiska marschen i Göteborg.\n– Det handlar om klimatfrågan som är vetenskaplig och inte politisk, och det handlar om att agera oavsett vilken partitillhörighet du har, säger Charlotte Henschel.\nVill påverka valet\nAtt det sker just nu beror på att det är en vecka till valet och många av de som var med under söndagen tycker att miljöfrågan har försvunnit som valfråga.\n– Vi vill så klart påverka våra politiker. Vi är jättemånga och jag är jätteglad. Det här är den största klimatdemonstrationen jag varit på i Göteborg, säger Sara Isaksson.\nFler miljöaktioner under helgen\nMarschen var inte den enda klimataktionen under helgen i Göteborg. Under lördagen var ett det ”Folkfest fred och klimat”, ett arrangemang på Bananpiren där ett antal artister uppträdde, bland annat Slowgold, Anastasia och Stefan Sundström och även där höll Greta Thunberg tal.",
+   "videos": [
+    {
+     "svtId": "eZx7An9",
+     "duration": 67,
+     "title": "Stor klimatmarsch i Göteborg  vill lyfta klimatet som valfråga",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T17:31:05+02:00",
+   "notes": {}
+  },
+  "sheet_row": 872
+ },
+ "https://www.svt.se/nyheter/utrikes/ytterhogern-storst-i-tyskt-delstatsval": {
+  "url": "https://www.svt.se/nyheter/utrikes/ytterhogern-storst-i-tyskt-delstatsval",
+  "pubdate": "2026-09-06T18:02:34+02:00",
+  "lastmod": "2026-09-06T18:50:44+02:00",
+  "sitemap_title": "Ytterhögern störst i tyskt delstatsval",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-06T20:05:29.447078+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__ytterhogern-storst-i-tyskt-delstatsval.html",
+  "extract": {
+   "body": "Det tyska ytterhögerpartiet Alternativ för Tyskland (AFD) blir största parti i delstatsvalet i Sachsen-Anhalt, men ser inte ut att få egen majoritet.\nEnligt en vallokalsundersökning från ARD får partiet 44,5 procent av rösterna.\nFörbundskansler Friedrich Merz kristdemokrater (CDU) ser ut att få 18,5 procent av rösterna, enligt vallokalsundersökningen.\nSocialdemokratiska SPD beräknas landa på 8,0 procent medan liberala FDP hamnar under spärren med sina 2,0 procent.\nMed drygt två miljoner invånare är Sachsen-Anhalt en av de mindre delstaterna i Tyskland. Men valet ses som symboliskt viktigt och en fingervisning om AFD:s möjligheter till liknande framgångar nationellt.\nI förra delstatsvalet, 2021, fick AFD 20,8 procent i Sachsen-Anhalt.\nPartiet vill bland annat lägga om migrationspolitiken i grunden, satsa på mer ryskundervisning i skolorna och ”goda relationer” till Moskva, slopa vindkraftsbyggen och lägga ner public service-medier.",
+   "videos": [
+    {
+     "svtId": "eb3k3Q1",
+     "duration": 550,
+     "title": "AFD går mot historisk valresultat i Tyskland",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T18:02:34+02:00",
+   "notes": {}
+  },
+  "sheet_row": 873
+ },
+ "https://www.svt.se/sport/fotboll/bp-hittade-segern-sent-mot-elfsborg-efter-malvaktsdrama": {
+  "url": "https://www.svt.se/sport/fotboll/bp-hittade-segern-sent-mot-elfsborg-efter-malvaktsdrama",
+  "pubdate": "2026-09-06T18:26:10+02:00",
+  "lastmod": "2026-09-06T19:07:58+02:00",
+  "sitemap_title": "BP avgjorde på tilläggstid för utslagne målvakten Leo Cavallius",
+  "tab": "Sport",
+  "fetched_at": "2026-09-06T20:05:31.338966+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__bp-hittade-segern-sent-mot-elfsborg-efter-malvaktsdrama.html",
+  "extract": {
+   "body": "Det såg ut att sluta 1–1 på Grimsta men på tilläggstid rann BP igenom och med hjälp av ett självmål från Elfsborg vann man med 2–1.\n– Kvitteringsmålet var ju lite kontroversiellt så det var skönt att få dit den i slutet. Det stärker vår moral också, säger BP:s kapten Simon Strand till TV4 Play.\nDet var en dråplig situation när bollen spelades in från vänsterkanten. Chansen såg ut att vara över när Elfsborgs inbytte Viggo Elfström störtade mot eget mål och stötte in bollen för 2–1.\nDet var dramatiskt på Grimsta denna soliga eftermiddag\nNär Boråslaget kvitterade till 1–1 var BP-målvakten Leo Cavallius utslagen efter en huvudskada efter en kollision. Momoh Kamara utnyttjade situationen och sköt in bollen via den vänstra stolpen.\n”Då kanske man måste blåsa av”\n– Där kanske domaren skulle blåst av men det är svårt för domaren att se situationen. Men det är ju en huvudskada och då kanske man måste blåsa av, säger Simon Strand.\nCavallius fick lång behandling men klarade inte av att fortsätta utan fick ersättas av Davor Blazevic som snabbt fick snöra på sig skorna.\nEfteråt kunde Cavallius och Blazevic krama om varandra där även den förre stormålvakten Andreas Isaksson deltog.\n– Det är tufft givetvis. I andra halvlek försvinner matchen bara, hade kunnat gå hur som helst, säger Elfsborgs Niklas Hult.",
+   "videos": [
+    {
+     "svtId": "eJypyMd",
+     "duration": 22,
+     "title": "Brommapojkarna slår Elfsborg efter sent självmål",
+     "svtplay": true
+    },
+    {
+     "svtId": "8EqY37Q",
+     "duration": 22,
+     "title": "Här kvitterar Elfsborg mot BP – när målvakten ligger knockad",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-06T18:26:10+02:00",
+   "notes": {}
+  },
+  "sheet_row": 876
+ },
+ "https://www.svt.se/sport/fotboll/nahir-besara-inbytt-tidigt-lange-sedan-jag-fick-sa-mycket-tid": {
+  "url": "https://www.svt.se/sport/fotboll/nahir-besara-inbytt-tidigt-lange-sedan-jag-fick-sa-mycket-tid",
+  "pubdate": "2026-09-06T18:04:19+02:00",
+  "lastmod": "2026-09-06T18:08:13+02:00",
+  "sitemap_title": "Nahir Besara inbytt tidigt: ”Länge sedan jag fick så mycket tid”",
+  "tab": "Sport",
+  "fetched_at": "2026-09-06T20:05:37.314052+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__nahir-besara-inbytt-tidigt-lange-sedan-jag-fick-sa-mycket-tid.html",
+  "extract": {
+   "body": "För ett par månader sedan pratades det om att Hammarbys Nahir Besara var allsvenskans bästa spelare.\nNu är han fast på bänken som inhoppare.\n– Jag har inte blivit en sämre spelare, säger Besara till SVT Sport.\nSenast 35-åringen spelade en hel match i allsvenskan var mot Kalmar 12 juli. Sedan dess har den offensive mittfältaren bänkats i två matcher och fått hoppa in i fem.\n– Det har varit tufft att ha varit vid sidan om men vi har presterat fantastisk fotboll utan mig. Det var kul att spela men jag ville komma härifrån med tre poäng, säger Besara efter 1–1 mot Örgryte.\nMed tilläggstiden var Besara 40 minuter på planen – det längsta han varit sedan mötet med Degerfors 19 juli.\n– Det var länge sedan jag fick så mycket tid, säger Besara.",
+   "videos": [
+    {
+     "svtId": "jLJpaV3",
+     "duration": 106,
+     "title": "Nahir Besara om speltiden efter Rydström: ”Ville inte ställa sådana krav”",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T18:04:19+02:00",
+   "notes": {}
+  },
+  "sheet_row": 874
+ },
+ "https://www.svt.se/sport/fotboll/ronald-koeman-jr-tvamalsskytt-som-malvakt": {
+  "url": "https://www.svt.se/sport/fotboll/ronald-koeman-jr-tvamalsskytt-som-malvakt",
+  "pubdate": "2026-09-06T19:06:55+02:00",
+  "lastmod": "2026-09-06T19:12:26+02:00",
+  "sitemap_title": "Ronald Koeman Jr tvåmålsskytt – som målvakt",
+  "tab": "Sport",
+  "fetched_at": "2026-09-06T20:05:40.234245+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__ronald-koeman-jr-tvamalsskytt-som-malvakt.html",
+  "extract": {
+   "body": "Ronald Koeman Jr blev tvåmålsskytt – som målvakt.\nHan satte två straffar och räddade poäng för sitt Telstar i den nederländska högstaligan.\n– Jag tvivlar inte, säger han till nederländska ESPN.\nSe när målvakten räddar poäng i videon ovan.\nRonald Koeman Jr, son till ikonen Ronald Koeman, har blivit historisk i den nederländska högstaligan.\n31-åringen blir den förste någonsin att göra två mål i en ligamatch som målvakt.\nKoeman Jr satte två straffar för sitt Telstar.\nDen första kom i den 63:e minuten och innebar en reducering efter två raka mål av gästande Cambuur.\nPå tilläggstid fick hemmalaget ytterligare en straff och målvakten klev återigen fram – denna gången för att rädda poäng.\n– Jag är helt enkelt högst upp på listan nu. Jag kan slå en bra straff, jag har självförtroende. Jag tvivlar inte, säger han till nederländska ESPN .\nMatchen slutade 2–2. Telstar ligger på 13:e plats i Eredivisie efter fyra spelade matcher. Cambuur är tabelljumbo.",
+   "videos": [
+    {
+     "svtId": "jkAkAPw",
+     "duration": 32,
+     "title": "Ronald Koeman Jr tvåmålsskytt – som målvakt",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T19:06:55+02:00",
+   "notes": {}
+  },
+  "sheet_row": 877
+ },
+ "https://www.svt.se/sport/tennis/aryna-sabalenka-vidare-utan-att-hora-fragorna-efterat": {
+  "url": "https://www.svt.se/sport/tennis/aryna-sabalenka-vidare-utan-att-hora-fragorna-efterat",
+  "pubdate": "2026-09-06T19:31:19+02:00",
+  "lastmod": "2026-09-06T19:31:19+02:00",
+  "sitemap_title": "Aryna Sabalenka vidare utan att höra frågorna efteråt",
+  "tab": "Sport",
+  "fetched_at": "2026-09-06T20:05:43.935983+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__tennis__aryna-sabalenka-vidare-utan-att-hora-fragorna-efterat.html",
+  "extract": {
+   "body": "Aryna Sabalenka vann förmiddagsmatchen mot Taylor Townsend på Arthur Ashe Stadium inför en högljudd storpublik i New York.\n– Tack för att ni var så respektfulla mot mig, säger världsettan i intervjun på banan i HBO Max sändning.\nSabalenka vann efter en nätrullare som hemmaspelaren Townsend inte kunde hantera och siffrorna skrevs till 6–4, 6–3.\nBelarusiskan nådde nu sin sjätte raka kvartsfinal i US Open där hon jagar sin tredje raka titel.\n– Jag visste inför matchen att ni skulle hålla på henne, men ibland hejade ni på mig, och det uppskattar jag verkligen, säger Sabalenka i larmet på världens största tennisarena.\nUnder intervjun började Sabalenka att peka mot sitt öra.\n– Jag hör inte ett ord av vad du säger men det var en otroligt tuff motståndare, skrattar Sabalenka.\nTaylor Townsend hade 3–1 i anda set men lyckades inte nå upp till de nivåer hon har i sina bästa stunder och den riktiga nerven infann sig aldrig. Det var en lite snopen stämning i New York över att matchen inte blev jämnare – det var skrällvarning utfärdad inför.",
+   "videos": [
+    {
+     "svtId": "eak7k17",
+     "duration": 42,
+     "title": "Aryna Sabalenka vidare utan att höra frågorna efteråt",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-06T19:31:19+02:00",
+   "notes": {}
+  },
+  "sheet_row": 880
  }
 }
