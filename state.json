@@ -19432,5 +19432,56 @@
    "notes": {}
   },
   "sheet_row": 793
+ },
+ "https://www.svt.se/nyheter/lokalt/vast/villa-i-fargelanda-i-full-brand": {
+  "url": "https://www.svt.se/nyheter/lokalt/vast/villa-i-fargelanda-i-full-brand",
+  "pubdate": "2026-09-06T01:15:21+02:00",
+  "lastmod": "2026-09-06T05:07:33+02:00",
+  "sitemap_title": "Villa i Färgelanda brinner kraftigt",
+  "tab": "Lokalt/Väst",
+  "fetched_at": "2026-09-06T05:25:08.687987+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__villa-i-fargelanda-i-full-brand.html",
+  "extract": {
+   "body": "Ett suterränghus i Färgelanda stod i full brand under natten. Alla boende har tagit sig ut ur huset. Under tidig morgon beslutade räddningstjänsten att låta huset brinna ner till grunden.\nLarmet om branden kom in vid 23.30-tiden på lördagen. Redan då var villan, ett tvåvånings suterränghus, helt övertänd.\n– Insatsen kommer att ta flera timmar till. Vi har säkrat så att det inte längre råder spridningsrisk till intilliggande bostäder, tillägger Johan Bäckström, vakthavande befäl vid räddningstjänsten.\nAlla i bostaden tog sig ut utan allvarliga skador, men hade andats in rök, säger Bäckström.\nUnder tidig morgon togs beslutet att villan inte går att rädda.\n– Vi kommer låta den brinna ner under lugna förhållanden, säger vakthavande befäl Simon Willner.\nTexten uppdateras.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-06T01:15:21+02:00",
+   "notes": {}
+  },
+  "sheet_row": 800
+ },
+ "https://www.svt.se/nyheter/utrikes/6-september-nattens-nyheter-biu737": {
+  "url": "https://www.svt.se/nyheter/utrikes/6-september-nattens-nyheter-biu737",
+  "pubdate": "2026-09-06T05:09:42+02:00",
+  "lastmod": "2026-09-06T05:19:13+02:00",
+  "sitemap_title": "6 september: Nattens nyheter",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-06T05:25:10.115695+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__6-september-nattens-nyheter-biu737.html",
+  "extract": {
+   "body": "Iran: Attackerar amerikanska krigsfartyg\nIrans revolutionsgarde, IRGC, uppger att man har attackerat tre oljetankfartyg i Hormuzsundet samt ett amerikanskt hangarfartyg och en jagare på andra platser. Enligt IRGC användes ballistiska robotar i attacken mot de amerikanska fartygen. USA har inte bekräftat uppgifterna.\nVilla i Färgelanda övertänd\nEtt suterränghus i Färgelanda stod i full brand under natten. Alla boende har tagit sig ut ur huset. Under tidig morgon beslutade räddningstjänsten att låta huset brinna ner till grunden.\nUSA: Fartyg sänkta i Stilla havet\nUSA militär uppger att man har sänkt en grupp fartyg som fungerade som en flytande tankstation för båtar som användes i illegal narkotikahandel i östra Stilla havet. Det rapporterar militärens sydkommando på X.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-06T05:09:42+02:00",
+   "notes": {}
+  },
+  "sheet_row": 802
+ },
+ "https://www.svt.se/nyheter/utrikes/usa-fartyg-sankta-i-stilla-havet": {
+  "url": "https://www.svt.se/nyheter/utrikes/usa-fartyg-sankta-i-stilla-havet",
+  "pubdate": "2026-09-06T04:39:01+02:00",
+  "lastmod": "2026-09-06T04:39:01+02:00",
+  "sitemap_title": "USA: Fartyg sänkta i Stilla havet",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-06T05:25:12.054664+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__usa-fartyg-sankta-i-stilla-havet.html",
+  "extract": {
+   "body": "USA militär uppger att man har sänkt en grupp fartyg som fungerade som en flytande tankstation för båtar som användes i illegal narkotikahandel i östra Stilla havet. Det rapporterar militärens sydkommando på X .\nEnligt amerikansk underrättelseinformation hade fartygen kopplingar till den våldsamma narkotikaorganisationen Los Choneros.\nPersoner som fördes bort från huvudfartyget har överlämnats till ecuadorianska myndigheter. Därefter sänkte amerikanska styrkor huvudfartyget och de tillhörande stödfartygen.\nAnfallet är det senaste i raden av attacker mot fartyg som USA misstänker har använts för narkotikasmuggling i Karibien och östra Stilla havet.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-06T04:39:01+02:00",
+   "notes": {}
+  },
+  "sheet_row": 801
  }
 }
