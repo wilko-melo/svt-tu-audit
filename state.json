@@ -23472,10 +23472,10 @@
  "https://www.svt.se/nyheter/lokalt/halland/polisen-lagger-ner-utredning-efter-dodsolyckan-pa-motorbanan": {
   "url": "https://www.svt.se/nyheter/lokalt/halland/polisen-lagger-ner-utredning-efter-dodsolyckan-pa-motorbanan",
   "pubdate": "2026-09-07T14:39:19+02:00",
-  "lastmod": "2026-09-07T14:57:58+02:00",
+  "lastmod": "2026-09-07T20:38:39+02:00",
   "sitemap_title": "Polisen lägger ner utredning efter dödsolyckan på Falkenbergs motorbana",
   "tab": "Lokalt/Halland",
-  "fetched_at": "2026-09-07T19:27:10.047648+02:00",
+  "fetched_at": "2026-09-08T00:36:06.059235+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__halland__polisen-lagger-ner-utredning-efter-dodsolyckan-pa-motorbanan.html",
   "extract": {
    "body": "Förundersökningen efter dödsolyckan under SM-tävlingarna i roadracing på Falkenbergs motorbana i maj läggs ner. Polisens utredning visar att det inte finns någon misstanke om brott.\nOlyckan inträffade strax efter starten . En motorcykel blev stående på banan och kördes på av en annan förare, som föll. En tredje förare kom därefter och hade inte möjlighet att väja. Mannen i 30-årsåldern blev påkörd och avled av sina skador.\nEfter olyckan inledde polisen en förundersökning om bland annat grov vårdslöshet i trafik och vållande till annans död.\nNu är utredningen klar.\n– Vi har inte hittat några tekniska brister på fordonen som skulle kunna ha orsakat olyckan. Motorcyklarna var besiktigade inför tävlingen utan anmärkningar, säger Adi Celhasic, polisens förundersökningsledare.\nGranskat arrangemanget\nPolisen har även granskat arrangemanget och om tävlingen genomfördes enligt det regelverk som gäller för roadracing. Inte heller där har man funnit några brister.\n– Det finns inget som visar att någon kan hållas ansvarig för att olyckan inträffade, säger Adi Celhasic.",
@@ -23484,7 +23484,8 @@
    "ld_pubdate": "2026-09-07T14:39:19+02:00",
    "notes": {}
   },
-  "sheet_row": 978
+  "sheet_row": 978,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/jamtland/inga-bakterier-i-nya-provsvar-men-fortsatt-koka-vattnet-i-ostersund": {
   "url": "https://www.svt.se/nyheter/lokalt/jamtland/inga-bakterier-i-nya-provsvar-men-fortsatt-koka-vattnet-i-ostersund",
@@ -24163,10 +24164,10 @@
  "https://www.svt.se/nyheter/lokalt/sormland/nyheter-fran-mandag-6-september": {
   "url": "https://www.svt.se/nyheter/lokalt/sormland/nyheter-fran-mandag-6-september",
   "pubdate": "2026-09-07T19:10:54+02:00",
-  "lastmod": "2026-09-07T19:10:54+02:00",
-  "sitemap_title": "Nyheter från måndag 6 september",
+  "lastmod": "2026-09-07T19:50:00+02:00",
+  "sitemap_title": "Nyheter från måndag 7 september",
   "tab": "Lokalt/Sörmland",
-  "fetched_at": "2026-09-07T19:28:05.941396+02:00",
+  "fetched_at": "2026-09-08T00:36:17.783296+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__sormland__nyheter-fran-mandag-6-september.html",
   "extract": {
    "body": "Det här har SVT Nyheter Sörmland rapporterat om i dag:\n• Här valspurtar Åkesson (SD) i Nyköping – presenterade valmanifest\n• V-kandidat i Gnesta bortplockad efter antisemitism\n• Misstänkt fibersabotör togs på bar gärning",
@@ -24182,7 +24183,8 @@
    "ld_pubdate": "2026-09-07T19:10:54+02:00",
    "notes": {}
   },
-  "sheet_row": 1036
+  "sheet_row": 1036,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/stockholm/avgick-under-svts-granskning-nu-toppar-han-ms-valsedel": {
   "url": "https://www.svt.se/nyheter/lokalt/stockholm/avgick-under-svts-granskning-nu-toppar-han-ms-valsedel",
@@ -24213,13 +24215,13 @@
  "https://www.svt.se/nyheter/lokalt/stockholm/har-gar-nya-varningslarmet-pa-centralen-i-stockholm": {
   "url": "https://www.svt.se/nyheter/lokalt/stockholm/har-gar-nya-varningslarmet-pa-centralen-i-stockholm",
   "pubdate": "2026-09-07T16:27:05+02:00",
-  "lastmod": "2026-09-07T16:44:13+02:00",
+  "lastmod": "2026-09-07T21:04:52+02:00",
   "sitemap_title": "Här går nya varningslarmet på Centralen i Stockholm",
   "tab": "Lokalt/Stockholm",
-  "fetched_at": "2026-09-07T19:28:08.841707+02:00",
+  "fetched_at": "2026-09-08T00:36:19.502145+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__stockholm__har-gar-nya-varningslarmet-pa-centralen-i-stockholm.html",
   "extract": {
-   "body": "På måndagen var det dags att testa Sveriges nya varningslarm . SVT tog sig till Nordens mest trafikerade järnvägsstation för att se vad som händer när hundratals mobiltelefoner börjar tjuta samtidigt.\n– Jag blev påmind av min fru innan. Annars hade jag nog blivit lite orolig, säger resenären Mikael Skagerdal.\nMeddelandet nådde dock inte alla Telias kunder, enligt SOS Alarm.\n– Från vårt håll har det gått bra men om vi har förstått rätt har inte alla Telias kunder fått ta emot meddelandet. Det ligger inte hos oss så vi kan inte svara på varför, säger Tobbe Lundell, presschef på SOS Alarm.\nTvå län, 26 kommuner och ungefär 2,6 miljoner människor skulle beröras av testet. Mobiltelefoner i Stockholm och Gotlands län skickade ut en skarp signal när klockan slog 15, som sedan följdes av ett textmeddelande. Runt fem minuter senare kom ett meddelande om att testet var avslutat.\nSe i videon ovan vad som hände på Centralen när larmet gick.",
+   "body": "På måndagen var det dags att testa Sveriges nya varningslarm . SVT tog sig till Nordens mest trafikerade järnvägsstation för att se vad som händer när hundratals mobiltelefoner börjar tjuta samtidigt.\n– Jag blev påmind av min fru innan. Annars hade jag nog blivit lite orolig, säger resenären Mikael Skagerdal.\nMeddelandet nådde dock inte alla Telias kunder, enligt SOS Alarm.\n– Från vårt håll har det gått bra men om vi har förstått rätt har inte alla Telias kunder fått ta emot meddelandet. Det ligger inte hos oss så vi kan inte svara på varför, säger Tobbe Lundell, presschef på SOS Alarm.\nFörklaringen: För många tecken\nTill Ekot säger Mikael Frisell , generaldirektör för Myndigheten för civilt försvar, att varningen inte skickades ut eftersom en inställning hos Telia inte tillät meddelandets antal tecken.\n– Det meddelande vi skickade ut hade fler tecken än vad Telias gräns var, säger han.\nTvå län, 26 kommuner och ungefär 2,6 miljoner människor skulle beröras av testet. Mobiltelefoner i Stockholm och Gotlands län skickade ut en skarp signal när klockan slog 15, som sedan följdes av ett textmeddelande. Runt fem minuter senare kom ett meddelande om att testet var avslutat.\nSe i videon ovan vad som hände på Centralen när larmet gick.",
    "videos": [
     {
      "svtId": "KN3J3kd",
@@ -24232,7 +24234,8 @@
    "ld_pubdate": "2026-09-07T16:27:05+02:00",
    "notes": {}
   },
-  "sheet_row": 1008
+  "sheet_row": 1008,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/stockholm/vallentuna-haver-avtal-efter-flera-brister": {
   "url": "https://www.svt.se/nyheter/lokalt/stockholm/vallentuna-haver-avtal-efter-flera-brister",
@@ -24355,13 +24358,13 @@
  "https://www.svt.se/nyheter/lokalt/varmland/tre-miljoner-satsas-pa-riksvag-62-gladjande": {
   "url": "https://www.svt.se/nyheter/lokalt/varmland/tre-miljoner-satsas-pa-riksvag-62-gladjande",
   "pubdate": "2026-09-07T14:23:38+02:00",
-  "lastmod": "2026-09-07T15:56:26+02:00",
+  "lastmod": "2026-09-07T20:38:13+02:00",
   "sitemap_title": "Tre miljoner satsas på riksväg 62: ”Glädjande”",
   "tab": "Lokalt/Värmland",
-  "fetched_at": "2026-09-07T19:28:24.492920+02:00",
+  "fetched_at": "2026-09-08T00:36:24.684820+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__tre-miljoner-satsas-pa-riksvag-62-gladjande.html",
   "extract": {
-   "body": "De lutande vägräcken längs med riksväg 62 kommer att åtgärdas under hösten 2026, meddelar Trafikverket. För föreningen Framtid Nordvärmland innebär det en ljusglimt i kampen för att rusta upp vägen, vilket NWT var först att rapportera.\n– Det här var en positiv nyhet, säger Jan-Anders Carlsson, ordförande i föreningen Framtid Nordvärmland.\nUnder flera års tid har Framtid Nordvärmland haft kontakt med Trafikverket och påtalat brister längs med riksväg 62.\nI fredags fick de besked från Trafikverket att vägräckena mellan Ransby och Sysslebäck kommer att åtgärdas. Något som även NWT har rapporterat om.\n– Vi kommer byta ut en och en halv kilometer av räckena, till räcken med längre ståndare. Det ska bli stabilare, säger Christer Nederman Runbäck, sektionschef för drift och underhåll vid Trafikverket.\nKostnaden ligger på 2 000 kronor per kilometer – totalt cirka tre miljoner kronor.\nFokus har legat på räckena\nJan-Anders Carlsson berättar att räckena är något som de från Framtid Nordvärmland fokuserat mycket på. Han beskriver hur de instabila slänterna längs med vägen har gjort att vägräckena har börjat luta.\n– Vilket gör att skyddsfunktionen de ska ha finns inte längre, berättar Jan-Anders Carlsson.\nDe mer omfattande rassäkrande åtgärder som Trafikverket vill göra på sju platser längs vägen ingår inte i satsningen.\nArbetet ska påbörjas under hösten 2026\nTrafikverket meddelar att de kommer sätta igång med arbetet med räckena under hösten 2026, och beräknas vara klara under vintern.\nUtöver räckena kommer Trafikverket arbeta med tillsyn och spolning av sträckans vägtrummor under hösten och vintern.\n– Det kan ligga lite eller mycket grus i som kan stoppa vattenflödet, säger Christer Nederman Runbäck vid Trafikverket.\nFöreningens kamp fortsätter\nTill föreningen har man meddelat att man planerar för ytterligare åtgärder längre fram. Vilka de åtgärderna är framgår inte i den mejlkonversation som föreningen haft med Trafikverket.\n– Kampen kommer ju att fortsätta. Vi kommer fortsätta vår kamp tills riksväg 62 är en väg värd namnet, där alla kan känna trygghet och vet att man kommer fram dit man har tänkt sig, säger Jan-Anders Carlsson.",
+   "body": "De lutande vägräcken längs med riksväg 62 kommer att åtgärdas under hösten 2026, meddelar Trafikverket. För föreningen Framtid Nordvärmland innebär det en ljusglimt i kampen för att rusta upp vägen, vilket NWT var först att rapportera.\n– Det här var en positiv nyhet, säger Jan-Anders Carlsson, ordförande i föreningen Framtid Nordvärmland.\nUnder flera års tid har Framtid Nordvärmland haft kontakt med Trafikverket och påtalat brister längs med riksväg 62.\nI fredags fick de besked från Trafikverket att vägräckena mellan Ransby och Sysslebäck kommer att åtgärdas. Något som även NWT har rapporterat om.\n– Vi kommer byta ut en och en halv kilometer av räckena, till räcken med längre ståndare. Det ska bli stabilare, säger Christer Nederman Runbäck, sektionschef för drift och underhåll vid Trafikverket.\nKostnaden ligger på 2 000 kronor per meter – totalt cirka tre miljoner kronor.\nFokus har legat på räckena\nJan-Anders Carlsson berättar att räckena är något som de från Framtid Nordvärmland fokuserat mycket på. Han beskriver hur de instabila slänterna längs med vägen har gjort att vägräckena har börjat luta.\n– Vilket gör att skyddsfunktionen de ska ha finns inte längre, berättar Jan-Anders Carlsson.\nDe mer omfattande rassäkrande åtgärder som Trafikverket vill göra på sju platser längs vägen ingår inte i satsningen.\nArbetet ska påbörjas under hösten 2026\nTrafikverket meddelar att de kommer sätta igång med arbetet med räckena under hösten 2026, och beräknas vara klara under vintern.\nUtöver räckena kommer Trafikverket arbeta med tillsyn och spolning av sträckans vägtrummor under hösten och vintern.\n– Det kan ligga lite eller mycket grus i som kan stoppa vattenflödet, säger Christer Nederman Runbäck vid Trafikverket.\nFöreningens kamp fortsätter\nTill föreningen har man meddelat att man planerar för ytterligare åtgärder längre fram. Vilka de åtgärderna är framgår inte i den mejlkonversation som föreningen haft med Trafikverket.\n– Kampen kommer ju att fortsätta. Vi kommer fortsätta vår kamp tills riksväg 62 är en väg värd namnet, där alla kan känna trygghet och vet att man kommer fram dit man har tänkt sig, säger Jan-Anders Carlsson.",
    "videos": [
     {
      "svtId": "8LJpJdp",
@@ -24374,7 +24377,8 @@
    "ld_pubdate": "2026-09-07T14:23:38+02:00",
    "notes": {}
   },
-  "sheet_row": 974
+  "sheet_row": 974,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/vast/efter-miljonkravet-nu-far-maria-fran-karlsborg-ratt": {
   "url": "https://www.svt.se/nyheter/lokalt/vast/efter-miljonkravet-nu-far-maria-fran-karlsborg-ratt",
@@ -24463,10 +24467,10 @@
  "https://www.svt.se/nyheter/lokalt/vast/polisjakt-efter-rymning-i-vastsverige": {
   "url": "https://www.svt.se/nyheter/lokalt/vast/polisjakt-efter-rymning-i-vastsverige",
   "pubdate": "2026-09-07T16:15:03+02:00",
-  "lastmod": "2026-09-07T16:58:03+02:00",
+  "lastmod": "2026-09-07T19:32:23+02:00",
   "sitemap_title": "Polisjakt efter rymning i Västsverige",
   "tab": "Lokalt/Väst",
-  "fetched_at": "2026-09-07T19:28:32.405412+02:00",
+  "fetched_at": "2026-09-08T00:36:26.387107+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vast__polisjakt-efter-rymning-i-vastsverige.html",
   "extract": {
    "body": "En man i 30-årsåldern har rymt från en rättspsykiatrisk anstalt i västra Sverige, säger polisen till SVT Nyheter. Flykten ska ha gått våldsamt till och en anmälan om grovt våld mot tjänsteman har upprättats.\nSökandet efter mannen påbörjades under gårdagen. Det aktuella området är Fyrbodal, säger Adam Samara, presstalesperson på polisen i Väst, som dock inte vill gå in på detaljerna i ärendet.\nVid rymningstillfället ”uppstod en farlig situation” för en vårdanställd, men ingen ska vara allvarligt skadad.\n– Det kunde gått värre än vad det gjorde, säger Adam Samara.\nMannen ska vara tidigare dömd för misshandel och vapenbrott, skriver Expressen . Polisen gör dock bedömningen att det inte finns någon fara för allmänheten.",
@@ -24475,7 +24479,8 @@
    "ld_pubdate": "2026-09-07T16:15:03+02:00",
    "notes": {}
   },
-  "sheet_row": 999
+  "sheet_row": 999,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/vast/stort-lerutslapp-i-savean-saneringsarbete-pagar": {
   "url": "https://www.svt.se/nyheter/lokalt/vast/stort-lerutslapp-i-savean-saneringsarbete-pagar",
@@ -24862,13 +24867,13 @@
  "https://www.svt.se/nyheter/utrikes/kanada-om-usa-det-var-kul-sa-lange-det-varade": {
   "url": "https://www.svt.se/nyheter/utrikes/kanada-om-usa-det-var-kul-sa-lange-det-varade",
   "pubdate": "2026-09-07T18:36:14+02:00",
-  "lastmod": "2026-09-07T18:36:14+02:00",
+  "lastmod": "2026-09-07T19:37:02+02:00",
   "sitemap_title": "Kanada om USA: Det var kul så länge det varade",
   "tab": "Nyheter/Utrikes",
-  "fetched_at": "2026-09-07T19:29:12.755391+02:00",
+  "fetched_at": "2026-09-08T00:36:30.522342+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__kanada-om-usa-det-var-kul-sa-lange-det-varade.html",
   "extract": {
-   "body": "Säg den utrikespolitiska lycka som varar för evigt.\nHandelstvisten mellan Kanada och USA kan framstå som ett tydligt exempel på Trump-världens verklighet. Men även om nästa president blir mer ”som vanligt” har Kanada lärt sig en läxa som består.\nNär Kanadas premiärminister Mark Carney i januari talade i Davos var budskapet tydligt.\nDen världsordning som Kanada och andra västländer vant sig vid är slut. Eller åtminstone så skadeskjuten att alla tvingas tänka om.\nUt med tanken om den ”regelbaserade världsordningen”. In med en ny tid präglad av stormaktsrivalitet och den starkes rätt.\n– Låt mig tala klarspråk: vi befinner oss mitt i en brytning, inte en övergång, sade Carney.\nUSA: Payback time\nCarneys ord var omtumlande. I dag är de vardagsmat från kanadensiska regeringsföreträdare. Tullkonflikten har blivit en handelspolitisk motsvarighet till det bryska uppvaknande som USA Nato-allierade fått uppleva säkerhetspolitiskt.\nFör den som bor i Washington sedan Trump återkom till makten har en linje blivit tydlig. Allierade betraktas inte enkelt som vänner utan som bekväma snålåkare som måste betala mer. Om Kanada är Vita huset ännu mindre försonligt. Landet har, enligt Trump, blåst USA i årtionden.\nI Trumpadministrationens utrikespolitiska värld råder djungelns lag. Den starkes makt väger tyngre än gamla vänskapsband. Andra länder är ibland samarbetspartners men ofta konkurrenter, eller direkta fiender. Den svagare får anpassa sig.\nLångsiktig läxa\nI rättvisans namn betyder inte den här ofta ovänliga, avsiktligt provocerande retoriken från Washington att varje amerikansk invändning kan avfärdas. Även erkända mainstream-experter har anslutit sig till en del av kritiken mot Kanada. Men steget till stöd för 50-procentiga chocktullar är långt.\nDäremot rimmar det väl med Trumpsfärens bredare syn på hur världen fungerar. Precis som konflikten om Grönland utgår handelskriget från Vita husets syn på USA som världens dominerande stormakt och på vikten av att andra länder behandlar landet därefter.\nVissa diplomater och utländska besökare i Washington tröstar sig med att Trump inte kan sitta kvar så mycket längre. Nästa president kan ju vara mer traditionell.\nMen allt tydligare blir det att Kanada liksom europeiska länder lärt sig att ett välvilligt USA nog inte går att ta för givet.\nEn läxa som lär, och bör, bita sig fast.",
+   "body": "Säg den utrikespolitiska lycka som varar för evigt.\nHandelstvisten mellan Kanada och USA kan framstå som ett tydligt exempel på Trump-världens verklighet. Men även om nästa president blir mer ”som vanligt” har Kanada lärt sig en läxa som består.\nNär Kanadas premiärminister Mark Carney i januari talade i Davos var budskapet tydligt.\nDen världsordning som Kanada och andra västländer vant sig vid är slut. Eller åtminstone så skadeskjuten att alla tvingas tänka om.\nUt med tanken om den ”regelbaserade världsordningen”. In med en ny tid präglad av stormaktsrivalitet och den starkes rätt.\n– Låt mig tala klarspråk: vi befinner oss mitt i en brytning, inte en övergång, sade Carney.\nUSA: Payback time\nCarneys ord var omtumlande. I dag är de vardagsmat från kanadensiska regeringsföreträdare. Tullkonflikten har blivit en handelspolitisk motsvarighet till det bryska uppvaknande som USA:s Nato-allierade fått uppleva säkerhetspolitiskt.\nFör den som bor i Washington sedan Trump återkom till makten har en linje blivit tydlig. Allierade betraktas inte enkelt som vänner utan som bekväma snålåkare som måste betala mer. Om Kanada är Vita huset ännu mindre försonligt. Landet har, enligt Trump, blåst USA i årtionden.\nI Trumpadministrationens utrikespolitiska värld råder djungelns lag. Den starkes makt väger tyngre än gamla vänskapsband. Andra länder är ibland samarbetspartners men ofta konkurrenter, eller direkta fiender. Den svagare får anpassa sig.\nLångsiktig läxa\nI rättvisans namn betyder inte den här ofta ovänliga, avsiktligt provocerande retoriken från Washington att varje amerikansk invändning kan avfärdas. Även erkända mainstream-experter har anslutit sig till en del av kritiken mot Kanada. Men steget till stöd för 50-procentiga chocktullar är långt.\nDäremot rimmar det väl med Trumpsfärens bredare syn på hur världen fungerar. Precis som konflikten om Grönland utgår handelskriget från Vita husets syn på USA som världens dominerande stormakt och på vikten av att andra länder behandlar landet därefter.\nVissa diplomater och utländska besökare i Washington tröstar sig med att Trump inte kan sitta kvar så mycket längre. Nästa president kan ju vara mer traditionell.\nMen allt tydligare blir det att Kanada liksom europeiska länder lärt sig att ett välvilligt USA nog inte går att ta för givet.\nEn läxa som lär, och bör, bita sig fast.",
    "videos": [
     {
      "svtId": "8z7a7VB",
@@ -24881,18 +24886,19 @@
    "ld_pubdate": "2026-09-07T18:36:14+02:00",
    "notes": {}
   },
-  "sheet_row": 1028
+  "sheet_row": 1028,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/utrikes/kanada-slar-tillbaka-varldsordningen-vi-kande-ar-over": {
   "url": "https://www.svt.se/nyheter/utrikes/kanada-slar-tillbaka-varldsordningen-vi-kande-ar-over",
   "pubdate": "2026-09-07T18:35:13+02:00",
-  "lastmod": "2026-09-07T18:53:55+02:00",
+  "lastmod": "2026-09-07T19:36:45+02:00",
   "sitemap_title": "Kanada slår tillbaka: Världsordningen vi kände är över",
   "tab": "Nyheter/Utrikes",
-  "fetched_at": "2026-09-07T19:29:14.327892+02:00",
+  "fetched_at": "2026-09-08T00:36:32.221987+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__kanada-slar-tillbaka-varldsordningen-vi-kande-ar-over.html",
   "extract": {
-   "body": "Tullkriget mellan Kanada och USA trappas upp. På tisdag svarar Kanada med egna tullar på USA:s 50-procentiga tullar.\n– Den internationella rättsordning vi kände, den perioden i vår historia är över, säger Kanadas justitieminister Sean Fraser till SVT.\nGraeme Roustan håller upp en hockeyklubba märkt ”Made in Canada”. En nyss färdig produkt från hans hockeyklubbefabrik i Brantford, Kanadas och Nordamerikas enda.\nJust hockeyklubbor finns bland varorna som USA belagt med 50-procentiga extratullar, som del i den eskalerande handelskonflikten länderna emellan. Enligt Vita huset ett svar på decennier av orättvisa där Kanada säga ha ”blåst” USA.\nMen varför just hockeyklubbor?\n– Hockey är en religion i Kanada. Vill man få uppmärksamhet i en konflikt tar man upp hockey, säger Roustan.\n– Det är en del av varje kanadensares själ. Vi är stolta över sporten.\nKollapsade förhandlingar\nUSA:s tullar omfattar varor värda över 20 miljarder amerikanska dollar. Från den 8 september svarar Kanada med motsvarande tullar på amerikansk import.\nDet trots försök till samtal. Förhandlingarna bröt samman 21 augusti. Kanada ansåg att USA krävde för mycket medan USA menade att Kanada duckade en möjlig uppgörelse.\n– Den internationella rättsordning vi kände, säger Kanadas justitieminister Sean Fraser till SVT. – Den perioden i vår historia är över.\nOklar framtid\nKnappt 72 procent av Kanadas varuexport gick i fjol till USA. Trumpadministrationen har återkommande pekat på ett amerikanskt handelsunderskott som tecken på orättvisa i handelsrelationen. USA:s underskott i handeln med varor till och från Kanada var 2025 nära 50 miljarder dollar.\nUtöver svarstullar har Kanada också lanserat miljardstöd till företag som drabbas av konflikten. Ett är Ace Machining i Nova Scotia.\nÄgaren Ron Wallace tvivlar på att relationen snabbt kan bli som förr.\n– Jag skulle vilja tro det, men jag tror att det blir svårt att återhämta sig från det här.",
+   "body": "Tullkriget mellan Kanada och USA trappas upp. På tisdag svarar Kanada med egna tullar på USA:s 50-procentiga tullar.\n– Den internationella rättsordning vi kände, den perioden i vår historia är över, säger Kanadas justitieminister Sean Fraser till SVT.\nGraeme Roustan håller upp en hockeyklubba märkt ”Made in Canada”. En nyss färdig produkt från hans träklubbefabrik i Brantford, den sista i Kanada.\nJust hockeyklubbor finns bland varorna som USA belagt med 50-procentiga extratullar, som del i den eskalerande handelskonflikten länderna emellan. Enligt Vita huset ett svar på decennier av orättvisa där Kanada sägs ha ”blåst” USA.\nMen varför just hockeyklubbor?\n– Hockey är en religion i Kanada. Vill man få uppmärksamhet i en konflikt tar man upp hockey, säger Roustan.\n– Det är en del av varje kanadensares själ. Vi är stolta över sporten.\nKollapsade förhandlingar\nUSA:s tullar omfattar varor värda runt 20 miljarder amerikanska dollar. Från den 8 september svarar Kanada med motsvarande tullar på amerikansk import.\nDet trots försök till samtal. Förhandlingarna bröt samman 21 augusti. Kanada ansåg att USA krävde för mycket medan USA menade att Kanada duckade en möjlig uppgörelse.\n– Den internationella rättsordning vi kände, säger Kanadas justitieminister Sean Fraser till SVT. – Den perioden i vår historia är över.\nOklar framtid\nKnappt 72 procent av Kanadas varuexport gick i fjol till USA. Trumpadministrationen har återkommande pekat på ett amerikanskt handelsunderskott som tecken på orättvisa i handelsrelationen. USA:s underskott i handeln med varor till och från Kanada var 2025 nära 50 miljarder dollar.\nUtöver svarstullar har Kanada också lanserat miljardstöd till företag som drabbas av konflikten. Ett är Ace Machining i Nova Scotia.\nÄgaren Ron Wallace tvivlar på att relationen snabbt kan bli som förr.\n– Jag skulle vilja tro det, men jag tror att det blir svårt att återhämta sig från det här.",
    "videos": [
     {
      "svtId": "K5dVdrY",
@@ -24905,7 +24911,8 @@
    "ld_pubdate": "2026-09-07T18:35:13+02:00",
    "notes": {}
   },
-  "sheet_row": 1027
+  "sheet_row": 1027,
+  "needs_row_update": true
  },
  "https://www.svt.se/sport/bilsport/har-exploderar-bilen-efter-valdsam-krasch-raddas-av-konkurrenten": {
   "url": "https://www.svt.se/sport/bilsport/har-exploderar-bilen-efter-valdsam-krasch-raddas-av-konkurrenten",
@@ -25071,5 +25078,613 @@
    "notes": {}
   },
   "sheet_row": 959
+ },
+ "https://www.svt.se/nyheter/inrikes/mer-nerv-i-inrikespolitiken-svenska-nyheter-marker-av-valtrycket": {
+  "url": "https://www.svt.se/nyheter/inrikes/mer-nerv-i-inrikespolitiken-svenska-nyheter-marker-av-valtrycket",
+  "pubdate": "2026-09-07T21:41:03+02:00",
+  "lastmod": "2026-09-07T21:41:33+02:00",
+  "sitemap_title": "Mer nerv i inrikespolitiken – Svenska Nyheter märker av valtrycket",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-08T00:35:49.962692+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__mer-nerv-i-inrikespolitiken-svenska-nyheter-marker-av-valtrycket.html",
+  "extract": {
+   "body": "Redaktionen som gör Svenska Nyheter följer valrörelsen och politikernas utspel noga. Politisk satir är underhållning men skämten har potential att påverka väljarna.\n– Om kejsaren är naken kan vi säga det, säger programledaren Messiah Hallberg.\nSnart är det val, och det märker de på redaktionen för satirprogammet Svenska Nyheter.\n– Det är extra tryck och nerv i all inrikespolitik, säger Richard Ekman, manusredaktör på Svenska Nyheter.\nPolitisk satir är en typ av underhållning som driver med makthavare och aktuella nyhetshändelser. I USA finns flera program som Saturday Night Live och the Daily Show. Vissa skämt och parodier blir ibland så virala att de når en större publik än själva nyhetshändelsen.\nPå Svenska Nyheter tror de att en av sakerna publiken uppskattar med satir är att den är ärlig.\n– Vi kan säga saker rakt ut som Mats Knutson inte kan säga, vilket tittarna upplever som befriande, säger Richard Ekman.\nMessiah Hallberg håller med.\n– Jag tror att folk tycker att det är skönt att det sitter någon i tv som sätter ord på vad man kan gå runt och tänka. Vi kan kalla en spade för en spade.",
+   "videos": [
+    {
+     "svtId": "86d1o4R",
+     "duration": 130,
+     "title": "Svenska Nyheter om valrörelsen och politisk satir",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T21:41:03+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/inrikes/mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet": {
+  "url": "https://www.svt.se/nyheter/inrikes/mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet",
+  "pubdate": "2026-09-07T21:13:24+02:00",
+  "lastmod": "2026-09-07T21:33:51+02:00",
+  "sitemap_title": "Mikael Frisell: Därför nåddes inte alla av VMA-larmet",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-08T00:35:54.277975+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet.html",
+  "extract": {
+   "body": "Miljoner boende i Stockholm och Gotlands län nåddes i måndagens stora test av Sveriges nya VMA-larm. Men många Teliakunder gjorde det inte.\n– Telia har inte följt den kravspecifikation som vi har ställt. De hade ställt för låg gräns på antal tecken. Då blockeras hela meddelandet och utskicket, säger Mikael Frisell, generaldirektör för Myndigheten för civilt försvar, till TT.\n2,6 miljoner mobiltelefoner tjöt vid tretiden på dagen med ett tillhörande meddelande på skärmen – det första testet av varningssystemet SE Alert.\nMånga av Telias kunder nåddes dock inte av varningen, något som nu analyseras av bolaget, som under dagen underströk att det rörde sig om ett test och att det var bra att bristen upptäcktes.\n-Jag har pratat med Telias ledning flera gånger under kvällen. De har nu testkört och det fungerar, säger Mikael Frisell.",
+   "videos": [
+    {
+     "svtId": "KBwawdn",
+     "duration": 81,
+     "title": "Nya varningen testades på Gotland - Lulia: \"Jag fick inget larm\"",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T21:13:24+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/inrikes/politikbyran-sander-live-hang-med-i-chatten": {
+  "url": "https://www.svt.se/nyheter/inrikes/politikbyran-sander-live-hang-med-i-chatten",
+  "pubdate": "2026-09-07T19:57:45+02:00",
+  "lastmod": "2026-09-07T21:04:19+02:00",
+  "sitemap_title": "Politikbyrån sänder live – häng med i chatten",
+  "tab": "Nyheter/Inrikes",
+  "fetched_at": "2026-09-08T00:35:56.018257+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__politikbyran-sander-live-hang-med-i-chatten.html",
+  "extract": {
+   "body": "Hur låter det inom Socialdemokraterna efter opinionsraset? Annika Strandhäll (S), den före detta S-riksdagsledamoten Jan Emanuel och Expressens inrikespolitiska kommentator Viktor Barth-Kron gästar kvällens Politikbyrån live.\nMedverkar i programmet gör också den före detta S-ledaren Mona Sahlin. När hon var partiledare 2010 gjorde Socialdemokraterna sitt då sämsta val sedan den allmänna rösträtten infördes.\n– Det kändes fruktansvärt tungt måste jag säga. För trots att det gick så dåligt var ju regeringsmakten ganska nära, säger hon.\nStrandhäll: Skräcksiffran är Juholt-siffror\nAnnika Strandhäll, ordförande för S-kvinnor och avgående riksdagsledamot, säger att det var väntat att Socialdemokraterna skulle tappa i opinionen i slutspurten men att det ändå var en kalldusch.\n– Vi har ju egna mätningar, vi visste att det skulle komma en dipp, men i den här storleksordningen. Det var en tuff känsla, säger hon.\nPå frågan om vad som är mardrömssiffran för (S) säger Annika Strandhäll:\n– Skräcksiffran för oss det är Håkan Juholt, det är 22 procent.\nI januari 2012, när Håkan Juholt var partiledare, låg stödet för Socialdemokraterna på 22,9 procent i en uppmärksammad opinionsmätning från Novus.\nSaknar ideologiska frågor\nDen före detta partiledaren Mona Sahlin tycker att årets valrörelse har handlat för mycket om olika regeringskonstellationer.\n– In med sakfrågorna i stället för alla röda linjer. Man måste tillbaka ner i skyttegravarna nu, tycker jag. Upp med några riktigt svåra ideologiska fajter, det är det den här valrörelsen saknar.\nPolitikbyrån sänder live och plockar upp de senaste valsnackisarna. Häng med och ställ dina frågor om valet i chatten i SVT Play och Duo-appen.\nChatta om valet 2026\nVälkommen till valchatten 2026! 🗳️\nChatten är öppen följande tider:\nMåndag 7/9 07.00–09.00 Morgonstudion 20.00–20.30 Politikbyrån\nTisdag 8/9 07.00–09.00 Morgonstudion\nOnsdag 9/9 07.00–09.00 Morgonstudion 19.45–21.40 Statsministermötet (samt upp- och nedsnack)\nTorsdag 10/9 07.00–09.00 Morgonstudion 20.00–20.30 Politikbyrån\nFredag 11/9 16.00–18.00 Sverige Live 18.20–22.10 Slutdebatten (samt upp- och nedsnack)\nSöndag 13/9 08.00–16.00 Valstudion 18.15–01.00 Valvakan\nMåndag 14/9 Meddelas senare\nℹ️ Våra kommentarsregler Allt om valet på SVT Play Senaste nytt om valet på SVT Nyheter\nSom Karolina sa, det går fort när man har roligt! Nu var det slut för i kväll men på torsdag är vi tillbaka samma tid, 20:00 !:)\nVanskligFlugsvamp997 • S+M kommer bara ske pga krig/kris eller om deras ordinarie samarbetspartier gör något oförväntat\nLurvigKvarn065 • Kan inte Moderaterna  och Socaildemokraterna redan  regera ihop ! Lyssna på Ryssen var förberedda !  då krävs snabba beslu!\nLuddigGrodman895 • Vänsterpartiet hade fått 15% om de var mer som Tysklands BSW\nEftergivenPulka832 • Bra surr i studion!\nEller hur! :)\nVisuellStudent650 • Det finns fler alternativ för majoritetsregering än medie talar om. Redan i förra valet fick S+M överraskande 175 av de 349 mandaten och skulle ha kunnat bilda regering efter tyskt eller finskt mönster.\nKattenÄrGlad233 • Jag tänkte Jan Emanuel Klara-Lovisa.\nHan fick frågan vad han skulle rösta på men berättade inte vilket parti.\nKattenÄrGlad233 • Ja\nGodtrogenKisse05 • Är det helt omöjligt för centern och vänstern att samarbeta under en Socialdemokratisk regering?\nKattenÄrGlad233 • Kommer någon på TV rösta på Vänsterpartiet?\nMenar du någon av gästerna i programmet?",
+   "videos": [
+    {
+     "svtId": "j1qVoPV",
+     "duration": 1756,
+     "title": "Magdas mardröm",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T19:57:45+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/blekinge/nyheter-fran-dagen-7-september-06ax9y": {
+  "url": "https://www.svt.se/nyheter/lokalt/blekinge/nyheter-fran-dagen-7-september-06ax9y",
+  "pubdate": "2026-09-07T20:28:30+02:00",
+  "lastmod": "2026-09-07T20:28:30+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Blekinge",
+  "fetched_at": "2026-09-08T00:35:58.688133+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__blekinge__nyheter-fran-dagen-7-september-06ax9y.html",
+  "extract": {
+   "body": "Detta har hänt i Blekinge måndagen den 7 september.\nS-kandidat stryks efter kampanjdonation\nÄrende mot SD-toppens svartbygge\nMP polisanmäler valpåverkan",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-07T20:28:30+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/blekinge/s-kandidat-stryks-fran-listan-efter-kampanjdonation": {
+  "url": "https://www.svt.se/nyheter/lokalt/blekinge/s-kandidat-stryks-fran-listan-efter-kampanjdonation",
+  "pubdate": "2026-09-07T20:12:31+02:00",
+  "lastmod": "2026-09-07T20:12:31+02:00",
+  "sitemap_title": "S-kandidat stryks från listan efter kampanjdonation",
+  "tab": "Lokalt/Blekinge",
+  "fetched_at": "2026-09-08T00:36:00.528322+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__blekinge__s-kandidat-stryks-fran-listan-efter-kampanjdonation.html",
+  "extract": {
+   "body": "Tamam Abou Hamidan (S) från Olofström står på sjätte plats på Socialdemokraternas riksdagslista i Blekinge. Ny stryks hon från både riksdagslistan och regionlistan efter en donation till hennes personvalskampanj.\nDet var Socialdemokraternas distriktsstyrelse som tog beslutet på måndagen.\n– Det är fruktansvärt dåligt hanterat och oerhört tråkigt, säger Tamam Abou Hamidan (S).\nEnligt Blekingedistriktets försteomudsman Hampus Engqvist har Tamam Abou Hamidan brutit mot Socialdemokraternas regler för personval genom att hennes skönhetsföretag bidragit med finansiering till kampanjen.\n– Det står ingenting i stadgarna om att vi inte får göra så, säger Tamam Abou Hamidan.\n– Det är formulerat i vår kandidatförsäkran, som alla kandidater skriver under, att det inte är tillåtet att finansiera sin personvalskampanj med privata eller företagsmedel, svarar Hampus Engqvist.\nDistriktsstyrelsens beslut innebär att Tamam Abou Hamidan stryks från både riksdagslistan och regionlistan. Hon är fortsatt kandidat i valet till kommunfullmäktige i Olofström.\nHör mer från Tamam Abou Hamidan och Hampus Engqvist i videon ovan.",
+   "videos": [
+    {
+     "svtId": "8orarw7",
+     "duration": 76,
+     "title": "S-kandidat stryks från listan efter kampanjdonation",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T20:12:31+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/gavleborg/nyheter-fran-dagen-7-september-z6uziv": {
+  "url": "https://www.svt.se/nyheter/lokalt/gavleborg/nyheter-fran-dagen-7-september-z6uziv",
+  "pubdate": "2026-09-07T19:35:37+02:00",
+  "lastmod": "2026-09-07T19:35:37+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Gävleborg",
+  "fetched_at": "2026-09-08T00:36:03.326256+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__gavleborg__nyheter-fran-dagen-7-september-z6uziv.html",
+  "extract": {
+   "body": "Utvalda nyheter från SVT Gävleborg måndag 7 september.\nDe bytte Nederländerna mot Hovra – så har det gått med vandrarhemmet\nDe drömde om ett lugnare liv när de valde att lämna Nederländerna för att driva vandrarhem i Hovra. Tre och ett halvt år efter flytten tycks de nöjda med valet av livsstilsförändring.\n– Vi trodde att livet skulle bli lugnare. Och det har det blivit, men på ett annat sätt än vi tänkte, säger Christianne Baars.\nRäddningsinsatsen avslutad i ställverket i Gävle\nEn brand bröt ut i ett ställverk på Laggarbovägen i Gävle på söndagskvällen. Räddningstjänsten var på plats under måndagen och strax innan 18-tiden meddelade de att insatsen avslutas och branden var släckt.\n• Gör SVT:s lokala valkompass\nTa reda på vilka partier som tycker mest som du där du bor – gör SVT:s lokala valkompass.",
+   "videos": [
+    {
+     "svtId": "eZx7xEy",
+     "duration": 49,
+     "title": "Brand i högspänningsanläggning – räddningstjänsten släcker från skyddad position",
+     "svtplay": true
+    },
+    {
+     "svtId": "ePBAwp6",
+     "duration": 73,
+     "title": "Nederländsk familj driver vandrarhem och café i Sverige",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-07T19:35:37+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/helsingborg/nyheter-fran-dagen-7-september-holvqq": {
+  "url": "https://www.svt.se/nyheter/lokalt/helsingborg/nyheter-fran-dagen-7-september-holvqq",
+  "pubdate": "2026-09-07T20:20:04+02:00",
+  "lastmod": "2026-09-07T20:20:04+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Helsingborg",
+  "fetched_at": "2026-09-08T00:36:07.324989+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__helsingborg__nyheter-fran-dagen-7-september-holvqq.html",
+  "extract": {
+   "body": "Detta har hänt i nordvästra Skåne måndagen den 7 september.\n• Bergtäkt på Söderåsen möter motstånd\n• Politikerna överens – vill inte se bergtäkt\n• Miljoner valsedlar i papperskorgen",
+   "videos": [
+    {
+     "svtId": "jvvaZgB",
+     "duration": 84,
+     "title": "Miljoner valsedlar i papperskorgen - dubbla listor kan förbjudas",
+     "svtplay": true
+    },
+    {
+     "svtId": "jp5aogZ",
+     "duration": 84,
+     "title": "Politikerna överens över partigränserna - vill inte ha bergtäkt",
+     "svtplay": true
+    },
+    {
+     "svtId": "Ky2apwq",
+     "duration": 118,
+     "title": "I 30 år vill Svevia spränga och krossa sten i bergtäkt på Söderåsen",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-07T20:20:04+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/jonkoping/nyheter-fran-dagen-7-september-ytjx6n": {
+  "url": "https://www.svt.se/nyheter/lokalt/jonkoping/nyheter-fran-dagen-7-september-ytjx6n",
+  "pubdate": "2026-09-07T19:57:15+02:00",
+  "lastmod": "2026-09-07T19:57:15+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Jönköping",
+  "fetched_at": "2026-09-08T00:36:08.617639+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__jonkoping__nyheter-fran-dagen-7-september-ytjx6n.html",
+  "extract": {
+   "body": "Detta har hänt i Jönköpings län 7 september.\n• Äldre nekades hjälp – tvingades bajsa i blöja • Busschaufför körde igenom bommarna – döms • Vårdpersonalens gratisparkering ej tillåten – riskerar skattesmäll\nI Huskvarnaviken i Vättern finns det under ytan fornlämningar från bronsåldern. Marinarkeologer har i helgen undersökt platsen med sina dykare. Se mer i klippet nedan.\nVi på SVT Nyheter Jönköping skickar en pushnotis på kvällen som sammanfattar nyhetsdagen i länet. Vi ser det som en service och tar tacksamt emot era synpunkter – mejla oss på: jonkoping@svt.se\nHar du en nyhet du vill tipsa om? Då kan du nå oss på samma mejladress eller ringa till redaktionen på 036-215 67 00.",
+   "videos": [
+    {
+     "svtId": "jmyYyLq",
+     "duration": 65,
+     "title": "Dykare söker spår från bronsåldern under Vätterns yta",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T19:57:15+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/norrbotten/nyheter-fran-dagen-7-september-8xtj0l": {
+  "url": "https://www.svt.se/nyheter/lokalt/norrbotten/nyheter-fran-dagen-7-september-8xtj0l",
+  "pubdate": "2026-09-07T19:27:47+02:00",
+  "lastmod": "2026-09-07T19:27:47+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Norrbotten",
+  "fetched_at": "2026-09-08T00:36:10.115240+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__norrbotten__nyheter-fran-dagen-7-september-8xtj0l.html",
+  "extract": {
+   "body": "Detta har hänt i länet under måndagen den 7 september.\n• F 21 utökar – närboende oroliga\n• SD-utspelet: Slopa dubbel jakträtt\n• Stegravittne: ”Rädd att förlora jobbet”",
+   "videos": [
+    {
+     "svtId": "jz7a7X4",
+     "duration": 92,
+     "title": "Stegra-arbetare rädda för att vittna: ”Blir hemskickade”",
+     "svtplay": true
+    },
+    {
+     "svtId": "ey2a2V9",
+     "duration": 76,
+     "title": "Sverigedemokraterna vill ta bort dubbel jakträtt ovan odlingsgränsen",
+     "svtplay": true
+    },
+    {
+     "svtId": "eak7w7q",
+     "duration": 104,
+     "title": "Försvarsmakten vill öva mer mörkerflygningar med nytt flygplan",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-07T19:27:47+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/ost/personran-i-norrkoping-fick-snabb-losning": {
+  "url": "https://www.svt.se/nyheter/lokalt/ost/personran-i-norrkoping-fick-snabb-losning",
+  "pubdate": "2026-09-07T19:52:33+02:00",
+  "lastmod": "2026-09-07T19:57:32+02:00",
+  "sitemap_title": "Personrån i Norrköping fick snabb lösning",
+  "tab": "Lokalt/Öst",
+  "fetched_at": "2026-09-08T00:36:11.972690+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__ost__personran-i-norrkoping-fick-snabb-losning.html",
+  "extract": {
+   "body": "Vid klockan 18 larmade en man i 30-årsåldern polisen om att han blivit rånad när han gick på Norra Promenaden i stadsdelen Marielund i Norrköping.\nGärningsmännen ska enligt uppgift ha hotat mannen med ett vasst föremål, tagit hans väska och sedan åkt iväg på en elsparkcykel.\nPolishuset ligger dock bara ett stenkast från brottsplatsen och patruller var snabbt på plats. Två män i 20-årsåldern greps och brottsoffret kunde återfå sin väska.\n– Det tillhör ovanligheterna med personrån på ljusan dag. Inte helt genomtänkt, kan man tycka, säger Mats Pettersson, polisens presstalesperson.",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-07T19:52:33+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-7-september-32grbv": {
+  "url": "https://www.svt.se/nyheter/lokalt/skane/nyheter-fran-dagen-7-september-32grbv",
+  "pubdate": "2026-09-07T20:15:03+02:00",
+  "lastmod": "2026-09-07T20:15:03+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Skåne",
+  "fetched_at": "2026-09-08T00:36:13.657787+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__skane__nyheter-fran-dagen-7-september-32grbv.html",
+  "extract": {
+   "body": "Detta har hänt i Skåne måndag 7 september:\n• Miljoner valsedlar i papperskorgen – dubbla listor kan förbjudas\n• Man död efter olycka mellan lastbil och personbil utanför Staffanstorp\n• Populära pendlarlinjen läggs ner: ”Nästan alla mina kollegor åker här”",
+   "videos": [
+    {
+     "svtId": "jz7aXMB",
+     "duration": 94,
+     "title": "Pendlarbuss 131 mellan Värnhem i Malmö och Lund läggs ned",
+     "svtplay": true
+    },
+    {
+     "svtId": "e5dVdkA",
+     "duration": 23,
+     "title": "Man död efter olycka mellan lastbil och personbil utanför Staffanstorp",
+     "svtplay": true
+    },
+    {
+     "svtId": "jvvaZgB",
+     "duration": 84,
+     "title": "Miljoner valsedlar i papperskorgen - dubbla listor kan förbjudas",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-07T20:15:03+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/smaland/nyheter-fran-dagen-7-september-rgdo9c": {
+  "url": "https://www.svt.se/nyheter/lokalt/smaland/nyheter-fran-dagen-7-september-rgdo9c",
+  "pubdate": "2026-09-07T19:32:12+02:00",
+  "lastmod": "2026-09-07T19:32:12+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Småland",
+  "fetched_at": "2026-09-08T00:36:15.431614+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__smaland__nyheter-fran-dagen-7-september-rgdo9c.html",
+  "extract": {
+   "body": "Detta har hänt i Kronobergs och Kalmar län måndagen den 7 september 2026.\n• Oskar var med på bussen efter misstänkt matförgiftning: ”Tvingades uträtta behov i plastpåsar”\n• Hot om skolnedläggning splittrar partier\n• I dag startade rättegången mot misstänkt fibersabotör\nVarje vardagskväll skickar vi ut en pushnotis med en nyhetssammanfattning på kvällen. Vi ser det som en service och vill gärna ha in dina synpunkter för att kunna bli ännu bättre.\nTipsa oss också gärna om nyheter från Kronoberg och Kalmar län.\nSkicka ett mail till smaland@svt.se",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-07T19:32:12+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-september-h9bxje": {
+  "url": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-september-h9bxje",
+  "pubdate": "2026-09-07T20:00:47+02:00",
+  "lastmod": "2026-09-07T20:00:47+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Stockholm",
+  "fetched_at": "2026-09-08T00:36:20.783559+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__stockholm__nyheter-fran-dagen-7-september-h9bxje.html",
+  "extract": {
+   "body": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 7 september.\n• Avgick under granskning – toppar valsedel\nKjos (M) lämnade uppdraget som KSO i Upplands-Bro i april • Statsvetaren: Väljarna vet inte vem de röstar på\n• Här går nya larmet på Centralen\nSe vad som händer när SE-Alert testas på Nordens mest trafikerade järnvägsstation\n• Mateusz, 21, är självlärd bilmekaniker\nDriver egen bilverkstad – lärde sig på Youtube",
+   "videos": [
+    {
+     "svtId": "KAMa5JB",
+     "duration": 75,
+     "title": "Mateusz, 21, driver egen bilverkstad – lärde sig på Youtube",
+     "svtplay": true
+    },
+    {
+     "svtId": "KN3J3kd",
+     "duration": 83,
+     "title": "Resenärer om nya varningssystemet i mobilen",
+     "svtplay": true
+    },
+    {
+     "svtId": "KN3JnNw",
+     "duration": 112,
+     "title": "Avgick efter SVT:s granskning – Nu toppar han M:s valsedel",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-07T20:00:47+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/varmland/nyheter-fran-dagen-7-september-y7156b": {
+  "url": "https://www.svt.se/nyheter/lokalt/varmland/nyheter-fran-dagen-7-september-y7156b",
+  "pubdate": "2026-09-07T19:56:10+02:00",
+  "lastmod": "2026-09-07T19:56:10+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Värmland",
+  "fetched_at": "2026-09-08T00:36:22.779655+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__nyheter-fran-dagen-7-september-y7156b.html",
+  "extract": {
+   "body": "Här kan du se ett urval av vad SVT Nyheter Värmland har rapporterat om måndagen den 7 september.\nStorfors: Skolfrågan i fokus\nNya vägräcken på riksväg 62\nSäffleborna om förtroendet för politikerna\nSVT Nyheter Värmland skickar en pushnotis på kvällen som sammanfattar nyhetsdagen i länet.\nVill du tipsa oss om en nyhet – mejla oss på: varmland@svt.se",
+   "videos": [
+    {
+     "svtId": "e6d1oBD",
+     "duration": 101,
+     "title": "Efter skandalåret i Säffle – så ska politikerna återupprätta förtroendet",
+     "svtplay": true
+    },
+    {
+     "svtId": "8LJpJdp",
+     "duration": 52,
+     "title": "Tre miljoner satsas på riksväg 62: \"Glädjande\"",
+     "svtplay": true
+    },
+    {
+     "svtId": "jb3k3PQ",
+     "duration": 80,
+     "title": "Skolfrågan i fokus när Storforspolitikerna valspurtar",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-07T19:56:10+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/vasternorrland/nyheter-fran-dagen-7-september-y710xt": {
+  "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/nyheter-fran-dagen-7-september-y710xt",
+  "pubdate": "2026-09-07T19:25:23+02:00",
+  "lastmod": "2026-09-07T19:25:33+02:00",
+  "sitemap_title": "Nyheter från dagen: 7 september",
+  "tab": "Lokalt/Västernorrland",
+  "fetched_at": "2026-09-08T00:36:27.673010+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vasternorrland__nyheter-fran-dagen-7-september-y710xt.html",
+  "extract": {
+   "body": "Detta har hänt under måndagen den 7 september i Västernorrland.\n• Drygt 90-årig dam utsatt i hemtjänsten\n• Tog timmar att hitta mordoffer i Brattås\n• Så vill partierna stärka primärvården",
+   "videos": [
+    {
+     "svtId": "jgWYnWb",
+     "duration": 99,
+     "title": "\"Viktigaste delen av vården i länet\" - partierna vill satsa mer på primärvården",
+     "svtplay": true
+    },
+    {
+     "svtId": "8z7a247",
+     "duration": 89,
+     "title": "Kritiken mot utredningen: Tre timmar innan mordoffret Tor hittades",
+     "svtplay": true
+    },
+    {
+     "svtId": "eEqYq2B",
+     "duration": 33,
+     "title": "Hemtjänstövergreppen: Dam i 90-årsåldern en av de utsatta",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 3,
+   "ld_pubdate": "2026-09-07T19:25:23+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/lokalt/vastmanland/man-pa-elsparcykel-pakord-i-vasteras": {
+  "url": "https://www.svt.se/nyheter/lokalt/vastmanland/man-pa-elsparcykel-pakord-i-vasteras",
+  "pubdate": "2026-09-07T20:41:35+02:00",
+  "lastmod": "2026-09-07T22:04:13+02:00",
+  "sitemap_title": "Man på elsparcykel påkörd i Västerås",
+  "tab": "Lokalt/Västmanland",
+  "fetched_at": "2026-09-08T00:36:28.818441+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__vastmanland__man-pa-elsparcykel-pakord-i-vasteras.html",
+  "extract": {
+   "body": "En man i 35-årsåldern som körde på en elsparkcykel kolliderade med en personbil i centrala Västerås under måndagseftermiddagen. Skadeläget är okänt.\nLarmet kom strax efter 16.30 på måndagen och den 35-åriga mannen fördes med ambulans till sjukhus.\nPolisen har upprättat en anmälan om smitning från trafikolycka efter att föraren i personbilen avvikit från olycksplatsen.\nTexten uppdateras",
+   "videos": [],
+   "players_in_dom": 0,
+   "ld_pubdate": "2026-09-07T20:41:35+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/utrikes/tusentals-deltog-under-krigsforbrytaren-ratko-mladics-begravning": {
+  "url": "https://www.svt.se/nyheter/utrikes/tusentals-deltog-under-krigsforbrytaren-ratko-mladics-begravning",
+  "pubdate": "2026-09-07T22:18:38+02:00",
+  "lastmod": "2026-09-07T22:19:39+02:00",
+  "sitemap_title": "Tusentals deltog under krigsförbrytaren Ratko Mladics begravning",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-08T00:36:34.025050+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__tusentals-deltog-under-krigsforbrytaren-ratko-mladics-begravning.html",
+  "extract": {
+   "body": "Tusentals samlades i Serbiens huvudstad Belgrad när begravningen och processionen för krigsförbrytaren Ratko Mladic hölls på måndagen.\nBosnien-Hercegovina kallar hem diplomatisk personal från Belgrad med anledning av Serbiens hyllningar av Mladic.\nTusentals sörjande tog avsked av den dömde Mladic i S:t Lukas-kyrkan i Belgrad. Tillresta serber, en rad ministrar och Rysslands ambassadör i Serbien var några av dem som deltog vid begravningsceremonin som direktsändes på nätet.\nDet har varit omtvistat huruvida Mladic skulle få en statsbegravning. Formellt är det Mladics son som står som arrangör till begravningen. Serbiens president Aleksandar Vucic har utlovat säkerhet kring begravningen men deltar inte själv vid den.\nPå måndagskvällen gjorde Sarajevo klart att ”så många anställda som möjligt” ur beskickningen i Belgrad kallas hem med anledning av Serbiens förhärligande av krigsförbrytaren, skriver nyhetsbyrån EFE.\nDog i fängelset\nRatko Mladic, även känd som ”slaktaren i Bosnien” avtjänade ett livstidsstraff när han dog i fängelset i Haag den 27 augusti. Han blev 84 år. Sedan hans kista flögs till Serbien har hyllningarna till Mladic avlöst varandra med hedrande tröjor, serbiska flaggor, banderoller och under måndagen med militärceremonier.\nSerbiens varma mottagande av Mladics kista har mötts av skarpa fördömanden internationellt. EU:s utvidgningskommissionär Marta Kos ställde in ett planerat besök i Serbien: ”förhärligandet kring hans död är oförenligt med de värderingar som EU-vägen bygger på”, med syfte på Serbiens status som kandidatland till EU.\nTusentals mördades\nFN:s krigsförbrytartribunal dömde Mladic för hans roll i Bosnienkriget och folkmordet i Srebrenica. Från den 11 juli 1995 och framåt massakrerades över 8 000 bosnienmuslimska män och pojkar av den bosnienserbiska armén under ledning av Mladic.\nMladić dömdes även för förföljelse och tvångsfördrivning av bosnienmuslimer och kroater, för att ha terroriserat civilbefolkningen under belägringen av Sarajevo samt för att ha tagit FN-fredsbevarande styrkor som gisslan under Natos flyganfall 1995.\nOmkring 100 000 människor dödades och 2,2 miljoner människor drevs på flykt under kriget 1992–1995.",
+   "videos": [
+    {
+     "svtId": "emyYy3W",
+     "duration": 118,
+     "title": "Vem var Ratko Mladic?",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T22:18:38+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/nyheter/utrikes/tyska-myndigheter-21-bomber-hittade-nara-elnatet": {
+  "url": "https://www.svt.se/nyheter/utrikes/tyska-myndigheter-21-bomber-hittade-nara-elnatet",
+  "pubdate": "2026-09-07T20:54:58+02:00",
+  "lastmod": "2026-09-07T20:54:58+02:00",
+  "sitemap_title": "Tyska myndigheter: 21 bomber hittade nära elnätet",
+  "tab": "Nyheter/Utrikes",
+  "fetched_at": "2026-09-08T00:36:36.296601+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__utrikes__tyska-myndigheter-21-bomber-hittade-nara-elnatet.html",
+  "extract": {
+   "body": "Tyska utredare i Sachsen har hittills hittat 21 bomber under en utredning om attacker mot landets elnät.\nEn intensiv polisjakt efter en misstänkt 48-årig man pågår.\nFlera attentat och attentatsförsök mot elkraftstationer och andra platser kopplade till elnätet har ägt rum i Tyskland den senaste veckan. Bara i helgen hittades ytterligare nio hemmagjorda bomber nära kraftledningar vid staden Görlitz, skriver Reuters.\nKlimataktivist misstänkt\nPå fredagen gick polisen ut med namn och bild på en misstänkt 48-årig man. Detta efter att han själv i handskrivna brev, skickade till media och myndigheter, tagit på sig ansvaret för dåden. Där beskriver han i detalj hur han gått till väga och hur han byggt bomberna.\nI breven berättar han också att dåden är en del i kampen mot användningen av fossila bränslen, skriver Spiegel. Tysklands inrikesminister har sagt att bevisen pekar mot klimatextremism.\nUnder en husrannsakan i hans hem hittades misstänka ämnen och explosiva varor, enligt tyska myndigheter.\nMannen har efterlysts internationellt men är fortfarande på fri fot.\nSkapat oro\nHändelserna har fått stor uppmärksamhet i landet och skapat en orolig debatt om dess viktiga infrastrukturs sårbarhet. Händelserna sker i ljuset av ett ansträngt säkerhetsläge och av att Tyskland nyligen formellt anklagat Ryssland för en drönarattack mot en flygplats i Leipzig i augusti.\nEn talesperson för förbundskansler Friedrich Merz säger att det stora antalet upptäckta sabotageförsök i själva verket är ett bevis för hur pass bra säkerhetsrutinerna i landet fungerar, skriver Reuters.",
+   "videos": [
+    {
+     "svtId": "jR5G56n",
+     "duration": 44,
+     "title": "Tysk polis jagar 48-årig efter bombattentat mot elnätet",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T20:54:58+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/sport/fotboll/delad-poang-mellan-aik-och-malmo-tunga-sviten-intakt": {
+  "url": "https://www.svt.se/sport/fotboll/delad-poang-mellan-aik-och-malmo-tunga-sviten-intakt",
+  "pubdate": "2026-09-07T20:57:31+02:00",
+  "lastmod": "2026-09-07T23:14:39+02:00",
+  "sitemap_title": "Delad poäng mellan AIK och Malmö – tunga sviten intakt",
+  "tab": "Sport",
+  "fetched_at": "2026-09-08T00:36:38.511880+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__delad-poang-mellan-aik-och-malmo-tunga-sviten-intakt.html",
+  "extract": {
+   "body": "AIK får vänta på sin efterlängtade bortaseger mot Malmö.\nEfter storspel från Kristoffer Nordfeldt blev det 0–0 i storlagsmötet.\n– Vi förtjänade att vinna, säger Jovan Milosavljevic till SVT Sport.\nInför måndagens drabbning på Eleda stadion hade AIK inte vunnit en allsvensk bortamatch mot Malmö på 30 år.\nI och med 0–0 och delade poäng är den sviten ännu intakt.\nInget av lagen lyckades spräcka nollan, och de båda rutinerade landslagsmålvakterna Kristoffer Nordfeldt och Robin Olsen stod för flera fina räddningar.\n– Vi kom hit för att ta tre poäng. Jag är inte helt nöjd, säger Nordfeldt till SVT Sport.\nBrände friläge: ”Tar ansvar”\nNordfeldt räddade bland annat ett läge där Jovan Milosavljevic var i princip helt fri framför mål.\n– Jag tar ansvar för den missen, jag var helt ensam och borde skjutit mer mot sidan. Jag tar på mig den till 100 procent, säger Milosavljevic.\nAIK avancerar nu till en femteplats i tabellen, medan Malmö är kvar som sjua.\nNyförvärvet debuterade\nAIK:s nyförvärv Lucas Assadi, som tilldelats nummer tio och nyligen fått arbetstillstånd i Sverige, inledde matchen på bänken men fick hoppa in i den 71:a minuten.\nChilenaren löpte flitigt i djupled men utan att nå någon slutprodukt.\nOtto Rosengren i Malmö klev sent av planen med lindat huvud, och ersattes av Viggo Jeppsson.\nParallellt förlorade Mjällby mot IFK Göteborg med 1–4 på Strandvallen. Djurgården bortaslog Kalmar med 1–0 och ligger nu tvåa i allsvenskan.",
+   "videos": [
+    {
+     "svtId": "8Wm7mVP",
+     "duration": 44,
+     "title": "Kristoffer Nordfeldts jättematch: Räddade AIK gång på gång",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T20:57:31+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/sport/fotboll/experten-korrekt-att-kalmars-mal-inte-godkandes": {
+  "url": "https://www.svt.se/sport/fotboll/experten-korrekt-att-kalmars-mal-inte-godkandes",
+  "pubdate": "2026-09-07T21:28:45+02:00",
+  "lastmod": "2026-09-07T21:28:45+02:00",
+  "sitemap_title": "Experten: Korrekt att Kalmars mål inte godkändes",
+  "tab": "Sport",
+  "fetched_at": "2026-09-08T00:36:42.219611+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__experten-korrekt-att-kalmars-mal-inte-godkandes.html",
+  "extract": {
+   "body": "Det var irriterat i Kalmar FF när ett kvitteringsmål underkändes.\nMen SVT:s expert Jonas Eriksson menar att beslutet var korrekt.\n– Du får inte använda armarna på det sättet, säger han i Fotbollsstudion.\nDjurgården tog ledningen borta mot Kalmar, genom ett vackert mål av Bo Hegland.\nKFF såg sen ut att kvittera, men efter att bollen gått i nät blåste domaren. Frispark för Djurgården.\nDå var ilskan stor mot domslutet. Men i SVT:s Fotbollsstudion förklarar den tidigare stordomaren Jonas Eriksson varför han anser att domarkollega Kristoffer Karlsson gjorde rätt.\nDjurgården vann matchen med 1-0.\nHör hans förklaring i spelaren ovan.",
+   "videos": [
+    {
+     "svtId": "jN3J3D5",
+     "duration": 54,
+     "title": "Jonas Eriksson reder ut varför Kalmars mål dömdes bort: ”Du får inte knuffa där”",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T21:28:45+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/sport/fotboll/expertens-stora-oro-inga-tydliga-besked-om-rolfo": {
+  "url": "https://www.svt.se/sport/fotboll/expertens-stora-oro-inga-tydliga-besked-om-rolfo",
+  "pubdate": "2026-09-07T23:18:21+02:00",
+  "lastmod": "2026-09-07T23:18:21+02:00",
+  "sitemap_title": "Expertens stora oro: ”Inga tydliga besked om Rolfö”",
+  "tab": "Sport",
+  "fetched_at": "2026-09-08T00:36:43.547486+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__expertens-stora-oro-inga-tydliga-besked-om-rolfo.html",
+  "extract": {
+   "body": "Fridolina Rolfö, 32, har saknats i Manchester United.\nDet är oklart varför.\n– Det är oroande för Sveriges kommande playoff, säger experten Hanna Marklund.\nSe Marklunds tre punkter från helgens omgång i Women's Super League.\nSverige har kniven mot strupen och i oktober väntar playoff till VM. Då kan man få klara sig utan Fridolina Rolfö, som trots att hon fått mindre speltid under Tony Gustavsson är en viktig spelare.\nDet råder stor mystik kring stjärnan och det är locket på från Manchester United, och hon själv.\n– Hon har ett litet problem, sa tränaren Eva Olid på en presskonferens häromdagen enligt Aftonbladet.\nSVT Sports expert Hanna Marklund menar att det är oroväckande.\n– Största orosmolnet är Fridolina Rolfö. Hon var inte ens med i truppen och det var oklart – det finns inga tydliga besked. Det oroar för Sveriges kommande playoff. När Sverige har mycket skador hade hon varit en viktig del, säger hon.",
+   "videos": [
+    {
+     "svtId": "jn4k4MQ",
+     "duration": 97,
+     "title": "Rolfö är expertens stora orosmoln: ”Redan mycket skador – hon hade varit en viktig del”",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T23:18:21+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/sport/fotboll/hegland-hjalte-for-djurgarden-blandar-sig-i-guldkampen": {
+  "url": "https://www.svt.se/sport/fotboll/hegland-hjalte-for-djurgarden-blandar-sig-i-guldkampen",
+  "pubdate": "2026-09-07T20:50:58+02:00",
+  "lastmod": "2026-09-07T21:49:47+02:00",
+  "sitemap_title": "Hegland hjälte för Djurgården – blandar sig i guldkampen",
+  "tab": "Sport",
+  "fetched_at": "2026-09-08T00:36:46.692161+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__hegland-hjalte-for-djurgarden-blandar-sig-i-guldkampen.html",
+  "extract": {
+   "body": "Spelet hackade för Djurgården borta mot Kalmar.\nDå klev assistkungen Bo Hegland fram och frälste det formstarka Stockholmslaget med ett klassavslut.\n– Det är de här matcherna man måste vinna om man ska vara där uppe, säger matchhjälten i TV4 Play.\nDjurgården passerar därmed Hammarby och är ny tabelltvåa.\nDjurgården åkte till Guldfågeln arena med tre raka vinster i bagaget.\nMen något vidare självförtroende märktes inte av hos Blåränderna i den första halvleken.\nDet var hemmalaget som anföll med fart i kontringsspelet och skapade de farligaste chanserna. Bäst på plan i första halvlek var Arsenal-lånet Charles Sagoe Jr. som hotade gång på gång från sin vänsterkant.\nRekordvärvningen Rosenqvist byttes in i halvtid\nDjurgårdstränaren Jani Honkavaara vaskade om i offensiven i halvtid. Ut med skytteligaledaren Kristian Lien och in med 19-årige Charlie Rosenqvist, rekordvärvningen från just Kalmar, till spridda burop från hemmapubliken.\nDessutom ut med Åslund till förmån för Fallenius på högeryttern.\nNågon omedelbar effekt fick inte bortalaget. Eskild Dall hade två högkaratiga nicklägen att sätta 1–0, men brände båda grovt.\nMatchhjälten: ”Får skit för att jag inte skjuter”\nIstället var det bortalagets assist- och poängkung Bo Hegland som bröt likaläget med ett klassavslut från distans i den 65:e minuten.\n– Jag får mycket skit för att jag inte skjuter. Jag var trött också, bättre att gå för chansningen, säger norrmannen om sitt mål. 22-åringens sjunde balja i årets allsvenskan.\nKalmars kvittering dömdes bort: ”Jättefel”\nKalmar hade en kvitteringsboll i nät. Men domaren Kristoffer Karlsson blåste för frispark efter att hemmalagets Noah Shamoun knuffat Max Larsson i ryggen.\nTV4 Plays expert Simon Thern var kritisk till domslutet.\n– Det är jättefel, säger han i sändningen.\nShamoun, som orsakade frisparken, håller med.\n– Från min sida är det tydligt att det inte är någonting. Det är för billigt på den här nivån, säger han.\nSVT:s expert Jonas Eriksson utrycker dock stöd för domslutet i Fotbollsstudion .\n– Det spelar ingen roll att Max Larsson inte hade kunnat rädda den här bollen. Du får inte knuffa en spelare i straffområdet på det sättet. Det är frispark även om det är surt, oturligt, säger ex-domaren.\nDjurgården redde ut stormen och tog sin fjärde raka seger i allsvenskan. Laget kliver passerar Hammarby och är ny tabelltvåa – bara sju poäng bakom ledande Sirius.\n– Vi har hittat en bra trygghet och stabilitet. Även om vi haft några hinder på vägen har vi kunnat studsa tillbaka direkt, säger målvakten Jacob Rinne i Fotbollsstudion.",
+   "videos": [
+    {
+     "svtId": "eJypy3D",
+     "duration": 15,
+     "title": "Bo Hegland slår till från distans – och ger Djurgården ledningen mot Kalmar",
+     "svtplay": true
+    },
+    {
+     "svtId": "e3d1dp9",
+     "duration": 20,
+     "title": "Ilska i Kalmar efter bortdömt mål mot Djurgården",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 2,
+   "ld_pubdate": "2026-09-07T20:50:58+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/sport/fotboll/mjallbysupportrar-bortforda-av-polis-efter-forlusten-mot-blavitt": {
+  "url": "https://www.svt.se/sport/fotboll/mjallbysupportrar-bortforda-av-polis-efter-forlusten-mot-blavitt",
+  "pubdate": "2026-09-07T21:48:36+02:00",
+  "lastmod": "2026-09-07T22:46:24+02:00",
+  "sitemap_title": "Mjällbysupportrar bortförda av polis efter förlusten mot Blåvitt",
+  "tab": "Sport",
+  "fetched_at": "2026-09-08T00:36:50.027621+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__mjallbysupportrar-bortforda-av-polis-efter-forlusten-mot-blavitt.html",
+  "extract": {
+   "body": "Det råder stort missnöje bland Mjällbys supportrar.\nEfter storförlusten mot IFK Göteborg blev ett 20-tal fans bortförda av polis, skriver Aftonbladet .\n– Jag tror inte att Karl Marium Aksum blir kvar som tränare, säger SVT:s expert Jonas Eriksson i Fotbollsstudion.\nSe diskussionen i Fotbollsstudion i spelaren ovan.\nMjällbys säsong ser helt annorlunda ut än den föregående. Den regerande svenska mästaren är en poäng från negativt kval efter den tunga 1–4-förlusten mot Göteborg på måndagskvällen.\nEfter matchen stod supportrar utanför lagets omklädningsrum och ropade att de ville ha tillbaka Anders Torstensson som tränare. Enligt Aftonbladet, som hänvisar till TT, behövde ett 20-tal fans föras bort av polis efter incidenten.\n– Jag kunde säkert gjort tusen saker annorlunda. Det viktiga är att vi fortsätter med det som gjort oss framgångsrika i två och ett halvt år, säger den nuvarande tränaren Karl Marius Aksum till tidningen.\nPå de tre senaste matcherna har Mjällby släppt in tio mål.",
+   "videos": [
+    {
+     "svtId": "8rQBQZq",
+     "duration": 73,
+     "title": "Mjällbysupportrar bortförda av polis efter förlusten mot Blåvitt: ”Tror inte han blir kvar”",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T21:48:36+02:00",
+   "notes": {}
+  }
+ },
+ "https://www.svt.se/sport/fotboll/tung-forlust-for-mjallby-i-angestmotet-med-ifk-goteborg": {
+  "url": "https://www.svt.se/sport/fotboll/tung-forlust-for-mjallby-i-angestmotet-med-ifk-goteborg",
+  "pubdate": "2026-09-07T20:49:52+02:00",
+  "lastmod": "2026-09-07T22:04:46+02:00",
+  "sitemap_title": "Tung förlust för Mjällby i ångestmötet med IFK Göteborg",
+  "tab": "Sport",
+  "fetched_at": "2026-09-08T00:36:51.958137+02:00",
+  "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/sport__fotboll__tung-forlust-for-mjallby-i-angestmotet-med-ifk-goteborg.html",
+  "extract": {
+   "body": "Mjällbys kräftgång i allsvenskan fortsätter.\nIFK Göteborg krossade den regerande svenska mästaren med 4–1 på måndagskvällen.\nMjällby har en tung resultatrad bakom sig och nu har den mörka sviten utökats. Efter mål av Nino Zugelj och Alexander Simmelhack, plus dubbla fullträffar av Sam Larsson, lyckades Blåvitt besegra laget från Listerlandet med 4–1.\nMålskytt för Mjällby blev Olle Lindberg.\nDen regerande svenska mästaren är därmed kvar på en tolfteplats i den allsvenska tabellen, endast en poäng från kvalplatsen.\nGöteborg parkerar en plats ovanför Mjällby, sex poäng före.",
+   "videos": [
+    {
+     "svtId": "j1q1qXx",
+     "duration": 34,
+     "title": "Sam Larsson med dubbla mål för Blåvitt i krossen mot Mjällby",
+     "svtplay": true
+    }
+   ],
+   "players_in_dom": 1,
+   "ld_pubdate": "2026-09-07T20:49:52+02:00",
+   "notes": {}
+  }
  }
 }
