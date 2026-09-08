@@ -22522,10 +22522,10 @@
  "https://www.svt.se/nyheter/lokalt/varmland/efter-skandalaret-i-saffle-sa-ska-politikerna-ateruppratta-fortroendet": {
   "url": "https://www.svt.se/nyheter/lokalt/varmland/efter-skandalaret-i-saffle-sa-ska-politikerna-ateruppratta-fortroendet",
   "pubdate": "2026-09-07T05:30:09+02:00",
-  "lastmod": "2026-09-07T08:33:54+02:00",
+  "lastmod": "2026-09-08T15:34:17+02:00",
   "sitemap_title": "Efter skandalåret i Säffle – så ska politikerna återupprätta förtroendet",
   "tab": "Lokalt/Värmland",
-  "fetched_at": "2026-09-07T11:03:35.036189+02:00",
+  "fetched_at": "2026-09-08T18:11:25.409270+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__efter-skandalaret-i-saffle-sa-ska-politikerna-ateruppratta-fortroendet.html",
   "extract": {
    "body": "Det senaste året har varit turbulent för Säffle kommun. Externa rapporter bekräftar försök till otillåten påverkan, ett vårdnadsfall skakade om kommunen och socialnämnden lades ner olagligt. Det är några exempel på vad som hänt. Och förtroendet för politikerna verkar vara lågt.\n– Jag vet inte riktigt vad de skulle göra. För det händer ändå ingenting, spelar ingen roll vad det är, säger Ingegärd Öhrnberg som bor i kommunen.\nSom SVT Värmland tidigare rapporterat har konsulter gått igenom flera händelser och visselblåsarutredningar. I utredningarna har flera förbättringsområden samt brister identifierats i socialnämnden och socialförvaltningen.\nBara det senaste året har flera händelser skakat om kommunen. Till exempel ansåg förvaltningsrätten att nedläggningen av socialnämnden var olagligt och ett fall hos individ-och familjeomsorgen gjorde att kommunen nämndes över hela landet.\n– De (säffleborna) var nog ganska trötta på det som hände och allt som skrevs hit och dit, säger Stefan Ljung (S), andre vice ordförande i kommunstyrelsen.\nSe i klippet ovan vad säffleborna säger om förtroendet för lokalpolitikerna.\nPolitikerna ska utbildas\nPolitiker och tjänstemän ska nu genomgå utbildningar för att lära sig var gränserna går mellan myndighetsutövning och politisk styrning.\nDetta är något som Ola Johansson (M), första vice ordförande i kommunstyrelsen också lyfter för att lokalbefolkningen ska ha förtroende för politikerna i kommunen.\n– Vi har som inställning att vi fortfarande har ett stort ansvar i att förbättra kommunikation och bemötande inom hela socialförvaltningen, säger han.\nJust socialförvaltningen är en gemensam nämnare där flera partier anser att kommunikationen kan bli bättre.\nHur ser framtiden ut?\n– Vi ska ta vara på utvecklingsmöjligheterna och de utmaningar vi står inför, som många andra kommuner, men ha tryck i utvecklingen och ett väldigt brett ”vi-arbete”, säger Markus Bäckström, kommunstyrelsens ordförande.",
@@ -22541,7 +22541,8 @@
    "ld_pubdate": "2026-09-07T05:30:09+02:00",
    "notes": {}
   },
-  "sheet_row": 915
+  "sheet_row": 915,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/vast/kraftig-brand-i-potatislager-i-tidaholm-byggnaden-utom-raddning": {
   "url": "https://www.svt.se/nyheter/lokalt/vast/kraftig-brand-i-potatislager-i-tidaholm-byggnaden-utom-raddning",
@@ -23246,10 +23247,10 @@
  "https://www.svt.se/nyheter/inrikes/vem-ar-elisabeth-thand-ringqvist-7k0vbf": {
   "url": "https://www.svt.se/nyheter/inrikes/vem-ar-elisabeth-thand-ringqvist-7k0vbf",
   "pubdate": "2026-09-07T16:06:55+02:00",
-  "lastmod": "2026-09-08T05:34:39+02:00",
+  "lastmod": "2026-09-08T16:00:49+02:00",
   "sitemap_title": "Vem är Elisabeth Thand Ringqvist?",
   "tab": "Nyheter/Inrikes",
-  "fetched_at": "2026-09-08T10:41:02.916116+02:00",
+  "fetched_at": "2026-09-08T18:11:20.565134+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__vem-ar-elisabeth-thand-ringqvist-7k0vbf.html",
   "extract": {
    "body": "Från campingägare i Jämtland till maktens korridorer.\nSom valets färskaste partiledare försöker hon få till en regering i mitten – något som är lättare sagt än gjort.\nHon startade sitt första företag som 20-åring, lämnade politiken för näringslivet och försökte bli partiledare flera gånger.\nMen vem är hon?\nSe SVT:s genomgång av Centerpartiets partiledare Elisabeth Thand Ringqvists liv och karriär i videon.",
@@ -23799,13 +23800,13 @@
  "https://www.svt.se/nyheter/lokalt/orebro/nyheter-fran-dagen-7-september-zh8i63": {
   "url": "https://www.svt.se/nyheter/lokalt/orebro/nyheter-fran-dagen-7-september-zh8i63",
   "pubdate": "2026-09-07T19:07:12+02:00",
-  "lastmod": "2026-09-07T19:07:12+02:00",
+  "lastmod": "2026-09-08T13:10:10+02:00",
   "sitemap_title": "Nyheter från dagen: 7 september",
   "tab": "Lokalt/Örebro",
-  "fetched_at": "2026-09-07T19:27:35.759454+02:00",
+  "fetched_at": "2026-09-08T18:11:23.048863+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__orebro__nyheter-fran-dagen-7-september-zh8i63.html",
   "extract": {
-   "body": "Detta har hänt i Örebro län torsdagen den 4 september.\nTvå kandidater i Örebro län stryks från Vänsterpartiets listor -spred konspirationsteorier\nLjusnarsberg prioriterar inflyttning – så vill partierna vända siffrorna\nNy fartkamera sätts upp på väg 529 norr om Hallsberg",
+   "body": "Detta har hänt i Örebro län måndagen den 7 september.\nTvå kandidater i Örebro län stryks från Vänsterpartiets listor -spred konspirationsteorier\nLjusnarsberg prioriterar inflyttning – så vill partierna vända siffrorna\nNy fartkamera sätts upp på väg 529 norr om Hallsberg",
    "videos": [
     {
      "svtId": "e9dadY9",
@@ -23818,7 +23819,8 @@
    "ld_pubdate": "2026-09-07T19:07:12+02:00",
    "notes": {}
   },
-  "sheet_row": 1035
+  "sheet_row": 1035,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/ost/brytningstillstand-i-slite-star-fast-efter-hd-besked": {
   "url": "https://www.svt.se/nyheter/lokalt/ost/brytningstillstand-i-slite-star-fast-efter-hd-besked",
@@ -23985,13 +23987,13 @@
  "https://www.svt.se/nyheter/lokalt/skane/populara-pendlarlinjen-laggs-ner-nastan-alla-mina-kollegor-aker-har": {
   "url": "https://www.svt.se/nyheter/lokalt/skane/populara-pendlarlinjen-laggs-ner-nastan-alla-mina-kollegor-aker-har",
   "pubdate": "2026-09-07T11:45:01+02:00",
-  "lastmod": "2026-09-07T11:45:01+02:00",
+  "lastmod": "2026-09-08T14:30:31+02:00",
   "sitemap_title": "Populära pendlarlinjen läggs ner: ”Nästan alla mina kollegor åker här”",
   "tab": "Lokalt/Skåne",
-  "fetched_at": "2026-09-07T19:27:49.208224+02:00",
+  "fetched_at": "2026-09-08T18:11:24.258419+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__skane__populara-pendlarlinjen-laggs-ner-nastan-alla-mina-kollegor-aker-har.html",
   "extract": {
-   "body": "Förlorad tid och enbart sämre alternativ. Domen från pendlarna är hård när buss 131 mellan Värnhem i Malmö och Bankgatan i Lund ska läggas ner vid årskiftet.\n– Nästan alla mina kollegor på Tetrapak åker den här känns det som, säger Emma Håkansson.\nBusslinjen tar cirka 20 minuter från Värnhem till centrala Lund med enbart ett få antal stopp. Alternativen som står till hands för många pendlare lockar inte heller.\nMed tåget eller bussar som går till östra Lund som 171:an och 168:an hamnar många långt bort från arbetsplatsen och 130:an som i princip går samma sträcka har allt för många stopp.\n– Nej, nej, nej, det går inte. Då får det nog bli andra bussar, säger Emma Håkansson.\nBåde hon och Axel Blomqvist pendlar dagligen med 131:an från Malmö till Lund.\n– Det är verkligen jättetråkigt och kommer förlänga vår tid till jobbet en del, säger Axel Blomqvist.\nKonflikt mellan stad och region\nI Lund har flera partier varit kritiska mot nedläggningen.\n– Vi har med kraft flera gånger markerat mot Skånetrafiken och Region Skåne att detta är en fråga som är dålig för Lund och Malmö, säger kommunalrådet Rasmus Törnblom (M).\nHans partikollega i regionen, Carina Zachau (M), är ordförande i kollektivtrafiksnämnden.\n– Jag förstår pendlarnas besvikelse men våra utmaningar i detta sammanhanget är infrastrukturen både längs Bankgatan och på Värnhem, säger hon.\nSkånetrafiken: Fler tar tåget\nBeslutet att lägga ner linjen är taget på tjänstemannanivå och Carina Zachau (M) ser inte för tillfället att det kommer att ändras på den politiska nivån.\nFrån Skånetrafikens sida pekar man bland annat på den nybyggda tågstation på Klostergården som ett alternativ tillsammans med övriga busslinjer.\n– Vår bedömning är att det i dag finns flera bra alternativ för resor mellan Malmö och Lund, samtidigt som nedläggningen av linje 131 skapar utrymme för att utveckla kollektivtrafiken på andra sträckor, säger Fredrik Schell som är enhetschef trafik på Skånetrafiken.",
+   "body": "Förlorad tid och enbart sämre alternativ. Domen från pendlarna är hård när buss 131 mellan Värnhem i Malmö och Bankgatan i Lund ska läggas ner vid årskiftet.\n– Nästan alla mina kollegor på Tetra Pak åker den här känns det som, säger Emma Håkansson.\nBusslinjen tar cirka 20 minuter från Värnhem till centrala Lund med enbart ett få antal stopp. Alternativen som står till hands för många pendlare lockar inte heller.\nMed tåget eller bussar som går till östra Lund som 171:an och 168:an hamnar många långt bort från arbetsplatsen och 130:an som i princip går samma sträcka har allt för många stopp.\n– Nej, nej, nej, det går inte. Då får det nog bli andra bussar, säger Emma Håkansson.\nBåde hon och Axel Blomqvist pendlar dagligen med 131:an från Malmö till Lund.\n– Det är verkligen jättetråkigt och kommer förlänga vår tid till jobbet en del, säger Axel Blomqvist.\nKonflikt mellan stad och region\nI Lund har flera partier varit kritiska mot nedläggningen.\n– Vi har med kraft flera gånger markerat mot Skånetrafiken och Region Skåne att detta är en fråga som är dålig för Lund och Malmö, säger kommunalrådet Rasmus Törnblom (M).\nHans partikollega i regionen, Carina Zachau (M), är ordförande i kollektivtrafiksnämnden.\n– Jag förstår pendlarnas besvikelse men våra utmaningar i detta sammanhanget är infrastrukturen både längs Bankgatan och på Värnhem, säger hon.\nSkånetrafiken: Fler tar tåget\nBeslutet att lägga ner linjen är taget på tjänstemannanivå och Carina Zachau (M) ser inte för tillfället att det kommer att ändras på den politiska nivån.\nFrån Skånetrafikens sida pekar man bland annat på den nybyggda tågstation på Klostergården som ett alternativ tillsammans med övriga busslinjer.\n– Vår bedömning är att det i dag finns flera bra alternativ för resor mellan Malmö och Lund, samtidigt som nedläggningen av linje 131 skapar utrymme för att utveckla kollektivtrafiken på andra sträckor, säger Fredrik Schell som är enhetschef trafik på Skånetrafiken.",
    "videos": [
     {
      "svtId": "jz7aXMB",
@@ -24004,7 +24006,8 @@
    "ld_pubdate": "2026-09-07T11:45:01+02:00",
    "notes": {}
   },
-  "sheet_row": 957
+  "sheet_row": 957,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/smaland/bussresan-blev-en-mardrom-for-matforgiftade-studenter-tvingades-utratta-behov-i-plastpasar": {
   "url": "https://www.svt.se/nyheter/lokalt/smaland/bussresan-blev-en-mardrom-for-matforgiftade-studenter-tvingades-utratta-behov-i-plastpasar",
@@ -24348,10 +24351,10 @@
  "https://www.svt.se/nyheter/lokalt/varmland/skolfragan-i-fokus-nar-storforspolitikerna-valspurtar": {
   "url": "https://www.svt.se/nyheter/lokalt/varmland/skolfragan-i-fokus-nar-storforspolitikerna-valspurtar",
   "pubdate": "2026-09-07T16:33:37+02:00",
-  "lastmod": "2026-09-07T16:33:37+02:00",
+  "lastmod": "2026-09-08T15:31:47+02:00",
   "sitemap_title": "Skolfrågan i fokus när Storforspolitikerna valspurtar",
   "tab": "Lokalt/Värmland",
-  "fetched_at": "2026-09-07T19:28:22.757635+02:00",
+  "fetched_at": "2026-09-08T18:11:27.536641+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__skolfragan-i-fokus-nar-storforspolitikerna-valspurtar.html",
   "extract": {
    "body": "I mars hände något historiskt i Storfors när M, KD, C och SD tog över makten efter mer än 50 år av S-styre.\nNu är det bara dagar kvar till valet då det ska avgöras vem som kommer att styra kommunen framåt.\nFör första gången sedan Storfors blev en egen kommun 1971 har den borgerliga sidan styrt kommunen efter ett uppmärksammat maktskifte i mars.\nNär Storforsborna nu går till val igen återstår att se vilka som ges förtroendet de kommande fyra åren.\nI videon berättar oppositionsrådet Eva-Lotta Härdig Eriksson (S) och kommunstyrelsens ordförande Ingemar Olsson (M) vad de tycker är viktigt för framtidens Storfors.",
@@ -24367,15 +24370,16 @@
    "ld_pubdate": "2026-09-07T16:33:37+02:00",
    "notes": {}
   },
-  "sheet_row": 1011
+  "sheet_row": 1011,
+  "needs_row_update": true
  },
  "https://www.svt.se/nyheter/lokalt/varmland/tre-miljoner-satsas-pa-riksvag-62-gladjande": {
   "url": "https://www.svt.se/nyheter/lokalt/varmland/tre-miljoner-satsas-pa-riksvag-62-gladjande",
   "pubdate": "2026-09-07T14:23:38+02:00",
-  "lastmod": "2026-09-07T20:38:13+02:00",
+  "lastmod": "2026-09-08T15:33:24+02:00",
   "sitemap_title": "Tre miljoner satsas på riksväg 62: ”Glädjande”",
   "tab": "Lokalt/Värmland",
-  "fetched_at": "2026-09-08T00:36:24.684820+02:00",
+  "fetched_at": "2026-09-08T18:11:28.737754+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__varmland__tre-miljoner-satsas-pa-riksvag-62-gladjande.html",
   "extract": {
    "body": "De lutande vägräcken längs med riksväg 62 kommer att åtgärdas under hösten 2026, meddelar Trafikverket. För föreningen Framtid Nordvärmland innebär det en ljusglimt i kampen för att rusta upp vägen, vilket NWT var först att rapportera.\n– Det här var en positiv nyhet, säger Jan-Anders Carlsson, ordförande i föreningen Framtid Nordvärmland.\nUnder flera års tid har Framtid Nordvärmland haft kontakt med Trafikverket och påtalat brister längs med riksväg 62.\nI fredags fick de besked från Trafikverket att vägräckena mellan Ransby och Sysslebäck kommer att åtgärdas. Något som även NWT har rapporterat om.\n– Vi kommer byta ut en och en halv kilometer av räckena, till räcken med längre ståndare. Det ska bli stabilare, säger Christer Nederman Runbäck, sektionschef för drift och underhåll vid Trafikverket.\nKostnaden ligger på 2 000 kronor per meter – totalt cirka tre miljoner kronor.\nFokus har legat på räckena\nJan-Anders Carlsson berättar att räckena är något som de från Framtid Nordvärmland fokuserat mycket på. Han beskriver hur de instabila slänterna längs med vägen har gjort att vägräckena har börjat luta.\n– Vilket gör att skyddsfunktionen de ska ha finns inte längre, berättar Jan-Anders Carlsson.\nDe mer omfattande rassäkrande åtgärder som Trafikverket vill göra på sju platser längs vägen ingår inte i satsningen.\nArbetet ska påbörjas under hösten 2026\nTrafikverket meddelar att de kommer sätta igång med arbetet med räckena under hösten 2026, och beräknas vara klara under vintern.\nUtöver räckena kommer Trafikverket arbeta med tillsyn och spolning av sträckans vägtrummor under hösten och vintern.\n– Det kan ligga lite eller mycket grus i som kan stoppa vattenflödet, säger Christer Nederman Runbäck vid Trafikverket.\nFöreningens kamp fortsätter\nTill föreningen har man meddelat att man planerar för ytterligare åtgärder längre fram. Vilka de åtgärderna är framgår inte i den mejlkonversation som föreningen haft med Trafikverket.\n– Kampen kommer ju att fortsätta. Vi kommer fortsätta vår kamp tills riksväg 62 är en väg värd namnet, där alla kan känna trygghet och vet att man kommer fram dit man har tänkt sig, säger Jan-Anders Carlsson.",
@@ -25120,13 +25124,13 @@
  "https://www.svt.se/nyheter/inrikes/mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet": {
   "url": "https://www.svt.se/nyheter/inrikes/mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet",
   "pubdate": "2026-09-07T21:13:24+02:00",
-  "lastmod": "2026-09-08T08:41:39+02:00",
+  "lastmod": "2026-09-08T13:23:48+02:00",
   "sitemap_title": "Generaldirektören om larmhaveriet: ”En hård läxa”",
   "tab": "Nyheter/Inrikes",
-  "fetched_at": "2026-09-08T10:41:00.310836+02:00",
+  "fetched_at": "2026-09-08T18:11:19.393763+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__inrikes__mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet.html",
   "extract": {
-   "body": "Miljoner boende i Stockholm och Gotlands län nåddes i måndagens stora test av Sveriges nya VMA-larm.\nMen många Teliakunder gjorde det inte.\n– Min egna telefon från Telia fungerade inte, säger Mikael Frisell, generaldirektör för Myndigheten för civilt försvar.\n2,6 miljoner mobiltelefoner tjöt vid tretiden på dagen med ett tillhörande meddelande på skärmen – det första testet av varningssystemet SE-Alert.\nMånga av Telias kunder nåddes dock inte av varningen.\nEnligt Mikael Frisell, generaldirektör på Myndigheten för civilt försvar, har varningsmeddelanden nått fram även till telefoner med Telia-abonnemang i testmiljö.\nHade för många tecken\nKort innan det storskaliga testet ändrades dock teckengränsen för liknande meddelanden hos teleoperatören, vilket ledde att måndagens meddelande inte nådde fram.\n– Av någon anledning, mänskliga faktorn, så har man mellan testet förra veckan och gårdagens text ändrat inställningarna, säger han i SVT:s Morgonstudion.\nEnligt Mikael Frisell har Telia under måndagskvällen testkört meddelandet flera gånger.\n– Nu har det ju varit en hård läxa där bland annat Telia lärt sig att man ska inte ändrar inställningar och följa den kravspecifikation vi har skickat ut.\nNästa test av SE-Alert sker nationellt den sjunde december.",
+   "body": "Miljoner boende i Stockholm och Gotlands län nåddes i måndagens stora test av Sveriges nya VMA-larm.\nMen många Teliakunder gjorde det inte.\n– Min egen telefon från Telia fungerade inte, säger Mikael Frisell, generaldirektör för Myndigheten för civilt försvar.\n2,6 miljoner mobiltelefoner tjöt vid tretiden på dagen med ett tillhörande meddelande på skärmen – det första testet av varningssystemet SE-Alert.\nMånga av Telias kunder nåddes dock inte av varningen.\nEnligt Mikael Frisell, generaldirektör på Myndigheten för civilt försvar, har varningsmeddelanden nått fram även till telefoner med Telia-abonnemang i testmiljö.\nHade för många tecken\nKort innan det storskaliga testet ändrades dock teckengränsen för liknande meddelanden hos teleoperatören, vilket ledde att måndagens meddelande inte nådde fram.\n– Av någon anledning, mänskliga faktorn, så har man mellan testet förra veckan och gårdagens text ändrat inställningarna, säger han i SVT:s Morgonstudion.\nEnligt Mikael Frisell har Telia under måndagskvällen testkört meddelandet flera gånger.\n– Nu har det ju varit en hård läxa där bland annat Telia lärt sig att man ska inte ändrar inställningar och följa den kravspecifikation vi har skickat ut.\nNästa test av SE-Alert sker nationellt den sjunde december.",
    "videos": [
     {
      "svtId": "jJypy4D",
@@ -25188,13 +25192,13 @@
  "https://www.svt.se/nyheter/lokalt/blekinge/s-kandidat-stryks-fran-listan-efter-kampanjdonation": {
   "url": "https://www.svt.se/nyheter/lokalt/blekinge/s-kandidat-stryks-fran-listan-efter-kampanjdonation",
   "pubdate": "2026-09-07T20:12:31+02:00",
-  "lastmod": "2026-09-07T20:12:31+02:00",
+  "lastmod": "2026-09-08T11:47:34+02:00",
   "sitemap_title": "S-kandidat stryks från listan efter kampanjdonation",
   "tab": "Lokalt/Blekinge",
-  "fetched_at": "2026-09-08T00:36:00.528322+02:00",
+  "fetched_at": "2026-09-08T18:11:21.699701+02:00",
   "html_path": "/home/runner/work/svt-tu-audit/svt-tu-audit/html/nyheter__lokalt__blekinge__s-kandidat-stryks-fran-listan-efter-kampanjdonation.html",
   "extract": {
-   "body": "Tamam Abou Hamidan (S) från Olofström står på sjätte plats på Socialdemokraternas riksdagslista i Blekinge. Ny stryks hon från både riksdagslistan och regionlistan efter en donation till hennes personvalskampanj.\nDet var Socialdemokraternas distriktsstyrelse som tog beslutet på måndagen.\n– Det är fruktansvärt dåligt hanterat och oerhört tråkigt, säger Tamam Abou Hamidan (S).\nEnligt Blekingedistriktets försteomudsman Hampus Engqvist har Tamam Abou Hamidan brutit mot Socialdemokraternas regler för personval genom att hennes skönhetsföretag bidragit med finansiering till kampanjen.\n– Det står ingenting i stadgarna om att vi inte får göra så, säger Tamam Abou Hamidan.\n– Det är formulerat i vår kandidatförsäkran, som alla kandidater skriver under, att det inte är tillåtet att finansiera sin personvalskampanj med privata eller företagsmedel, svarar Hampus Engqvist.\nDistriktsstyrelsens beslut innebär att Tamam Abou Hamidan stryks från både riksdagslistan och regionlistan. Hon är fortsatt kandidat i valet till kommunfullmäktige i Olofström.\nHör mer från Tamam Abou Hamidan och Hampus Engqvist i videon ovan.",
+   "body": "Tamam Abou Hamidan (S) från Olofström står på sjätte plats på Socialdemokraternas riksdagslista i Blekinge. Nu stryks hon från både riksdagslistan och regionlistan efter en donation till hennes personvalskampanj.\nDet var Socialdemokraternas distriktsstyrelse som tog beslutet på måndagen.\n– Det är fruktansvärt dåligt hanterat och oerhört tråkigt, säger Tamam Abou Hamidan (S).\nEnligt Blekingedistriktets försteomudsman Hampus Engqvist har Tamam Abou Hamidan brutit mot Socialdemokraternas regler för personval genom att hennes skönhetsföretag bidragit med finansiering till kampanjen.\n– Det står ingenting i stadgarna om att vi inte får göra så, säger Tamam Abou Hamidan.\n– Det är formulerat i vår kandidatförsäkran, som alla kandidater skriver under, att det inte är tillåtet att finansiera sin personvalskampanj med privata eller företagsmedel, svarar Hampus Engqvist.\nDistriktsstyrelsens beslut innebär att Tamam Abou Hamidan stryks från både riksdagslistan och regionlistan. Hon är fortsatt kandidat i valet till kommunfullmäktige i Olofström.\nHör mer från Tamam Abou Hamidan och Hampus Engqvist i videon ovan.",
    "videos": [
     {
      "svtId": "8orarw7",
