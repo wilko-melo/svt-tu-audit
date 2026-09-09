@@ -1,9 +1,8 @@
 name: SVT capture
 
 on:
-  schedule:
-    # every 4 hours; window/date logic lives in the script (Europe/Stockholm)
-    - cron: "5 */4 * * *"
+  # Capture window 2026-09-01..07 closed; the Sep-8 top-up ran on 2026-09-09
+  # (see bin/gha_capture.sh guard). Schedule removed - manual runs only.
   workflow_dispatch:
 
 concurrency:

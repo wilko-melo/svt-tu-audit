@@ -331,6 +331,45 @@ def sheet_service():
     return build("sheets", "v4", credentials=creds)
 
 
+def ensure_grid(svc, title, need_rows, need_cols, pad=500):
+    """Grow the `title` tab so an explicit-range write up to need_rows/need_cols
+    fits inside the grid.
+
+    values.update only writes within the existing grid and 400s with "exceeds
+    grid limits" past the edge; only values.append grows a sheet. We cannot use
+    append, because make_row bakes the row number into its formulas, so we
+    widen the grid ourselves instead.
+    """
+    meta = svc.spreadsheets().get(
+        spreadsheetId=SHEET_ID,
+        fields="sheets(properties(sheetId,title,gridProperties))",
+    ).execute(num_retries=5)
+    for sheet in meta.get("sheets", []):
+        props = sheet["properties"]
+        if props["title"] == title:
+            break
+    else:
+        raise RuntimeError(f"tab {title!r} not found in spreadsheet {SHEET_ID}")
+    grid = props.get("gridProperties", {})
+    have_rows = grid.get("rowCount", 0)
+    have_cols = grid.get("columnCount", 0)
+    reqs = []
+    if need_rows > have_rows:
+        reqs.append({"appendDimension": {
+            "sheetId": props["sheetId"], "dimension": "ROWS",
+            "length": need_rows - have_rows + pad}})
+    if need_cols > have_cols:
+        reqs.append({"appendDimension": {
+            "sheetId": props["sheetId"], "dimension": "COLUMNS",
+            "length": need_cols - have_cols}})
+    if not reqs:
+        return
+    svc.spreadsheets().batchUpdate(
+        spreadsheetId=SHEET_ID, body={"requests": reqs}).execute(num_retries=5)
+    print(f"push: grew {title!r} from {have_rows}x{have_cols} "
+          f"to fit {need_rows}x{need_cols}")
+
+
 def make_row(n, rec):
     """Row n (1-based) in template shape A..W."""
     x = rec["extract"]
@@ -410,6 +449,8 @@ def push(state, dates):
     for u in todo:
         rows.append(make_row(next_row + len(rows), state[u]))
         assigned.append((u, next_row + len(rows) - 1))
+    ensure_grid(svc, "Raw data", next_row + len(rows) - 1,
+                max(len(r) for r in rows))
     svc.spreadsheets().values().update(
         spreadsheetId=SHEET_ID,
         range=f"Raw data!A{next_row}",
@@ -429,6 +470,9 @@ def sync_updates(state):
     svc = sheet_service()
     data = [{"range": f"Raw data!A{r['sheet_row']}",
              "values": [make_row(r["sheet_row"], r)]} for r in todo]
+    ensure_grid(svc, "Raw data",
+                max(r["sheet_row"] for r in todo),
+                max(len(d["values"][0]) for d in data))
     svc.spreadsheets().values().batchUpdate(
         spreadsheetId=SHEET_ID,
         body={"valueInputOption": "USER_ENTERED", "data": data}).execute(num_retries=5)
@@ -505,14 +549,23 @@ def main():
         print("  flag:", u, json.dumps(state[u]["extract"]["notes"])[:120])
 
     if args.push:
-        push(state, set(args.dates))
+        failed = []
+        try:
+            push(state, set(args.dates))
+        except Exception as err:
+            failed.append(f"push: {err}")
+            print(f"push failed, rows stay unassigned for next run: {err}",
+                  file=sys.stderr)
         save_json(STATE_PATH, state)
         try:
             sync_updates(state)
         except Exception as err:
+            failed.append(f"sync_updates: {err}")
             print(f"sync_updates failed, rows stay flagged for next run: {err}",
                   file=sys.stderr)
         save_json(STATE_PATH, state)
+        if failed:
+            sys.exit("; ".join(failed))
 
 
 if __name__ == "__main__":
