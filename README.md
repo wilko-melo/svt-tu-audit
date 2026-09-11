@@ -40,5 +40,14 @@ copied the ingress into the body text, so year-on-year comparisons must use
 `Raw data`. Across the window the ingress is 17% of all characters.
 Every removed lead is kept per article in `nolead.json`.
 
+`bin/build_nolead_analytics.py` adds the matching **Analytics (no lead)** tab:
+every 2026 formula repointed to the lead-free raw data, and the 2025 reference
+characters/words replaced by lead-stripped values. 2025 kept no article URLs
+and no markup, so its ingress is removed with a text rule calibrated against
+195 re-fetched 2025 articles (`bin/measure_2025_lead.py`) — 77% exact, 94.7% of
+the ingress words removed, leaving the 2025 side ~1% high. The ingress is 17.2%
+of 2026 characters and 16.2% of 2025 characters, so the year comparison barely
+moves: characters +17.4% with the ingress, +15.9% without.
+
 The capture window closes 2026-09-08; after that every run exits early and
 the schedule can be removed.
