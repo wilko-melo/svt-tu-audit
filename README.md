@@ -27,5 +27,18 @@ Secrets: `GCP_SA_KEY` — service-account key for
 `bin/snapshot_svt.sh` and `bin/daily_ingest.sh` are the earlier local
 (macOS launchd) variants of the same pipeline, kept for reference/backup.
 
+## Body text without the ingress
+
+`bin/build_nolead_tab.py` builds a second tab **Raw data (no lead)** in the
+same spreadsheet: a duplicate of `Raw data` whose column G holds only the
+article body — the bold summary/ingress block at the top (`Lead__root` /
+`TopContainer__lead`, 1-3 short paragraphs, bullet-style on ~48% of the
+articles) is stripped. H/I recompute from G, so chars and words follow.
+
+`Raw data` itself is untouched and stays canonical: the 2025 measurement
+copied the ingress into the body text, so year-on-year comparisons must use
+`Raw data`. Across the window the ingress is 17% of all characters.
+Every removed lead is kept per article in `nolead.json`.
+
 The capture window closes 2026-09-08; after that every run exits early and
 the schedule can be removed.
